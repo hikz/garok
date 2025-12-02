@@ -1,0 +1,12 @@
+Q: Di dalam sebuah kamar tidak ada jendela dan tidak ada pintu. Namun, setiap jam kamu bisa mendengar bunyi 'tik-tok' yang teratur. Benda ini memiliki dua jarum, tetapi tidak bisa menusuk apa pun. Ia terus bekerja tanpa istirahat, bahkan saat kamu tidur.
+A: jam
+DONE:0
+---
+Q: Berapa 2 + 2?
+A: 4|empat
+DONE:0
+---
+Q: Warna langit saat cerah?
+A: biru
+DONE:1
+---
