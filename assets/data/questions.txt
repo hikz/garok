@@ -146,8 +146,132 @@ Q: Aku sering dijemur di bawah sinar Matahari untuk menghilangkan kandungan airk
 A: Beras
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku adalah bagian dari tangan, Berfungsi untuk memegang dan menunjuk, Aku punya kuku dan tiga ruas, Aku dipakai untuk memakai cincin, Salah satu anggota tubuh.
+A: Jari
+DONE:0
+---
+Q: Aku adalah transportasi air, Berukuran besar dan punya kemudi, Dipakai untuk mengangkut barang dan orang, Aku berlayar di sungai dan lautan, Kendaraan yang menggunakan jangkar.
+A: Kapal
+DONE:0
+---
+Q: Aku adalah tempat yang sepi, Berisi banyak batu nisan dan bunga, Tempat orang yang sudah meninggal dikebumikan, Biasanya dikunjungi saat hari raya, Area yang penuh kenangan.
+A: Makam
+DONE:0
+---
+Q: Aku dipakai di jari tangan, Bentukku melingkar dan berkilau, Terbuat dari emas, perak, atau permata, Sering diberikan sebagai hadiah pernikahan, Aksesoris kecil bernilai tinggi.
+A: Cincin
+DONE:0
+---
+Q: Aku punya banyak halaman, Di dalamnya terdapat cerita atau berita, Aku dicetak setiap hari di pagi buta, Aku adalah sumber informasi cetak, Media massa yang terbuat dari kertas.
+A: Koran
+DONE:0
+---
+Q: Aku adalah profesi yang mulia, Aku mengajar di sekolah atau universitas, Aku mentransfer ilmu pengetahuan, Aku dipanggil 'Bapak' atau 'Ibu' oleh murid, Pendidik di garda terdepan.
+A: Guru
+DONE:0
+---
+Q: Aku adalah tempat yang dingin sekali, Aku bisa menyimpan es krim dan sayuran, Aku bekerja menggunakan listrik, Punya freezer dan ruang pendingin, Perkakas dapur untuk mengawetkan makanan.
+A: Kulkas
+DONE:0
+---
+Q: Aku adalah hasil dari tanaman, Dipakai untuk memasak dan menggoreng, Bisa dari kelapa sawit atau jagung, Aku cair dan licin saat dipegang, Bahan dasar membuat keripik renyah.
+A: Minyak
+DONE:0
+---
+Q: Aku adalah hasil alam yang padat, Terbuat dari silika atau mineral, Dipakai untuk membangun atau jadi perhiasan, Aku bisa dipecahkan atau dipahat, Benda keras yang ada di bumi.
+A: Batu
+DONE:0
+---
+Q: Aku adalah hasil fermentasi biji, Dicampur dengan gula dan susu, Rasanya bisa manis atau pahit pekat, Sering diminum saat pagi hari atau begadang, Minuman hangat yang beraroma kuat.
+A: Kopi
+DONE:0
+---
+Q: Aku berukuran kecil dan berharga, Dicari-cari semua orang di dunia, Bisa diwujudkan dalam kertas atau koin, Aku digunakan untuk membeli barang, Alat tukar yang diterima di mana-mana.
+A: Uang
+DONE:0
+---
+Q: Aku adalah tempat berlindung, Punya atap, dinding, dan jendela, Aku melindungi kamu dari hujan dan panas, Aku adalah tempat kamu pulang dan beristirahat, Bangunan sederhana untuk keluarga.
+A: Rumah
+DONE:0
+---
+Q: Aku adalah kumpulan nilai yang tersusun rapi, Setiap nilainya memiliki indeks untuk diakses, Ukuran dan tipe dataku biasanya homogen, Aku adalah struktur data yang paling dasar, Sering dipakai untuk menyimpan daftar panjang data.
+A: Array
+DONE:0
+---
+Q: Aku adalah tempat menyalin kode dari jarak jauh, Di sinilah developer menyimpan dan berbagi kodenya, Aku bisa di-clone atau di-fork oleh orang lain, Aku adalah pusat manajemen versi kode, Sering dikelola menggunakan Git.
+A: Repo
+DONE:0
+---
+Q: Aku adalah instruksi yang diulang-ulang, Dilakukan selama kondisi yang diberikan bernilai benar, Aku bisa menjadi infinite jika salah diatur, Aku menghemat penulisan kode yang repetitif, Sering menggunakan kata kunci while atau for.
+A: Loop
+DONE:0
+---
+Q: Aku adalah tipe data yang menyimpan urutan karakter, Bisa berupa satu huruf, kata, atau kalimat panjang, Harus selalu diapit oleh tanda kutip, Aku adalah data non-numerik, Sering disebut sebagai teks.
+A: String
+DONE:0
+---
+Q: Aku adalah tempat menyimpan nilai, Aku punya nama dan tipe data yang jelas, Nilai saya bisa diubah-ubah selama program berjalan, Aku adalah elemen dasar dalam pemrograman, Lokasi penyimpanan data di memori.
+A: Variabel
+DONE:0
+---
+Q: Aku adalah cairan bening yang jatuh dari langit, Sangat dibutuhkan oleh semua tumbuhan di bumi, Aku bisa turun deras atau hanya gerimis kecil, Aku sering ditampung untuk kebutuhan minum, Fenomena alam yang menghilangkan kemarau.
+A: Hujan
+DONE:0
+---
+Q: Aku adalah sejenis zat yang berbau khas, Aku dipakai sebagai pupuk untuk tumbuhan, Aku sering ditemukan di kandang ternak, Aku berasal dari kotoran hewan, Bahan organik penyubur tanah.
+A: Kotoran
+DONE:0
+---
+Q: Aku adalah alat yang bisa berputar, Aku punya bilah-bilah panjang di tengah, Aku digunakan untuk mendinginkan ruangan, Aku bergerak menggunakan tenaga listrik, Biasanya dipasang di langit-langit atau meja.
+A: Kipas
+DONE:0
+---
+Q: Aku adalah alat bantu di kegelapan, Aku mengeluarkan cahaya dari bohlam, Aku punya saklar untuk menghidupkan dan mematikan, Aku menggunakan listrik sebagai sumber tenaga, Benda yang tergantung di atap rumah.
+A: Lampu
+DONE:0
+---
+Q: Aku adalah benda kecil dan penting, Aku dipakai untuk membuka kunci pintu atau gembok, Aku sering diletakkan di gantungan, Aku terbuat dari logam dan punya banyak gerigi, Alat pembuka rahasia.
+A: Kunci
+DONE:0
+---
+Q: Aku adalah bagian dari tumbuhan yang berwarna-warni, Aku punya aroma yang sangat harum, Aku sering diberikan sebagai hadiah tanda cinta, Aku tumbuh di tangkai yang punya duri, Bunga yang paling populer dan romantis.
+A: Mawar
+DONE:0
+---
+Q: Aku adalah hewan peliharaan yang setia, Aku punya ekor yang sering melambai-lambai, Aku punya suara gonggongan yang nyaring, Aku sering diajak berjalan-jalan di pagi hari, Sahabat baik yang suka makan tulang.
+A: Anjing
+DONE:0
+---
+Q: Aku adalah bongkahan air yang beku,Sangat dingin dan keras seperti batu,Bisa mencair jika terkena panas,Sering dicampurkan ke dalam minuman,Terkadang aku berada di kutub bumi,Memiliki suhu nol derajat Celsius,Wujud padat dari air.
+A: Es
+DONE:0
+---
+Q: Aku adalah bentangan air luas, Rasaku asin dan berwarna biru gelap, Tempat tinggal bagi banyak jenis ikan, Aku punya ombak yang bisa pasang surut, Kapal-kapal besar berlayar di atasku, Aku mencakup lebih dari 70% bumi, Lautan yang tak bertepi.
+A: Laut
+DONE:0
+---
+Q: Aku punya banyak lembaran, Terbuat dari kayu yang diolah, Di dalamnya terdapat tulisan atau gambar, Aku bisa dibaca dan membuka wawasan, Sering ada di perpustakaan atau rak, Aku adalah sumber ilmu pengetahuan, Media cetak yang dijilid.
+A: Buku
+DONE:0
+---
+Q: Aku adalah alat dari kaca atau plastik, Dipakai untuk menampung cairan, Aku punya pegangan di sampingku, Sering dipakai saat minum kopi atau teh, Aku harus dicuci setelah digunakan, Benda yang tidak pernah penuh selamanya, Tempat minum berkapasitas kecil.
+A: Gelas
+DONE:0
+---
+Q: Aku punya kaca yang memantul, Aku menunjukkan bayangan dirimu, Dipakai saat kamu merapikan diri, Aku bisa berukuran kecil atau sangat besar, Bentukku persegi atau lingkaran, Sering digantung di kamar atau kamar mandi, Benda yang jujur.
+A: Cermin
+DONE:0
+---
+Q: Aku adalah benda yang lembut dan empuk, Aku dipakai saat kamu tidur nyenyak, Aku diletakkan di atas kasur, Aku bisa diisi kapas atau busa, Sering dipeluk atau jadi sandaran kepala, Aku memiliki banyak sarung, Teman tidur yang nyaman.
+A: Bantal
+DONE:0
+---
+Q: Aku adalah alat yang tajam, Aku punya mata pisau dan pegangan, Dipakai untuk memotong kertas atau kain, Aku harus dijauhkan dari anak kecil, Aku punya dua lubang untuk jari, Benda yang berpasangan dan bergerak menyilang, Perkakas pemotong.
+A: Gunting
+DONE:0
+---
+Q: Aku adalah hasil olahan susu sapi, Aku punya rasa gurih dan sangat creamy, Aku bisa dilelehkan di atas roti panggang, Aku adalah sumber kalsium yang baik, Bentukku kotak atau lingkaran besar, Aku sering dimakan bersama spaghetti, Makanan padat berwarna kuning.
+A: Keju
 DONE:0
 ---
 Q: 
@@ -226,4 +350,61 @@ Q:
 A: 
 DONE:0
 ---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+
 
