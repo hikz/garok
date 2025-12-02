@@ -18,4 +18,7 @@ Q: Bayangkan kamu sedang menggali sebuah lubang di tanah. Setiap sekop tanah yan
 A: Lubang
 DONE:0
 ---
-
+Q: Aku punya banyak gigi, tapi aku tidak pernah makan. Aku selalu digunakan untuk merapikan rambutmu.
+A: Sisir
+DONE:0
+---
