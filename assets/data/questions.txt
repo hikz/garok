@@ -1,24 +1,125 @@
 Q: Di dalam sebuah kamar tidak ada jendela dan tidak ada pintu. Namun, setiap jam kamu bisa mendengar bunyi 'tik-tok' yang teratur. Benda ini memiliki dua jarum, tetapi tidak bisa menusuk apa pun. Ia terus bekerja tanpa istirahat, bahkan saat kamu tidur.
-A: jam
+A: Jam
 DONE:0
 ---
-Q: Berapa 2 + 2?
-A: 4|empat
+Q: Aku adalah perangkat keras yang seringkali diletakkan di atas meja, memiliki layar, papan ketik, dan otak pemroses data yang canggih di dalamnya. Aku digunakan untuk bekerja, bermain, hingga berselancar di internet. Aku adalah alat komputasi yang pertama kali populer.
+A: Komputer
 DONE:0
 ---
-Q: Warna langit saat cerah?
-A: biru
+Q: Aku adalah lapisan pelindung yang sangat penting bagi bangunan, melindungi bagian dalam rumah dari panas matahari dan hujan deras. Aku bisa terbuat dari genteng, seng, atau beton, dan aku harus dipasang miring agar air mengalir. Aku adalah bagian teratas dari sebuah rumah.
+A: Atap
 DONE:0
 ---
-Q: Warna baju prabowo ?
-A: kuning
+Q: Aku terbuat dari karet yang tebal dan memiliki lubang untuk mengembuskan udara, dan aku sering ditiup hingga membesar lalu diikat sebelum digunakan untuk menghias pesta. Aku bisa terbang ke atas jika diisi dengan gas helium. Aku adalah mainan yang identik dengan perayaan.
+A: Balon
 DONE:0
 ---
 Q: Bayangkan kamu sedang menggali sebuah lubang di tanah. Setiap sekop tanah yang kamu angkat membuat lubang itu semakin besar. Semakin banyak tanah yang kamu ambil, semakin luas ruang kosong yang terbentuk.
 A: Lubang
 DONE:0
 ---
-Q: Aku punya banyak gigi, tapi aku tidak pernah makan. Aku selalu digunakan untuk merapikan rambutmu.
-A: Sisir
+Q: Aku adalah perangkat yang penting di setiap rumah, seringkali diletakkan di ruang tamu dengan bingkai yang besar. Fungsinya adalah menangkap siaran dan menampilkan gambar bergerak serta suara. Aku adalah sumber utama hiburan dan informasi.
+A: Televisi
 DONE:0
 ---
+Q: Aku terbuat dari kaca yang keras dan seringkali diletakkan di dinding, memantulkan citra apa adanya di hadapanku. Aku tidak pernah berbohong tentang penampilanmu saat itu juga. Keberadaanku sering membuat orang menghabiskan waktu lebih lama untuk bersiap-siap.
+A: Cermin
+DONE:0
+---
+Q: Aku adalah alat kecil berbentuk silinder yang diisi dengan bubuk peledak, dan aku memiliki sumbu yang harus dinyalakan. Aku sering digunakan untuk menyalakan lilin, kompor gas, atau rokok, dan aku bisa menghasilkan api kecil yang terkontrol. Aku adalah penolong utama saat listrik padam.
+A: Korek
+DONE:0
+---
+Q: Aku adalah wadah persegi panjang yang sangat umum digunakan di sekolah atau kantor untuk menampung berbagai alat tulis seperti pulpen, pensil, dan penghapus. Aku bisa terbuat dari kain atau plastik, dan seringkali memiliki ritsleting penutup. Aku membantumu menjaga kerapian.
+A: Kotak
+DONE:0
+---
+Q: Aku adalah benda yang terbuat dari bahan kedap udara seperti logam atau aluminium, dan aku menampung cairan berkarbonasi atau berasa di dalamnya. Agar isiku bisa dinikmati, kamu harus menekan atau menarik bagian atasku hingga terbuka. Aku mudah dibawa ke mana-mana.
+A: Kaleng
+DONE:0
+---
+Q: Aku adalah benda yang berbentuk bundar, terbuat dari karet yang diisi dengan udara bertekanan, dan aku adalah bagian utama dari sebuah kendaraan, baik itu sepeda atau mobil. Aku memungkinkan kendaraan bergerak maju dengan lancar. Tanpaku, perjalanan akan terhenti.
+A: Ban
+DONE:0
+---
+Q: Aku adalah hasil dari uap air yang naik ke atmosfer, berkumpul dalam gumpalan besar yang terlihat lembut dan putih, atau terkadang kelabu dan mengancam. Keberadaanku di langit adalah pertanda yang jelas bagi kondisi cuaca yang akan datang. Aku seringkali disebut sebagai 'kasur' para dewa.
+A: Awan
+DONE:0
+---
+Q: Aku adalah perasaan yang muncul ketika harapan seseorang tidak tercapai, atau ketika sebuah janji tidak ditepati, sebuah emosi yang membuat hati terasa berat dan hampa. Aku bisa terjadi karena hal-hal kecil atau besar. Aku seringkali diikuti dengan keinginan untuk menyerah.
+A: Kecewa
+DONE:0
+---
+Q: Aku adalah kumpulan kristal air yang turun dari langit dalam kondisi suhu yang sangat dingin, setiap kristalku memiliki bentuk yang unik dan tidak ada yang sama persis satu sama lain. Aku menyelimuti permukaan tanah dengan lapisan putih yang tebal. Aku identik dengan musim dingin yang ekstrem.
+A: Salju
+DONE:0
+---
+Q: Aku adalah kondisi pikiran yang membuatmu merasa sangat gembira, ceria, dan penuh energi positif, sebuah keadaan emosional yang seringkali membuatmu ingin tertawa. Aku bisa disebabkan oleh kabar baik atau keberhasilan. Aku sangat menular kepada orang di sekitarku.
+A: Bahagia
+DONE:0
+---
+Q: Aku adalah tempat yang luas, dalam, dan seringkali gelap, yang dipenuhi oleh air asin dan menyimpan misteri kehidupan bawah laut yang tak terhitung jumlahnya. Aku memisahkan benua-benua, dan pergerakanku memengaruhi pasang surut. Aku menutupi sebagian besar permukaan bumi.
+A: Samudra
+DONE:0
+---
+Q: Aku adalah sifat yang dimiliki oleh seseorang yang merasa dirinya lebih unggul atau penting dibandingkan orang lain, seringkali ditunjukkan dengan sikap yang sombong. Aku membuat seseorang sulit untuk menerima kritik. Aku adalah kebalikan dari rendah hati.
+A: Sombong
+DONE:0
+---
+Q: Aku adalah fenomena alam yang terjadi saat malam hari berupa kilatan cahaya yang sangat terang dan cepat yang merobek langit gelap selama badai petir. Aku selalu diikuti oleh bunyi gemuruh keras yang datang beberapa saat kemudian. Aku sangat indah sekaligus menakutkan.
+A: Petir
+DONE:0
+---
+Q: Aku adalah kemampuan untuk tetap tenang dan tidak terburu-buru dalam menghadapi masalah, menunda reaksi impulsif, dan memberikan waktu untuk berpikir. Aku adalah kualitas yang sangat berharga ketika berhadapan dengan situasi yang menekan. Tanpaku, keputusan seringkali berujung penyesalan.
+A: Sabar
+DONE:0
+---
+Q: Aku adalah gas yang tidak terlihat, tidak berbau, dan tidak memiliki rasa, namun keberadaanku sangat vital bagi kelangsungan hidup semua makhluk. Aku memenuhi atmosfer bumi dan kita selalu menarikku ke dalam paru-paru setiap saat. Aku sering disebut sebagai hasil dari fotosintesis.
+A: Oksigen
+DONE:0
+---
+Q: Aku adalah tindakan mengakui bahwa kamu telah melakukan sesuatu yang salah atau melanggar aturan, sebuah langkah awal yang penting menuju perbaikan diri. Aku seringkali membutuhkan keberanian besar dan kerendahan hati untuk diucapkan. Aku biasanya diikuti dengan janji untuk tidak mengulangi kesalahan.
+A: Maaf
+DONE:0
+---
+Q: Aku adalah bentuk energi yang berasal dari pergerakan udara di atmosfer, seringkali terasa sejuk dan menyegarkan di hari yang panas. Aku bisa dimanfaatkan untuk menggerakkan kincir angin guna menghasilkan listrik. Aku sering membawa debu dan daun kering terbang jauh.
+A: Angin
+DONE:0
+---
+Q: Aku adalah kondisi di mana kamu berada di tempat yang tidak kamu kenal, tidak ada orang yang familiar di sekitarmu, dan kamu merasa terpisah dari segala sesuatu yang biasa kamu ketahui. Aku adalah perasaan yang sering dirasakan oleh para perantau. Aku sering membuat orang mencari kehadiran orang lain.
+A: Sendiri
+DONE:0
+---
+Q: Aku adalah makhluk hidup yang terbagi menjadi banyak spesies, aku tumbuh dari tanah dan menggunakan fotosintesis untuk membuat makananku sendiri. Aku memiliki akar, batang, daun, dan terkadang bunga yang indah. Aku adalah dasar dari rantai makanan.
+A: Tumbuhan
+DONE:0
+---
+Q: Aku adalah sifat yang ditunjukkan oleh orang yang memiliki hati yang terbuka dan suka memberikan apa yang mereka miliki kepada orang lain tanpa mengharapkan imbalan. Aku bisa diwujudkan dalam bentuk pemberian materi, waktu, atau tenaga. Orang yang memilikiku sering dicintai.
+A: Dermawan
+DONE:0
+___
+Q: Aku adalah tempat alami yang tinggi menjulang ke langit, puncaknya seringkali tertutup kabut atau bahkan salju di daerah dingin. Aku terbentuk dari pergerakan lempeng tektonik bumi. Aku adalah sumber dari banyak sungai.
+A: Gunung
+DONE:0
+---
+Q: Aku adalah kondisi yang dirasakan ketika seseorang tidak memiliki cukup uang atau sumber daya untuk memenuhi kebutuhan dasarnya, sebuah keadaan yang seringkali membuat hidup menjadi sulit. Aku adalah masalah sosial dan ekonomi yang berusaha diatasi. Aku ditandai dengan kurangnya akses terhadap pangan.
+A: Miskin
+DONE:0
+---
+Q: Aku adalah lapisan udara pelindung yang menyelubungi planet bumi, yang berfungsi menjaga suhu agar tetap stabil. Aku terdiri dari berbagai macam gas, dan perubahanku yang terus-menerus adalah yang menyebabkan berbagai fenomena cuaca. Aku selalu ada di sekitarmu.
+A: Atmosfer
+DONE:0
+---
+Q: Aku adalah perasaan yang muncul ketika kamu merasa ada bahaya atau ancaman yang akan datang, dan aku seringkali membuat jantungmu berdebar kencang. Aku adalah reaksi alami tubuh untuk bertahan hidup, dan aku bisa membuatmu ingin berlari atau bersembunyi. Aku kebalikan dari rasa aman.
+A: Takut
+DONE:0
+---
+Q: Aku adalah cairan yang tidak berwarna, tidak berbau, dan tidak memiliki rasa, namun sangat penting untuk kelangsungan hidup semua makhluk. Aku bisa ditemukan dalam bentuk cair, padat (es), atau gas (uap). Aku menutupi hampir tiga per tiga permukaan planet ini.
+A: Air
+DONE:0
+---
+Q: Aku adalah perasaan yang timbul saat kamu mendambakan kembali sesuatu atau seseorang yang jauh atau sudah tidak ada lagi, sebuah emosi yang membuat hati terasa berat dan hampa. Aku seringkali muncul saat kamu melihat foto atau tempat yang mengingatkan pada masa lalu. Aku adalah kerinduan yang mendalam.
+A: Rindu
+DONE:0
+---
+
