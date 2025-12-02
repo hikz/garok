@@ -14,4 +14,8 @@ Q: Warna baju prabowo ?
 A: kuning
 DONE:0
 ---
+Q: Bayangkan kamu sedang menggali sebuah lubang di tanah. Setiap sekop tanah yang kamu angkat membuat lubang itu semakin besar. Semakin banyak tanah yang kamu ambil, semakin luas ruang kosong yang terbentuk.
+A: Lubang
+DONE:0
+---
 
