@@ -8,5 +8,10 @@ DONE:0
 ---
 Q: Warna langit saat cerah?
 A: biru
-DONE:1
+DONE:0
 ---
+Q: Warna baju prabowo ?
+A: kuning
+DONE:0
+---
+
