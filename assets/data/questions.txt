@@ -122,4 +122,108 @@ Q: Aku adalah perasaan yang timbul saat kamu mendambakan kembali sesuatu atau se
 A: Rindu
 DONE:0
 ---
+Q: Aku bersinar sangat terang di siang hari, dan aku memberikan semua panas serta energi. Aku adalah pusat dari tata surya, dan tanpaku, Bumi akan menjadi gelap dan dingin. Aku sering diibaratkan sebagai sumber kehidupan dan kebahagiaan yang utama. Terkadang orang mengenakan kacamata gelap agar tidak silau melihatku.
+A: Matahari
+DONE:0
+---
+Q: Aku bergerak tanpa henti mengelilingi Bumi setiap malam, dan cahayaku hanya pantulan. Bentukku selalu berubah, mulai dari sabit tipis hingga lingkaran penuh yang bersinar. Aku mempengaruhi air laut, menyebabkan pasang naik dan pasang surut di pantai. Aku adalah satu-satunya satelit alami yang dimiliki planet kita.
+A: Bulan
+DONE:0
+---
+Q: Aku adalah sejenis sayuran yang bisa membuatmu menangis saat dipotong. Aku bisa digunakan untuk bumbu dasar dalam hampir setiap masakan di dunia. Aku memiliki banyak lapisan, tetapi bukan sebuah kue yang manis. Warna kulitku bisa putih atau merah keunguan, dan rasaku tajam.
+A: Bawang
+DONE:0
+---
+Q: Aku memiliki leher panjang dan biasanya berjalan dengan sangat anggun. Aku tidak bisa berbicara tetapi sering mengeluarkan suara mendesis yang keras. Aku adalah hewan air yang identik dengan cinta dan kesetiaan sejati. Aku berenang di danau dan taman, buluku berwarna putih bersih atau hitam pekat.
+A: Angsa
+DONE:0
+---
+Q: Aku memiliki banyak gigi, tetapi aku tidak pernah bisa makan apa pun. Aku terbuat dari plastik atau kayu, dan sering digunakan di kamar mandi. Tugasku adalah merapikan rambutmu yang berantakan setelah bangun tidur. Aku seringkali hilang atau terselip entah di mana. 
+A: Sisir
+DONE:0
+---
+Q: Aku sering dijemur di bawah sinar Matahari untuk menghilangkan kandungan airku. Aku adalah sumber karbohidrat utama yang dimakan oleh hampir seluruh penduduk Asia. Bentukku lonjong kecil, dan warnaku biasanya putih sebelum dimasak. Aku akan mengembang setelah direbus atau ditanak.
+A: Beras
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
+Q: 
+A: 
+DONE:0
+---
 
