@@ -274,8 +274,68 @@ Q: Aku adalah hasil olahan susu sapi, Aku punya rasa gurih dan sangat creamy, Ak
 A: Keju
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku adalah benda yang tipis, Aku terbuat dari kayu yang diolah, Aku dipakai untuk menulis, Aku bisa dilipat dan disobek, Aku sering dipakai untuk bungkus kado, Aku adalah media cetak.
+A: Kertas
+DONE:0
+---
+Q: Aku adalah hasil dari tanaman, Aku punya rasa asam atau pedas, Aku dipakai untuk bumbu masakan, Aku adalah daun atau buah kecil, Aku membuat masakan jadi sedap, Aku adalah rahasia para juru masak, Perasa masakan.
+A: Rempah
+DONE:0
+---
+Q: Aku adalah tempat yang tinggi, Aku sering terlihat saat pendakian, Aku punya puncak yang runcing, Aku ditutupi oleh hutan dan awan, Aku adalah ikon dari alam, Aku adalah lawan dari dataran rendah.
+A: Gunung
+DONE:0
+---
+Q: Aku adalah tindakan menulis, Aku dilakukan dengan tangan dan alat, Aku menghasilkan sebuah catatan, Aku sering dilakukan di kelas, Aku adalah lawan dari membaca, Aku adalah proses merekam huruf, Mencatat.
+A: Menulis
+DONE:0
+---
+Q: Aku adalah tindakan memotret, Aku merekam momen dengan cahaya, Aku menggunakan kamera untuk bekerja, Aku menghasilkan sebuah gambar, Aku sering dilakukan saat liburan, Aku adalah hobi yang populer, Merekam visual.
+A: Foto
+DONE:0
+---
+Q: Aku adalah benda yang bundar, Aku punya banyak angka di tepiku, Aku dipakai untuk mengukur berat, Aku sering ada di kamar mandi, Aku harus dipijak dengan kedua kaki, Aku bisa berupa analog atau digital, Alat ukur massa.
+A: Timbangan
+DONE:0
+---
+Q: Aku adalah tindakan berjalan, Aku adalah cara bergerak ke depan, Aku menggunakan kedua kakimu, Aku adalah lawan dari berlari, Aku dilakukan dengan langkah-langkah kecil, Aku sering dilakukan di pagi hari, Berpindah tempat.
+A: Jalan
+DONE:0
+---
+Q: Aku adalah hasil dari lebah, Rasaku manis dan teksturku lengket, Aku sering dipakai sebagai obat, Aku berwarna kuning keemasan, Aku disimpan dalam sarang, Aku adalah cairan alami yang berkhasiat, Pemanis alami.
+A: Madu
+DONE:0
+---
+Q: Aku adalah tindakan mendengarkan, Aku membuatmu mengerti orang lain, Aku sering dihubungkan dengan telinga, Aku adalah keterampilan sosial yang baik, Aku adalah lawan dari berbicara, Aku adalah proses menerima informasi, Proses mendengar.
+A: Simak
+DONE:0
+---
+Q: Aku adalah keadaan di malam hari, Aku tidak punya cahaya sedikitpun, Aku adalah waktu untuk beristirahat, Aku lawan dari siang hari, Aku sering dihubungkan dengan misteri, Aku ditandai dengan munculnya bulan, Kegelapan.
+A: Malam
+DONE:0
+---
+Q: Aku adalah umbi yang punya mata, Aku sering digoreng menjadi keripik atau kentang wedge, Aku tumbuh di dalam tanah, Aku adalah sumber karbohidrat penting, Aku sering jadi pendamping steak, Warnaku cokelat saat belum dikupas, Bukan singkong atau ubi.
+A: Kentang
+DONE:0
+---
+Q: Aku adalah benda yang sangat manis, Aku bisa membuat semut datang, Aku terbuat dari tebu yang diolah, Aku adalah pemanis alami, Aku berbentuk kristal kecil berwarna putih, Aku sering dipakai untuk membuat sirup, Pasangan setia kopi.
+A: Gula
+DONE:0
+---
+Q: Aku punya tombol-tombol huruf, Aku dipakai untuk mengetik di komputer, Aku adalah input device utama, Aku sering diletakkan di meja, Aku punya tombol space yang panjang, Aku bisa mengeluarkan suara 'klik-klak', Papan ketik.
+A: Keyboard
+DONE:0
+---
+Q: Aku adalah sebuah janji, Aku harus ditepati agar orang percaya, Aku bisa diucapkan atau ditulis, Aku sangat penting dalam hubungan, Jika aku hilang, sulit didapatkan lagi, Aku adalah fondasi dari semua hubungan, Keyakinan.
+A: Kepercayaan
+DONE:0
+---
+Q: Aku adalah sebuah penyakit, Aku disebabkan oleh virus, Aku membuatmu batuk dan pilek, Aku sering terjadi saat musim hujan, Aku membuat badanmu demam, Aku bisa sembuh dengan istirahat.
+A: Flu
+DONE:0
+---
+Q: Aku adalah tindakan mengambil, Aku dilakukan dengan tanganmu, Aku adalah lawan dari memberi, Aku bisa berupa uang atau barang, Aku sering dihubungkan dengan pencuri, Aku adalah tindakan melawan hukum, Mengambil.
+A: Curi
 DONE:0
 ---
 Q: 
@@ -346,65 +406,6 @@ Q:
 A: 
 DONE:0
 ---
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
+
 
 
