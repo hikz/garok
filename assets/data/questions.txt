@@ -655,74 +655,359 @@ Q: Aku adalah gerakan yang cepat, Aku punya kecepatan yang sangat tinggi, Aku se
 A: Cepat
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah tempat yang sunyi, penuh dengan pahlawan dan penjahat, raja dan budak, yang semuanya diam selamanya. Saya menjaga rahasia kuno yang telah lama terlupakan. Anda harus menggali dalam-dalam untuk menemukan cerita saya. Saya adalah fondasi bagi setiap kehidupan di darat. Siapakah saya?
+A: Bumi
 DONE:0
 ---
-Q:
-A:
+Q: Saya memiliki tubuh, tetapi tidak ada organ. Saya memiliki mulut, tetapi tidak pernah berbicara. Saya memeluk cairan panas di musim dingin, dan cairan dingin di musim panas. Saya bisa terbuat dari keramik, kaca, atau logam. Saya adalah teman setia di pagi hari. Siapakah saya?
+A: Cangkir
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah hutan yang penuh dengan tiang dan garis, tetapi tidak ada pohon. Saya hanya memiliki satu penduduk, yaitu laba-laba kecil yang bekerja keras. Saya digunakan untuk menjebak kata-kata dan gambar di atas selembar kertas. Saya membutuhkan tinta untuk berfungsi, dan saya membuat setiap tulisan terlihat rapi. Siapakah saya?
+A: Mesin tik
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah sesuatu yang Anda dambakan, tetapi Anda tidak bisa meminumnya, memakainya, atau memakannya. Saya bisa memberi Anda kenyamanan palsu. Saya terlihat seperti emas, tetapi tidak memiliki nilai intrinsik. Saya adalah tujuan bagi banyak orang, dan bagi sebagian orang, saya adalah segalanya. Namun, jika saya hilang, nilai Anda yang sebenarnya akan terungkap. Siapakah saya?
+A: Ketenaran
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah sesuatu yang Anda miliki tetapi Anda tidak dapat melihat atau menyentuhnya. Saya bertambah panjang seiring waktu, dan jika Anda mengabaikan saya, saya bisa menjadi beban yang berat. Saya dapat dilunasi secara perlahan, dan seringkali Anda harus bekerja keras untuk mengurangi jumlah saya. Setiap pinjaman atau kesalahan menciptakan saya. Siapakah saya?
+A: Hutang
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah jaringan kabel dan gelombang yang menghubungkan seluruh dunia. Saya dapat mengirimkan berita dan hiburan secara instan. Saya memiliki saluran, tetapi tidak ada air. Saya dapat menampilkan gambar bergerak dari peristiwa yang terjadi ribuan mil jauhnya. Orang-orang menonton saya setiap malam di ruang keluarga mereka. Siapakah saya?
+A: Televisi
 DONE:0
 ---
-Q:
-A:
+Q: Saya memiliki kunci, tetapi tidak bisa membuka pintu. Saya memiliki ruang, tetapi tidak ada kamar untuk ditinggali. Orang-orang menyimpan kekayaan dan rahasia mereka di dalam saya. Saya bisa terbuat dari kulit, kain, atau plastik. Saya sering dibawa bepergian, tetapi tujuan saya adalah untuk menampung, bukan untuk berpindah. Siapakah saya?
+A: Dompet
 DONE:0
 ---
-Q:
-A:
+Q: Saya tidak punya kaki, tapi saya bergerak. Saya tidak punya tangan, tapi saya bisa memukul pantai. Saya tidak punya mulut, tapi saya selalu bergumam. Saya bisa menenangkan atau menghancurkan. Saya mengisi sebagian besar planet, namun saya tidak bisa diminum oleh banyak orang. Siapakah saya?
+A: Lautan
 DONE:0
 ---
-Q:
-A:
+Q:Aku menangkap cahaya dan membekukannya dalam sekejap. Aku mencatat momen-momen yang berlalu, mengubahnya menjadi kenangan abadi. Aku bisa berukuran kecil, menempel di dinding, atau memenuhi album. Orang-orang melihatku dan dapat kembali ke masa lalu. Aku tidak bersuara, tetapi ceritaku sangat keras. Siapakah aku? 
+A: foto
 DONE:0
 ---
-Q:
-A:
+Q: Aku punya akar yang bercabang, tetapi aku tidak membutuhkan air atau tanah untuk tumbuh. Aku menjangkau setiap benua, tetapi tidak memiliki batang. Saya penuh dengan informasi, tetapi saya tidak memiliki otak. Saya bisa menjadi tempat terbaik untuk mencari pengetahuan, atau tempat terburuk untuk membuang waktu. Siapakah aku?
+A: Internet
 DONE:0
 ---
-Q:
-A:
+Q: Aku adalah kendaraan yang bisa membawa Anda keliling dunia dan melintasi waktu, tetapi aku tidak memiliki roda atau mesin. Aku terbuat dari kertas dan tinta, dan aku berbicara tanpa suara. Setiap perjalanan yang kutawarkan berbeda, dan tiketnya hanyalah imajinasi Anda. Siapakah aku?
+A: Novel
 DONE:0
 ---
-Q:
-A:
+Q:Saya adalah kotak besar yang menjaga kebekuan di dalam diri saya, meskipun suhu di luar panas. Saya menyimpan makanan untuk waktu yang lama. Saya membuat minuman Anda tetap dingin. Saya memiliki pintu, tetapi tidak pernah bisa meninggalkan rumah. Ketika saya berhenti bekerja, semua orang panik. Siapakah saya? 
+A: Kulkas
 DONE:0
 ---
-Q:
-A:
+Q: Saya tidak punya tangan, tetapi saya bisa melukis seluruh langit dengan warna-warna cerah di pagi dan sore hari. Saya tidak punya mulut, tetapi saya mengumumkan datangnya hari baru. Saya adalah pemandangan paling spektakuler yang Anda lihat setiap hari, tetapi Anda sering mengabaikan saya. Siapakah saya?
+A: matahari
 DONE:0
 ---
-Q:
-A:
+Q: Aku adalah hal yang paling berharga yang dimiliki setiap orang, tetapi aku diberikan secara gratis. Setelah hilang, aku tidak akan pernah bisa dikembalikan, tidak peduli seberapa banyak uang yang Anda miliki. Aku tidak bisa disimpan atau dihentikan. Siapakah aku?
+A: Waktu
 DONE:0
 ---
-Q:
-A:
+Q: Aku dikelilingi oleh air, tetapi tidak memiliki pantai. Aku seringkali diserang, tetapi tidak ada yang terluka. Aku adalah tempat yang penting bagi kapal dan navigasi. Aku dapat hidup tanpa daratan, tetapi tidak dapat hidup tanpa cahaya. Siapakah aku?
+A: Mecusuar
 DONE:0
 ---
-Q:
-A:
+Q: Aku adalah barisan tiang besi di samping jalan raya, selalu berjejer dalam antrian. Aku membawa energi yang tidak terlihat dari satu tempat ke tempat lain, tetapi aku sendiri tidak punya tenaga. Jika aku tumbang, seluruh kota bisa gelap. Siapakah aku?
+A: Tiang Listrik
 DONE:0
 ---
-Q:
-A:
+Q: Aku tidak memiliki pita suara, tetapi aku bisa menciptakan melodi yang indah dan kuat. Aku memiliki dawai, tetapi tidak pernah bisa mengikat apa pun. Aku harus dipegang dan dipetik untuk bersuara, dan aku terbuat dari kayu yang telah mati. Siapakah aku?
+A: Gitar
 DONE:0
 ---
+Q: Aku adalah tempat yang memiliki banyak ruangan dan lorong, tetapi tidak ada pintu atau dinding permanen. Aku terbuat dari kulit dan tulang. Aku menampung organ paling penting yang membuatmu berpikir. Siapakah aku?
+A: Otak
+DONE:0
+---
+Q: Saya memiliki gunung dan lembah, tetapi tidak ada batu besar. Saya adalah sebuah buku yang terus dicorat-coret setiap hari. Saya dapat menyimpan janji dan rencana Anda. Jika Anda melupakan saya, Anda mungkin melewatkan hal yang sangat penting. Siapakah saya?
+A: Agenda
+DONE:0
+---
+Q: Aku adalah makhluk yang menghabiskan masa mudaku dengan berenang dan harus merangkak ke darat untuk menyelesaikan pertumbuhanku. Aku bernapas melalui insang saat kecil, dan dengan paru-paru saat dewasa. Suaraku sering terdengar saat malam hujan, dan kulitku licin dan dingin. Siapakah aku?
+A: Katak
+DONE:0
+---
+Q: Saya memiliki tubuh yang besar dan berat. Saya sering digerogoti oleh cuaca selama ribuan tahun. Saya adalah sumber batu yang kuat dan tinggi. Anda dapat mendaki saya, tetapi Anda tidak dapat menanam apa pun di puncak saya. Saya adalah simbol keagungan bumi. Siapakah saya?
+A: Gunung Batu
+DONE:0
+---
+Q: Saya adalah selimut putih dan lembut yang menutupi tanah, membuat jalanan menjadi licin dan kota menjadi sunyi. Saya terbuat dari air beku, tetapi tidak dapat diminum. Anak-anak suka membentuk saya menjadi bola atau membuat patung dari saya. Siapakah saya?
+A: Salju
+DONE:0
+---
+Q: Aku adalah bagian dari setiap pohon, tetapi aku tidak memiliki daun. Aku adalah jalanku sendiri untuk mencari air di dalam tanah yang gelap. Aku menahan struktur di tempatnya, mencegahnya roboh. Semakin dalam aku pergi, semakin aman pohon itu. Siapakah aku?
+A: Akar pohon
+DONE:0
+---
+Q: Aku adalah pemandangan yang indah dan penuh warna yang hanya muncul setelah pertengkaran antara matahari dan air. Aku adalah lingkaran agung yang tidak bisa disentuh oleh manusia. Aku adalah pembuktian bahwa cahaya dapat dibagi menjadi spektrum. Siapakah aku?
+A: Pelangi
+DONE:0
+---
+Q: Aku adalah pemandangan yang indah dan penuh warna yang hanya muncul setelah pertengkaran antara matahari dan air. Aku adalah lingkaran agung yang tidak bisa disentuh oleh manusia. Aku adalah pembuktian bahwa cahaya dapat dibagi menjadi spektrum. Siapakah aku?
+A: Sungai
+DONE:0
+---
+Q:Aku adalah permata kecil yang berharga, terbentuk di dalam tubuh makhluk laut. Aku sangat berkilau dan dicari oleh manusia untuk perhiasan. Aku membutuhkan waktu lama untuk terbentuk dan seringkali ditemukan di tempat yang sulit dijangkau. Siapakah aku? 
+A: Mutiara
+DONE:0
+---
+Q: Aku adalah tempat yang sunyi dan luas, penuh dengan pasir dan tanpa air yang jelas. Perjalanan melintasiku bisa mematikan. Aku sangat panas di siang hari dan sangat dingin di malam hari. Aku hanya menampung sedikit kehidupan. Siapakah aku?
+A: Gurun pasir
+DONE:0
+---
+Q: Aku adalah siklus yang tidak pernah berakhir, di mana air jatuh dari langit, mengalir, dan kemudian naik kembali, menghilang menjadi uap. Aku memastikan semua kehidupan di bumi mendapatkan minumannya. Siapakah aku?
+A: Siklus air
+DONE:0
+---
+Q: Aku adalah benda yang Anda temukan di pantai, ditinggalkan oleh laut. Aku memiliki suara yang dapat menenangkan jika Anda menempelkan saya ke telinga Anda, seolah-olah Anda mendengar ombak. Aku terbuat dari kalsium karbonat dan dulunya adalah rumah bagi makhluk hidup. Siapakah aku?
+A: Cangkang kerang
+DONE:0
+---
+Q: Saya adalah tempat yang penuh dengan kamar dan lorong, dapur dan kolam renang. Saya membawa ribuan orang melintasi lautan. Saya tidak memiliki sayap, tetapi saya melakukan perjalanan jauh. Saya adalah hotel raksasa yang tidak pernah berdiri di satu tempat. Siapakah saya?
+A: Kapal pesiar
+DONE:0
+---
+Q: Saya adalah jalan yang panjang dan berliku, terbuat dari aspal atau beton. Saya tidak memiliki kaki, tetapi saya membawa semua mobil dari satu tempat ke tempat lain. Saya memiliki garis-garis yang membagi saya, tetapi saya tidak pernah bertengkar. Saya adalah arteri bagi kota. Siapakah saya?
+A: Jalan raya
+DONE:0
+---
+Q: Saya adalah hal yang Anda kenakan di atas kertas saat Anda tidak memiliki pena. Saya meninggalkan jejak abu-abu yang dapat dihapus dengan mudah jika Anda membuat kesalahan. Saya adalah alat yang Anda gunakan di sekolah. Siapakah saya?
+A: Pensil
+DONE:0
+---
+Q: Saya memiliki tubuh yang kaku dan ramping. Saya sering terbuat dari logam dan berada di dalam laci di dapur Anda. Saya digunakan untuk memindahkan makanan dari piring ke mulut, tetapi saya sendiri tidak pernah makan. Siapakah saya?
+A: Sendok
+DONE:0
+---
+Q: Saya adalah permukaan yang memancarkan cahaya, menunjukkan gambar bergerak, dan menampilkan teks. Saya ada di ponsel Anda, tablet Anda, dan komputer Anda. Anda menyentuh saya untuk berinteraksi dengan dunia digital. Siapakah saya?
+A: Layar
+DONE:0
+---
+Q: Saya adalah wadah yang dipasang di mulut Anda, menangkap getaran suara Anda dan mengubahnya menjadi sinyal listrik. Saya memungkinkan Anda untuk berbicara kepada audiens besar atau ke orang lain melalui sambungan jarak jauh. Siapakah saya?
+A: Mikrofon
+DONE:0
+---
+Q: Saya adalah benda kecil yang sering ditemukan di dinding. Saya dikendalikan dengan satu ketukan. Ketika saya naik, ruangan menjadi terang. Ketika saya turun, ruangan menjadi gelap. Saya menghubungkan listrik. Siapakah saya?
+A: Saklar lampu
+DONE:0
+---
+Q: Saya adalah alat yang digunakan untuk menyatukan dua lembar kertas atau lebih. Saya memiliki mulut yang menggigit dan menggunakan potongan kawat kecil yang tajam. Setelah pekerjaan saya selesai, sulit untuk memisahkan kertas tanpa merobeknya. Siapakah saya?
+A: Stapler
+DONE:0
+---
+Q: Saya adalah hal yang paling ditakuti oleh orang-orang yang berkuasa. Saya tidak memiliki senjata, tetapi saya bisa menjatuhkan kerajaan. Saya menyebar dari mulut ke mulut, di media sosial, dan di koran. Saya adalah kebenaran yang tidak bisa dihentikan. Siapakah saya?
+A: Kebenaran
+DONE:0
+---
+Q: Saya adalah benda kecil dan panjang yang dapat Anda gulung. Saya digunakan untuk mengukur panjang meja, kain, atau tinggi seseorang. Saya memiliki angka-angka yang berjejer dalam satuan sentimeter atau inci. Saya adalah alat wajib bagi tukang kayu dan penjahit. Siapakah saya?
+A: Meteran
+DONE:0
+---
+Q: Saya memiliki tubuh dari kayu atau plastik. Saya memiliki lubang tempat suara keluar, tetapi saya tidak memiliki mulut. Saya terhubung dengan kabel dan menghasilkan musik atau berita. Tanpa saya, suara dari televisi atau ponsel Anda akan terdengar kecil. Siapakah saya?
+A: Speaker
+DONE:0
+---
+Q: Saya adalah benda tajam yang sering digunakan saat sarapan. Saya memotong tanpa menggunakan listrik. Saya memiliki gerigi yang dirancang khusus untuk memotong kulit yang keras tanpa merusak isinya. Saya adalah alat wajib bagi pembuat roti. Siapakah saya?
+A: Pisau roti
+DONE:0
+---
+Q: Saya adalah sebuah benda putih persegi panjang yang Anda peluk setiap malam. Saya menjadi bantal bagi kepala Anda, tetapi saya tidak memiliki tulang. Saya berisi kapas, bulu, atau serat sintetis. Tanpa saya, tidur malam Anda akan tidak nyaman. Siapakah saya?
+A: Bantal
+DONE:0
+---
+Q: Saya tidak punya kaki, tetapi saya berjalan melintasi tubuh Anda, membawa kehidupan dan nutrisi. Saya seperti sungai kecil yang bercabang ke mana-mana. Jika saya tersumbat, seluruh sistem bisa bermasalah. Siapakah saya?
+A: Pembulu darah
+DONE:0
+---
+Q:Saya adalah benda besar, biasanya terbuat dari logam, yang dipasang di atap rumah. Saya digunakan untuk menangkap panas dari matahari. Saya tidak memiliki mesin, tetapi saya dapat memanaskan air di rumah Anda. Siapakah saya? 
+A: Panel surya
+DONE:0
+---
+Q: Saya adalah benda kecil yang bersembunyi di dalam dinding atau di kabel. Saya adalah pengaman terakhir sebelum terjadi masalah. Ketika terlalu banyak daya yang mengalir, saya putus, dan memadamkan listrik di rumah Anda untuk mencegah kebakaran. Siapakah saya?
+A: Sekering
+DONE:0
+---
+Q: Saya adalah alat yang selalu menunjuk ke utara, meskipun saya tidak pernah melihatnya. Saya memiliki jarum magnetik yang tidak pernah lelah. Saya membantu penjelajah agar tidak tersesat. Siapakah saya?
+A: Kompas
+DONE:0
+---
+Q: aya adalah benda kecil yang Anda pasang ke dinding. Saya memiliki tiga lubang yang dipenuhi listrik. Saya menghubungkan perangkat Anda ke daya, tetapi saya tidak pernah menyalakan diri sendiri. Siapakah saya?
+A: Stopkontak
+DONE:0
+---
+Q: Saya adalah benda yang dapat dilipat dan dibuka kembali. Saya dapat memisahkan Anda dari hujan di luar atau dari terik matahari. Saya terbuat dari kain yang direntangkan di atas rangka, dan saya sering disimpan di tas. Siapakah saya?
+A: Payung
+DONE:0
+---
+Q: Saya adalah benda yang dapat dilipat dan dibuka kembali. Saya dapat memisahkan Anda dari hujan di luar atau dari terik matahari. Saya terbuat dari kain yang direntangkan di atas rangka, dan saya sering disimpan di tas. Siapakah saya?
+A: Tipe X
+DONE:0
+---
+Q: Saya adalah alat yang dapat Anda atur, yang mengontrol seberapa panas atau dingin rumah Anda. Saya terbuat dari plastik dan memiliki angka atau layar kecil. Saya tidak menghasilkan panas atau dingin sendiri, tetapi saya memerintahkan mesin besar untuk melakukannya. Siapakah saya?
+A: Termostat
+DONE:0
+---
+Q: Saya adalah benda kecil yang harus Anda nyalakan agar saya bisa berfungsi. Saya menghasilkan cahaya lembut dan bau yang menyenangkan. Saya perlahan-lahan mencair seiring waktu, dan saya membutuhkan sumbu agar tetap hidup. Siapakah saya?
+A Lilin aromaterapi
+DONE:0
+---
+Q: Saya memiliki tubuh dari kawat dan dua lengan kecil. Tugas saya adalah memegang pakaian Anda di udara. Saya tergantung di dalam lemari dan tidak pernah bergerak sendiri, tetapi saya selalu mendukung beban berat. Siapakah saya?
+A: Hanger
+DONE:0
+---
+Q: Saya adalah alat yang Anda gunakan untuk membersihkan rumah. Saya memiliki kepala yang penuh rambut sintetis. Saya dapat membawa air dan sabun dari satu tempat ke tempat lain, dan pekerjaan saya membuat lantai berkilau. Siapakah saya?
+A: Mop
+DONE:0
+---
+Q: Saya adalah sekumpulan huruf dan angka yang harus dijaga kerahasiaannya. Saya adalah pintu gerbang menuju kekayaan digital dan komunikasi pribadi Anda. Jika saya diketahui orang lain, privasi Anda terancam. Siapakah saya?
+A: Kata sandi
+DONE:0
+---
+Q: Saya adalah tempat di mana barang-barang lama dan jarang digunakan berakhir. Saya sering terletak di atas atau di bawah rumah, penuh dengan debu dan kenangan. Orang jarang mengunjungi saya kecuali saat mencari sesuatu yang terlupakan. Siapakah saya?
+A: Gudang
+DONE:0
+---
+Q: Saya adalah benda yang diletakkan di lantai. Saya terbuat dari serat yang nyaman. Saya membantu menjaga kaki Anda tetap hangat dan membuat suara langkah Anda menjadi lebih pelan. Saya harus dibersihkan secara teratur dengan alat hisap. Siapakah saya?
+A: Karpet
+DONE:0
+---
+Q: Saya adalah benda yang harus Anda pasang di wajah Anda untuk melihat dunia dengan jelas. Saya memiliki dua lingkaran kaca yang dibingkai, dan saya sering beristirahat di hidung Anda. Tanpa saya, huruf-huruf di buku bisa menjadi buram. Siapakah saya?
+A: Kacamata
+DONE:0
+---
+Q: Saya adalah alat yang mengeluarkan suara keras di pagi hari, memaksa Anda untuk bangun. Saya memiliki tombol "tunda" yang seringkali menjadi musuh terbaik Anda. Tujuan saya adalah membangunkan orang, tetapi saya tidak memiliki suara. Siapakah saya?
+A: alarm
+DONE:0
+---
+Q: Saya adalah benda kecil, terbuat dari logam, dengan pola bergerigi yang unik. Saya digunakan untuk memutar gembok dan mengizinkan masuk. Tanpa saya, pintu akan tetap tertutup. Saya selalu berpasangan dengan lubang kecil. Siapakah saya?
+A: Kunci
+DONE:0
+---
+Q: Saya adalah barisan huruf, tetapi saya bukanlah kata. Saya mewakili nama dan identitas Anda. Saya sering ditulis di awal surat dan di akhir tanda tangan. Saya adalah hal pertama yang Anda pelajari untuk ditulis. Siapakah saya?
+A: Nama
+DONE:0
+---
+Q: Saya adalah ide yang datang ke pikiran Anda secara tiba-tiba. Saya dapat mengubah dunia, tetapi saya tidak memiliki kekuatan fisik. Saya dapat disebarkan melalui kata-kata, gambar, atau tindakan. Saya seringkali menjadi awal dari inovasi. Siapakah saya?
+A: Ide
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda ucapkan, tetapi jika Anda mengatakannya, Anda tidak melakukannya. Saya adalah lawan dari tidur. Saya dapat ditunda, tetapi tidak dapat dihindari selamanya. Siapakah saya?
+A: Bangun
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda pegang di tangan Anda, tetapi saya tidak memiliki berat. Saya dapat membawa Anda ke masa lalu atau membuat Anda membayangkan masa depan. Saya terbentuk dari kata-kata yang diucapkan dengan indah. Siapakah saya?
+A Cerita
+DONE:0
+---
+Q: Saya memiliki empat huruf, dimulai dengan "B" dan berakhir dengan "H". Saya adalah kebutuhan dasar yang Anda hirup. Tanpa saya, Anda hanya bisa hidup selama beberapa menit. Siapakah saya?
+A: Udara
+DONE:0
+---
+Q: Saya adalah janji yang tak terucapkan untuk bertindak. Saya diucapkan dalam upacara pernikahan dan sumpah. Jika Anda mengingkari saya, reputasi Anda hancur. Saya membutuhkan integritas untuk dipertahankan. Siapakah saya?
+A: Komitmen
+DONE:0
+---
+Q: Saya adalah hal yang membuat setiap orang unik. Saya adalah totalitas dari pemikiran, perasaan, dan perilaku Anda. Saya tidak terlihat, tetapi memengaruhi setiap keputusan yang Anda buat. Siapakah saya?
+A: Kepribadian
+DONE:0
+---
+Q: Saya adalah suatu tindakan yang hanya dapat dilakukan oleh dua orang atau lebih. Saya bisa terjadi dalam keheningan atau dengan banyak suara. Saya bertujuan untuk menyelesaikan konflik atau mencapai kesepakatan. Siapakah saya?
+A: Diskusi
+DONE:0
+---
+Q: Saya adalah konsep yang hanya dapat bertambah, tidak dapat berkurang. Saya disimpan dalam buku, di kepala Anda, atau di internet. Saya diperoleh melalui studi dan pengalaman. Siapakah saya?
+A: Pengetahuan
+DONE:0
+---
+Q: Saya memiliki empat huruf. Saya selalu benar saat ditanyakan, tetapi jika Anda menyebut saya, saya menjadi salah. Siapakah saya?
+A: Ya
+DONE:0
+---
+Q: Saya adalah benda datar, terbuat dari kaca dan logam, yang tergantung di dinding ruang tamu. Saya menayangkan berita, acara, dan film. Saya dulunya memiliki tabung besar, tetapi sekarang saya setipis bingkai foto. Siapakah saya?
+A: Televisi layar datar
+DONE:0
+---
+Q: Saya adalah benda kecil yang harus Anda tancapkan ke port khusus. Saya dapat menyimpan seluruh perpustakaan digital, ribuan foto, dan dokumen. Saya mudah dibawa ke mana-mana dan menjadi cadangan penting. Siapakah saya?
+A: Usb
+DONE:0
+---
+Q: Saya adalah teman setia di kantor. Saya memiliki dua lengan dan satu kepala yang dapat diarahkan ke mana pun Anda bekerja. Saya hanya berfungsi dengan listrik dan membuat tulisan Anda terlihat jelas saat malam hari. Siapakah saya?
+A: Lampu belajar
+DONE:0
+---
+Q: Saya adalah alat yang digunakan untuk memanaskan air dengan cepat. Saya memiliki elemen pemanas di dalamnya dan mati secara otomatis setelah mendidih. Saya sering digunakan untuk membuat kopi atau teh. Siapakah saya?
+A: Ketel listrik
+DONE:0
+---
+Q: Saya adalah perangkat yang dapat mengambil gambar dari dokumen fisik dan mengubahnya menjadi file digital. Saya memiliki penutup kaca besar yang harus Anda buka untuk menempatkan kertas. Saya menghubungkan kantor ke dunia online. Siapakah saya?
+A: Pemindai
+DONE:0
+---
+Q: Saya adalah sistem yang dapat mengirim pesan teks secara instan ke mana saja di dunia. Saya beroperasi melalui jaringan seluler atau internet. Saya adalah bentuk komunikasi yang paling umum saat ini. Siapakah saya?
+A: Sms
+DONE:0
+---
+Q: Saya adalah benda yang Anda injak saat masuk atau keluar dari rumah. Saya terbuat dari bahan kasar dan bertugas membersihkan kotoran dari sepatu Anda. Saya selalu berada di ambang pintu. Siapakah saya? 
+A: Keset kaki
+DONE:0
+---
+Q: Saya adalah benda yang Anda putar untuk mengontrol aliran air. Saya sering terbuat dari logam dan berada di dapur atau kamar mandi. Saya bisa menghasilkan air panas dan dingin. Siapakah saya?
+A: Keran air
+DONE:0
+---
+Q: Saya adalah kendaraan yang membawa ribuan orang di atas dan di bawah tanah. Saya memiliki gerbong yang panjang dan berjalan di atas rel, tetapi saya tidak memiliki lokomotif terpisah. Saya adalah urat nadi kota besar. Siapakah saya?
+A: Kereta bawah tanah
+DONE:0
+---
+Q: : Saya adalah perangkat kecil yang Anda arahkan ke televisi atau perangkat lain. Saya memiliki banyak tombol, tetapi tidak memiliki layar. Saya adalah penguasa semua program dan volume. Siapakah saya?
+A: Remote control
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda lakukan berulang kali tanpa perlu memikirkannya lagi. Saya dapat menjadi baik atau buruk bagi kesehatan Anda. Saya terbentuk melalui pengulangan tindakan yang konsisten. Siapakah saya?
+A: Kebiasaan
+DONE:0
+---
+Q: Saya adalah lift vertikal yang bergerak cepat. Saya tidak memiliki lantai sendiri dan hanya membawa orang dari satu tingkat ke tingkat lain dalam gedung tinggi. Saya sering transparan. Siapakah saya?
+A: Eskalator
+DONE:0
+---
+Q: Saya adalah lensa yang dapat memperbesar objek kecil sehingga Anda dapat melihatnya dengan lebih jelas. Saya sering digunakan oleh ilmuwan, detektif, atau kolektor perangko. Saya berbentuk bulat dengan pegangan. Siapakah saya?
+A: Kaca pembesar
+DONE:0
+---
+Q: : Saya adalah ruang tertutup yang menjaga makanan pada suhu di bawah titik beku. Saya menyimpan es dan makanan yang harus bertahan lama. Saya adalah bagian dari kulkas besar. Siapakah saya
+A: Frezeer
+DONE:0
+---
+Q: Saya adalah alat yang memiliki banyak tombol putar dan geser. Saya digunakan oleh DJ atau teknisi suara untuk mencampur beberapa sumber audio menjadi satu output. Saya dapat menambah atau mengurangi volume suara. Siapakah saya?
+A: Mixer audio
+DONE:0
+---
+Q: Saya adalah benda yang tergantung di atas wastafel di kamar mandi. Saya terbuat dari bahan tipis dan lembut. Saya digunakan untuk mengeringkan tangan dan wajah Anda setelah dicuci. Siapakah saya?
+A: Handuk
+DONE:0
+---
+Q: Saya adalah alat yang bergerak di bawah kursi Anda. Saya memiliki dua roda yang berputar kencang. Saya membutuhkan energi manusia untuk bergerak maju. Saya adalah cara yang ramah lingkungan untuk berkeliling kota. Siapakah saya?
+A: Sepeda
+DONE:0
+---
+Q:Saya adalah alat yang terbuat dari bahan lembut dan berbulu. Saya digunakan bersama dengan pasta. Tugas saya adalah membersihkan gigi Anda setiap pagi dan malam. Saya harus diganti setiap beberapa bulan. Siapakah saya? 
+A: sikat gigi
+DONE:0
+---
+Q: Saya adalah benda persegi yang seringkali Anda tatap saat duduk di kursi. Saya penuh dengan program dan file. Saya bisa menampilkan warna-warna cerah atau hanya teks sederhana. Saya adalah jendela utama Anda untuk berinteraksi dengan komputer. Siapakah saya?
+A: Monitor komputer
+DONE:0
+---
+
 
 
 
