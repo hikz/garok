@@ -338,74 +338,129 @@ Q: Aku adalah tindakan mengambil, Aku dilakukan dengan tanganmu, Aku adalah lawa
 A: Curi
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku selalu berjalan tapi tak punya kaki. Aku berbisik tapi tak punya mulut. Aku datang seperti hembusan dan lenyap seperti tiupan. Siapakah aku?
+A: Angin
+DONE:0
+---
+Q: Aku hanya ada jika ada cahaya, tetapi jika cahaya menerpaku, aku akan mati dan menghilang. Aku tak pernah bisa disentuh. Siapakah aku?
+A: Pelangi
+DONE:0
+---
+Q: Aku bisa menampung semua benda di dunia, termasuk lautan dan hutan, namun aku lebih kecil dari kepalan tanganmu. Siapakah aku?
+A: Bola mata
+DONE:0
+---
+Q: Aku bergerak cepat di atas rel besi yang panjang dan lurus, Tubuhku sangat panjang, seperti ular raksasa yang meliuk,Aku membawa banyak penumpang ke tempat tujuan yang jauh Siapakah aku, si alat transportasi yang sangat berisik?
+A: Kereta api
+DONE:0
+---
+Q: Aku punya kepala tapi tak punya rambut untuk disisir,Aku punya leher yang panjang tapi tak punya baju untuk dipakai,Aku sering digunakan untuk menuangkan minuman atau cairan lain,Siapakah aku, yang terbuat dari kaca atau plastik keras?
+A: Botol
+DONE:0
+---
+Q: Aku selalu di depan tapi tak bisa dilihat dengan mata,Aku berisi semua hal yang akan terjadi di masa mendatang,Semua orang pasti akan menghadapiku suatu hari nanti, Apakah aku, yang semakin lama semakin terasa dekat?
+A: Masa depan
+DONE:0
+---
+Q:Aku punya banyak gigi kecil dan tajam,Tapi aku tak punya mulut untuk mengunyah makanan, Aku digunakan untuk merapikan rambut yang kusut,Siapakah aku, yang selalu membuat penampilanmu rapi? 
+A: Sisir
+DONE:0
+---
+Q: Aku terbuat dari karet dan bentukku selalu bundar sempurna,Aku harus diisi udara yang banyak agar aku bisa bergulir dengan baik,Tanpa aku, kendaraan tidak bisa berjalan dengan lancar dan aman,Siapakah aku, yang selalu berputar di atas jalan aspal yang panas?
+A: Ban
+DONE:0
+---
+Q: Aku punya banyak lubang kecil di seluruh permukaanku yang tipis, Aku digunakan untuk menyaring bahan makanan dari air atau minyak, Aku sering ada di dapur saat ibu sedang memasak mie instan,Siapakah aku, alat pemisah yang sangat berguna dan berlubang?
+A: Saringan
+DONE:0
+---
+Q: Aku punya kunci tapi aku tak bisa membuka pintu rumahmu sendiri, Aku terbuat dari logam dan bisa membuat pintu terkunci dengan aman,Aku hanya akan terbuka jika kunci yang pas masuk ke dalam diriku,Siapakah aku, si penjaga yang tak punya mata tapi sangat setia?
+A: Gembok
+DONE:0
+---
+Q: Aku hanya ada jika ada cahaya yang datang dan menerpaku,Aku tidak bisa disentuh oleh tangan dan tak bisa dipegang erat-erat,Semakin gelap lingkungan di sekitarmu, aku semakin terlihat jelas,Siapakah aku, yang selalu mengikuti ke mana pun kamu melangkah?
+A: Bayangan
+DONE:0
+---
+Q: Aku punya kulit yang tebal tapi aku tidak punya darah sama sekali,Aku bisa melindungi kepalamu saat kamu berada di bawah hujan lebat, Aku bisa dilipat kecil saat tidak digunakan dan dibawa ke mana-mana,Siapakah aku, yang suka menangis (meneteskan air) saat ditutup?
+A: Payung
+DONE:0
+---
+Q: Aku selalu diinjak-injak oleh semua orang yang datang ke rumah, Aku membuat ruangan terlihat rapi, bersih, dan terasa hangat, Aku terbuat dari serat kain tebal yang lembut dan berwarna-warni,Siapakah aku, yang selalu tidur di lantai ruang tamu atau kamar?
+A: Karpet
+DONE:0
+---
+Q: Aku punya banyak lembar daun, tapi aku bukan pohon yang berdiri tegak,Aku punya halaman, tapi aku bukan buku yang bisa kamu baca ceritanya, Aku punya banyak angka, tapi aku bukan kalkulator untuk berhitung Siapakah aku, yang membantu kamu mengingat semua tanggal penting?
+A: Kalender
+DONE:0
+---
+Q: Aku bisa memotong tanpa punya mata pisau yang tajam sama sekali,Aku membuat kertas menjadi terbagi dua dengan cepat saat ditekan,Aku punya dua lubang yang harus dimasuki oleh jari-jari tanganmu,Siapakah aku, alat pemotong kertas yang sering ada di meja sekolah?
+A: Gunting
+DONE:0
+---
+Q: Aku terbuat dari kayu dan karet yang empuk dan lentur saat digosok, Aku bisa menghapus semua kesalahanmu yang tertulis di atas kertas,Aku selalu mengecil dan habis sedikit demi sedikit saat terus digunakan, Siapakah aku, penyelamat dari kesalahan yang tertulis dengan pensil?
+A: Penghapus
+DONE:0
+---
+Q: Aku bisa menampung semua benda yang ada di seluruh dunia ini,Aku bisa menyimpan semua pemandangan laut, gunung, dan hutan di dalamnya,Meskipun begitu, aku lebih kecil dari kepalan tanganmu sendiri ,aku si penerima gambar yang sangat sensitif dan berkedip?
+A: Mata
+DONE:0
+---
+Q: Aku punya lidah panjang tapi tak bisa menjilat makanan,Aku bisa bicara dengan suara yang sangat keras dan lantang,
+Aku sering digunakan di panggung konser atau ceramah besar,Siapakah aku, si pembuat suara jadi lebih nyaring terdengar?
+A: Speaker
+DONE:0
+---
+Q: Aku terbuat dari tepung yang digoreng hingga mengembang besar,Bentukku bundar dan tipis, aku renyah saat dikunyah keras,Aku adalah teman wajib saat makan nasi atau soto ayam,Siapakah aku, yang mudah hancur jika direndam air panas?
+A: Kerupuk
 DONE:0
 ---
 Q: 
-A: 
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
+Q:
+A:
 DONE:0
 ---
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-Q: 
-A: 
-DONE:0
----
-
-
 
