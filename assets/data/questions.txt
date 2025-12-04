@@ -415,7 +415,247 @@ Q: Aku terbuat dari tepung yang digoreng hingga mengembang besar,Bentukku bundar
 A: Kerupuk
 DONE:0
 ---
-Q: 
+Q: Saya selalu ikut ke mana pun kau pergi, tapi tak pernah bisa kau sentuh. Saya akan menghilang saat gelap menyelimuti dunia. Bentuk saya berubah-ubah, kadang pendek, kadang sangat tinggi. Saya tak punya suara, tapi kehadiran saya selalu disadari.
+A: Bayangan
+DONE:0
+---
+Q: Saya tidak terlihat, tapi kekuatan saya sangat besar. Saya bisa menjatuhkan pohon, atau hanya menggerakkan sehelai rambut. Orang bisa merasakan kehadiran saya, tapi tak bisa menangkap saya. Saya membawa aroma hujan dan debu perjalanan.
+A: Angin
+DONE:0
+---
+Q: Saya punya mata, tapi tak pernah bisa melihat. Tubuh saya ramping dan sangat tajam di ujungnya. Tugas saya adalah menyatukan dua hal yang terpisah. Setelah tugas saya selesai, saya akan disembunyikan di kotak.
+A: Jarum
+DONE:0
+---
+Q: Saat saya kering, saya terasa sangat ringan. Ketika saya haus, berat saya bisa berkali-kali lipat. Tugas saya adalah menyerap cairan atau membersihkan tubuh. Saya sering digantung setelah dipakai di kamar mandi.
+A: Handuk
+DONE:0
+---
+Q: Saya tak punya mulut, tapi saya bisa mengulang semua kata-katamu. Saya hanya muncul di tempat yang sangat terbuka atau sunyi, seperti lembah. Saya selalu datang terlambat setelah pesan asliku disampaikan. Saya adalah pantulan dari suara yang dilepaskan.
+A: Gema
+DONE:0
+---
+Q: Saya terbuat dari air, tapi saya keras seperti batu. Saya mudah mencair jika berdekatan dengan kehangatan. Saya sering membuat minuman terasa lebih segar dan dingin. Bentuk saya tergantung pada cetakan wadah saya.
+A: Es
+DONE:0
+---
+Q: Saya tak pernah bergerak, tapi saya selalu naik dan turun. Tujuan saya adalah menghubungkan lantai yang berbeda di sebuah gedung. Saya memiliki banyak anak tangga, tapi saya bukan manusia. Orang harus berhati-hati agar tidak tergelincir saat melewati saya.
+A: Tangga
+DONE:0
+---
+Q: Saya adalah sesuatu yang bisa kau rasakan, tapi tak bisa kau dengar. Saya bisa membuat suasana menjadi khidmat atau menakutkan. Saya segera lenyap begitu sebuah suara keras muncul. Orang sering mencari saya untuk dapat beristirahat dengan tenang.
+A: Keheningan
+DONE:0
+---
+Q: Saya lahir setiap hari, membawa berita dari seluruh dunia. Umur saya hanya sehari, lalu saya sering dibuang atau didaur ulang. Badan saya penuh dengan tinta, tapi saya bukan printer. Orang membacaku sambil ditemani kopi di pagi hari.
+A: Koran
+DONE:0
+---
+Q: Saya adalah sesuatu yang hidup, tapi tidak bernapas. Saya bergerak lincah dan warna saya selalu oranye kemerahan. Jika diberi makan (kayu), saya akan tumbuh semakin besar. Air adalah musuh terbesar saya, yang akan mematikan saya seketika.
+A: Api
+DONE:0
+---
+Q: Saya berwarna hijau saat masih muda, dan bisa berubah merah, kuning, atau tetap hijau saat tua. Saya memiliki mahkota di kepala, tapi saya bukan seorang raja atau ratu. Daging saya sangat manis dan aromanya khas saat matang. Saya sangat populer dijadikan jus atau dimakan langsung setelah dikupas.
+A: Mangga
+DONE:0
+---
+Q: Saya berdiri tegak di pojok ruangan, menyimpan rahasia dan kenangan. Saya punya banyak pintu dan laci, tapi tak bisa mengunci sendiri. Di dalam tubuh saya, tersimpan kain-kain yang tertata rapi. Setiap hari, saya membantu orang menentukan apa yang akan mereka kenakan.
+A: Lemari
+DONE:0
+---
+Q: Saya jatuh dari langit dalam jumlah yang tak terhitung. Sebelum jatuh, saya berkumpul dulu menjadi awan kelabu. Kehadiran saya sangat ditunggu oleh para petani yang kehausan. Setelah saya selesai, pelangi indah kadang muncul sebagai salam perpisahan.
+A: Hujan
+DONE:0
+---
+Q: Saya selalu maju, tak pernah bisa mundur walau sedetik. Saya adalah mata uang yang paling berharga dan tak tergantikan. Jika saya sudah berlalu, kau hanya bisa mengenang apa yang terjadi. Setiap pergantian hari, saya terus bertambah tanpa bisa dihentikan.
+A: Waktu
+DONE:0
+---
+Q: Saya bisa menjadi sangat panjang, tapi terus memendek setiap hari. Kepala saya harus diruncingkan agar bisa melaksanakan tugas saya. Setiap kata dan gambar yang saya buat, bisa dihapus dengan mudah. Saya meninggalkan jejak abu-abu yang bisa dibentuk sesuka hati.Apakah saya?
+A: Pensil
+DONE:0
+---
+Q: Saya adalah jembatan warna yang megah di angkasa. Saya hanya muncul sesaat, setelah ada hujan dan terik matahari bersamaan. Warna saya selalu tujuh, berurutan dengan indah dan harmonis. Mitos bilang, di ujung saya ada sebuah peti berisi harta karun
+A: Pelangi
+DONE:0
+---
+Q: Saya terbuat dari air, gula, dan sering dicampur dengan susu. Saya harus disimpan dalam suhu yang sangat dingin agar tetap padat. Saya menjadi favorit saat cuaca panas tiba dan punya banyak rasa. Saya cepat sekali meleleh jika terlalu lama di luar ruangan.
+A: Es krim
+DONE:0
+---
+Q: Saya adalah hewan yang sangat kecil dan punya banyak kaki. Saya bekerja secara kolektif dan sangat terorganisir di dalam sarang. Saya suka membawa makanan yang lebih besar dari tubuh saya sendiri. Jika kau menemukan gula jatuh, tak lama kemudian saya pasti datang berbaris.
+A: Semut
+DONE:0
+---
+Q:Saya terbuat dari kain, kertas, atau kulit yang tebal dan kuat. Saya adalah pelindung untuk selembar cerita atau informasi. Saya dihias dengan judul yang menarik, kadang dengan gambar. Saya yang pertama kali dilihat saat kau mengambil sebuah buku. 
+A: Sampul
+DONE:0
+---
+Q: Saya adalah pesan yang dikirimkan melalui jaringan kabel atau nirkabel. Saya bisa berisi tulisan, foto, atau video singkat. Saya sering berdering di sakumu, memberi tahu bahwa ada yang mencoba menghubungimu. Saya adalah pengganti surat, yang sangat cepat sampai di tujuan.
+A: Pesan
+DONE:0
+---
+Q: Saya memiliki dua roda, tapi saya tidak bisa berjalan sendiri. Saya butuh seseorang untuk menaiki dan mengayuh agar saya bergerak. Saya tidak memerlukan bensin, hanya kekuatan otot manusia. Saya adalah teman baik bagi yang suka berolahraga atau sekadar berkeliling komplek
+A: Sepeda
+DONE:0
+---
+Q: Saya sering berwarna hijau atau ungu, tumbuh bergerombol di tangkai. Rasanya asam manis, dan sering diolah menjadi minuman anggur. Orang sering memanen saya di kebun yang luas dan berjemur matahari. Saya sering muncul sebagai hiasan kue atau dimakan sebagai pencuci mulut.
+A: Anggur
+DONE:0
+---
+Q: Saya terbuat dari logam dan punya pegangan yang nyaman untuk digenggam. Tugas saya adalah mengangkat makanan dari minyak yang sangat panas. Bentuk saya seperti sendok besar dengan banyak lubang kecil. Tanpa saya, akan sulit sekali meniriskan kerupuk atau gorengan.
+A: Serokan
+DONE:0
+---
+Q: Saya sangat banyak jumlahnya, bersinar redup di langit yang gelap. Saya tidak sebesar dan secerah bulan, tapi saya lebih banyak. Bentuk saya selalu sama, dan saya sering dijadikan panduan oleh pelaut. Ketika malam cerah, saya menciptakan pemandangan yang indah dan penuh inspirasi
+A: Bintang
+DONE:0
+---
+Q: Saya membuat tubuh terasa panas dan sering diikuti sakit kepala. Saya adalah pertanda bahwa tubuh sedang melawan infeksi yang masuk. Suhu tubuh yang meningkat adalah ciri khas utama kehadiran saya. Untuk meredakan saya, orang sering minum obat penurun panas.
+A: Demam
+DONE:0
+---
+Q: Saya sering dipakai di kepala, melindungi dari terik matahari atau hujan. Saya memiliki lidah yang lebar di bagian depan sebagai peneduh. Saya punya pengatur ukuran di belakang agar pas dipakai. Para pemain baseball sering memakai saya sebagai atribut wajib
+A: Topi
+DONE:0
+---
+Q: Saya lahir dari sawah, diolah dengan air dan kemudian dikukus. Saya adalah makanan utama yang disantap hampir seluruh penduduk Indonesia. Rasanya hambar, tapi sangat cocok dipadukan dengan lauk dan sayur. Tanpa saya, orang merasa belum makan, meskipun sudah kenyang
+A: Nasi
+DONE:0
+---
+Q: Saya adalah tarikan tak terlihat yang selalu menarik semua benda ke bawah. Tanpa saya, semua benda di dunia ini akan melayang bebas. Saya membantu apel jatuh ke tanah, bukan terbang ke langit. Isaac Newton terkenal karena mempelajari dan menemukan prinsip saya
+A: Gravitasi
+DONE:0
+---
+Q: Saya terletak di wajah, tepat di antara kedua mata. Tugas utama saya adalah untuk mencium berbagai macam bau. Saya memiliki dua lubang yang sangat penting untuk bernapas. Bentuk saya bermacam-macam, kadang mancung, kadang pesek.
+A: Hidung
+DONE:0
+---
+Q: Saya berasal dari pohon, tapi saya sudah tidak memiliki daun. Saya sangat kuat dan sering dijadikan bahan utama rumah atau perabot. Saya bisa dipotong, diukir, dan diwarnai sesuai kebutuhan. Orang harus hati-hati, karena saya sangat mudah dimakan oleh rayap
+A: Kayu
+DONE:0
+---
+Q: Saya adalah kotak hitam atau perak yang sering diletakkan di meja. Saya bisa menampilkan gambar, video, dan semua informasi dunia. Saya membutuhkan mouse dan keyboard agar bisa dioperasikan dengan baik. Saya adalah jendela menuju internet dan tempat orang bekerja atau bermain.
+A: Komputer
+DONE:0
+---
+Q: Saya tumbuh di dalam tanah dan sering berwarna oranye cerah. Rasanya manis dan mengandung vitamin A yang sangat baik untuk mata. Saya adalah makanan favorit bagi kelinci yang lincah dan lucu. Saya sering diolah menjadi sup atau bahkan kue yang lezat.
+A: Wortel
+DONE:0
+---
+Q: Tugas saya adalah memastikan semua angka dan pembukuan berjalan benar. Saya sering berhadapan dengan faktur, utang, dan piutang perusahaan. Saya harus sangat teliti, karena kesalahan kecil bisa berakibat fatal. Saya bekerja keras terutama saat menjelang akhir bulan atau akhir tahun
+A: Akuntan
+DONE:0
+---
+Q: Saya adalah hamparan pasir luas yang berbatasan langsung dengan lautan. Orang datang kepada saya untuk berjemur, bermain air, atau melihat matahari terbenam. Saya dipenuhi suara deburan ombak yang tiada henti. Di sini, banyak penjual ikan bakar dan kelapa muda segar
+A: Pantai
+DONE:0
+---
+Q: Saya memiliki kepala berbentuk persegi panjang yang ditutupi serat kasar. Saya membutuhkan sabun dan air untuk melakukan tugas saya dengan maksimal. Tugas saya adalah menghilangkan kotoran yang menempel di lantai. Setelah selesai dipakai, saya harus dijemur agar tidak berjamur.
+A: Spons
+DONE:0
+---
+Q: Saya berasal dari ayam atau bebek, dan bentuk saya bulat oval. Saya mudah pecah jika terbentur atau jatuh ke lantai. Saya bisa diolah menjadi dadar, mata sapi, atau dicampur pada kue. Saya adalah sumber protein yang murah dan mudah didapatkan.
+A: Telur
+DONE:0
+---
+Q: Saya adalah kondisi saat langit ditutupi oleh uap air yang tebal. Cahaya matahari tidak bisa menembus, membuat suasana menjadi agak gelap dan dingin. Saya sering menjadi pertanda bahwa hujan akan segera turun ke bumi. Pemandangan di kejauhan menjadi kabur dan tidak jelas saat saya datang.
+A: Mendung
+DONE:0
+---
+Q: Permainan ini dilakukan di lapangan hijau dan dimainkan oleh dua tim sebelas orang. Tujuan utamanya adalah memasukkan bola ke gawang lawan menggunakan kaki. Wasit adalah penegak hukum yang memimpin jalannya pertandingan. Ini adalah olahraga paling populer di seluruh dunia, selalu menarik perhatian.
+A: Sepak bola
+DONE:0
+---
+Q: Saya terletak di paling atas, berfungsi sebagai penutup dan pelindung. Saya mencegah air hujan masuk ke dalam rumah dan melindungi dari panas. Bahan saya bisa terbuat dari genteng, seng, atau asbes yang kuat. Jika saya bocor, seisi rumah akan basah dan banjir saat hujan.
+A: Atap
+DONE:0
+---
+Q: Saya adalah alat tukar yang digunakan untuk membeli barang atau jasa. Saya punya nilai yang berbeda-beda, dan bisa berupa kertas atau logam. Saya harus disimpan dengan aman di dompet, bank, atau saku celana. Tanpa saya, perdagangan tidak akan berjalan dan ekonomi bisa berhenti.
+A: Uang
+DONE:0
+---
+Q: Saya melindungi kakimu, tapi saya tidak menutupi seluruhnya. Saya sering dipakai saat di rumah atau ke tempat yang dekat. Bunyi saya khas saat kau berjalan cepat di atas lantai keras. Hargaku lebih murah dan bahanku lebih sederhana dari sepatu
+A: Sandal
+DONE:0
+---
+Q: Saya memiliki leher panjang dan badan berongga. Saya memiliki senar yang harus dipetik untuk menghasilkan melodi. Saya sering menemani para penyanyi di tepi pantai atau api unggun. Di dunia musik, saya adalah salah satu instrumen yang paling populer.
+A: Gitar
+DONE:0
+---
+Q: Saya selalu basah, tapi saya tidak pernah kedinginan. Saya membantu Anda merasakan manis, asam, pahit, dan asin. Saya terletak di dalam mulut, dan saya sangat fleksibel. Tanpa saya, Anda akan kesulitan berbicara dan menelan.
+A: Lidah
+DONE:0
+---
+Q: Saya berasal dari biji yang diolah, digiling, dan diseduh air panas. Aroma saya sangat kuat dan khas, sering dinikmati di pagi hari. Saya memberi energi dan menghilangkan rasa kantuk bagi banyak orang. Saat disajikan, warnanya biasanya hitam pekat atau cokelat susu.
+A: Kopi
+DONE:0
+---
+Q: Saya datang berpasangan, dan saya harus dikenakan agar bisa dipakai. Saya melindungi kaki dari kerikil tajam dan cuaca dingin. Saya sering memiliki tali yang harus diikat agar tidak lepas. Saya wajib dipakai saat hendak pergi ke kantor atau sekolah.
+A: Sepatu
+DONE:0
+---
+Q: Saya melayang tinggi di angkasa, bentuk saya selalu berubah-ubah. Saya terlihat seperti kapas putih, atau kadang kelabu gelap. Saya adalah penampung air sebelum air tersebut berubah menjadi hujan. Saat matahari terbenam, saya sering diwarnai oranye dan ungu.
+A: Awan
+DONE:0
+---
+Q: Saya adalah kotak ajaib yang bisa menampilkan gambar bergerak dan suara. Saya sering menjadi pusat perhatian keluarga di ruang tamu. Saya punya banyak saluran yang menyajikan berita, film, dan kartun. Untuk mengganti program, Anda memerlukan remote control.
+A: Televisi
+DONE:0
+---
+Q: Saya memiliki satu mata bulat, tapi bukan makhluk hidup. Tugas saya adalah menangkap dan mengabadikan momen berharga. Saya mengeluarkan bunyi "klik" kecil saat mengambil gambar. Hasil kerja saya bisa dicetak, atau disimpan dalam bentuk digital.
+A: Kamera
+DONE:0
+---
+Q: Saya berwarna putih dan berbentuk kristal kecil-kecil. Saya sangat penting dalam masakan untuk menambah rasa asin. Saya berasal dari air laut yang dikeringkan dan diolah di tambak. Tanpa saya, rasa masakan akan hambar dan kurang nikmat.
+A: Garam
+DONE:0
+---
+Q: Saya adalah satelit alami yang bersinar di malam hari. Cahaya saya bukan dari diri sendiri, melainkan pantulan dari matahari. Bentuk saya terlihat berubah-ubah, kadang bulat penuh, kadang sabit saja. Saya menemani bintang-bintang saat langit menjadi gelap gulita.
+A: Bulan
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
 A:
 DONE:0
 ---
@@ -463,4 +703,25 @@ Q:
 A:
 DONE:0
 ---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+
 
