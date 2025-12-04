@@ -615,8 +615,44 @@ Q: Saya adalah satelit alami yang bersinar di malam hari. Cahaya saya bukan dari
 A: Bulan
 DONE:0
 ---
-Q:
-A:
+Q: Aku adalah benda yang kecil, Aku dipakai untuk menjahit, Aku punya mata untuk benang, Aku sangat runcing dan tajam, Aku sering hilang saat jatuh, Aku adalah alat penjahit.
+A: Jarum
+DONE:0
+---
+Q: Aku adalah bahan makanan pokok, Aku terbuat dari tepung terigu, Aku bisa diisi daging atau keju, Aku sering dijadikan menu sarapan, Aku punya banyak bentuk, Aku bisa dipanggang atau digoreng, Makanan berbahan tepung.
+A: Roti
+DONE:0
+---
+Q: Aku adalah sebuah profesi, Aku bekerja di rumah sakit, Aku merawat orang yang sakit, Aku punya baju seragam putih, Aku sering membantu dokter, Aku adalah perawat pasien.
+A: Perawat
+DONE:0
+---
+Q: Aku adalah sebuah penyakit, Aku disebabkan oleh bakteri TBC, Aku menyerang paru-paru dan membuat batuk, Aku bisa menular antar manusia, Aku harus diobati dengan antibiotik, Aku sering disebut TB, Penyakit pernapasan.
+A: TBC
+DONE:0
+---
+Q: Aku adalah alat musik tiup, Aku terbuat dari kuningan atau perak, Aku punya tombol-tombol untuk dimainkan, Suaraku sangat nyaring, Aku sering dipakai dalam orkestra, Aku harus ditiup dengan tenaga, Alat musik tiup bernada tinggi.
+A: Terompet
+DONE:0
+---
+Q: Aku adalah benda yang berharga, Aku bisa berwarna emas, perak, atau perunggu, Aku diberikan sebagai hadiah kejuaraan, Aku adalah simbol kemenangan, Aku sering dipajang di lemari, Aku punya pita untuk digantung, Penghargaan.
+A: Medali
+DONE:0
+---
+Q: Aku adalah tempat bekerja, Aku punya meja dan kursi kantor, Aku sering punya banyak komputer, Aku adalah tempat mencari nafkah, Aku diisi oleh banyak karyawan, Aku adalah markas perusahaan.
+A: Kantor
+DONE:0
+---
+Q: Aku adalah benda yang bulat dan kecil, Aku sering dimainkan oleh anak-anak, Aku bisa dilempar dan ditangkap, Aku terbuat dari karet atau plastik, Aku dipakai dalam banyak olahraga, Aku adalah benda yang memantul.
+A: Bola
+DONE:0
+---
+Q: Aku adalah bagian dari tubuh, Aku dipakai untuk berjalan dan berlari, Aku punya lima jari di ujungku, Aku sering terlindungi oleh sepatu, Aku punya telapak dan tumit, Aku adalah fondasi tubuhmu, Anggota badan paling bawah.
+A: Kaki
+DONE:0
+---
+Q: Aku adalah gerakan yang cepat, Aku punya kecepatan yang sangat tinggi, Aku sering dihubungkan dengan lari, Aku adalah lawan dari lambat, Aku bisa menghemat banyak waktu, Aku adalah waktu yang terbatas, Laju.
+A: Cepat
 DONE:0
 ---
 Q:
@@ -687,41 +723,6 @@ Q:
 A:
 DONE:0
 ---
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
-Q:
-A:
-DONE:0
----
+
 
 
