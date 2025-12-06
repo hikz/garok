@@ -1007,6 +1007,71 @@ Q: Saya adalah benda persegi yang seringkali Anda tatap saat duduk di kursi. Say
 A: Monitor komputer
 DONE:0
 ---
+Q: Aku adalah sebuah ruang yang tidak memiliki pintu, namun dapat dikunjungi oleh siapa saja tanpa izin. Jika aku sudah penuh, seluruh isiku bisa dikeluarkan melalui sebuah lubang kecil. Aku berisi ide, memori, dan informasi yang bisa disimpan dan diambil sewaktu-waktu. Aku kadang terasa berat ketika terlalu banyak hal yang ada di dalamnya. Siapakah aku?
+A: Otak
+DONE:0
+---
+Q:Aku tidak punya kaki, tapi aku bisa berlari cepat melintasi pegunungan dan lembah, dan suaraku terdengar seperti gemuruh keras. Aku tidak memiliki paru-paru, namun aku memerlukan hembusan angin untuk membentuk diriku. Aku bisa mengisi seluruh wadah besar, namun aku tidak bisa dipegang. Aku adalah sumber kehidupan bagi semua makhluk, tapi jika aku terlalu banyak, aku membawa bencana. Siapakah aku? 
+A: Air Hujan
+DONE:0
+---
+Q: Aku adalah sebuah kain yang jika dicuci dengan air bersih, aku justru akan menjadi lebih kotor. Aku seringkali digunakan untuk menyentuh segala sesuatu yang berminyak dan berdebu. Setelah digunakan, aku tidak dibuang melainkan dicuci agar kotoranku berpindah tempat. Aku adalah alat penting yang digunakan untuk membersihkan mobil, lantai, atau meja. Siapakah aku?
+A: Kain pel
+DONE:0
+---
+Q: Aku tidak hidup, namun aku terus tumbuh setiap hari tanpa diberi makan atau minum. Aku muncul paling jelas saat pagi hari, dan menghilang sepenuhnya saat matahari berada tepat di atas. Aku meniru setiap gerakanmu, namun tidak memiliki wujud fisik yang bisa kamu sentuh. Aku akan menjadi pendek saat kamu berdiri di siang hari, dan sangat panjang saat sore menjelang. Siapakah aku?
+A: Bayangan
+DONE:0
+---
+Q: Banyak yang memeliharaku di dalam sebuah kotak yang terbuat dari kaca, dan aku tidak memerlukan makanan. Aku terlihat cantik dan menarik, dengan berbagai macam warna, namun aku tidak bergerak. Jika aku disentuh dengan tangan yang basah, aku akan kehilangan sebagian besar keindahanku. Aku adalah bagian dari sebuah sistem yang kompleks dan mahal yang ada di rumahmu. Siapakah aku?
+A: Ikan mainan
+DONE:0
+---
+Q: Aku ada di mana-mana di bumi ini, kamu bisa melihatku dan menginjakku setiap hari. Aku terdiri dari triliunan butir kecil yang tidak bisa kamu hitung satu per satu. Aku bisa diolah menjadi benda padat yang digunakan untuk membangun rumah dan gedung. Jika aku dicampur dengan air, aku akan menjadi keras dan tidak bisa lagi kamu pindahkan. Siapakah aku?
+A: Pasir
+DONE:0
+---
+Q: Aku adalah sesuatu yang selalu berjalan maju, dan tidak pernah sekalipun melihat ke belakang. Aku sering diukur menggunakan jam, hari, bulan, dan tahun, dan selalu menjadi acuan. Aku adalah hal paling berharga yang tidak bisa ditimbun atau dihentikan oleh siapa pun. Banyak orang yang menyesal karena menyia-nyiakanku saat aku sedang berjalan. Siapakah aku?
+A: Waktu
+DONE:0
+---
+Q: Aku punya taring yang tajam, tapi aku tidak pernah menggigit atau melukai siapapun yang menggunakanku. Aku membantu banyak orang yang bekerja di kantor, murid sekolah, atau seniman. Jika aku digunakan, ukuran badanku akan terus menyusut dan menghilang secara perlahan. Aku adalah alat yang sering dimasukkan ke dalam tempat pensil yang harus diruncingkan secara berkala. Siapakah aku?
+A: Pensil
+DONE:0
+---
+Q: Aku punya banyak wajah dan karakter, namun aku hanya berupa selembar kertas tipis. Aku sering dibaca oleh banyak orang, dan bisa memberikan kabar baik maupun buruk. Setiap pagi, aku akan diantar ke rumah-rumah untuk memberitahu kejadian hari kemarin. Aku bisa ditemukan di warung kopi atau halte bus untuk menemani menunggu. Siapakah aku? 
+A: Koran
+DONE:0
+---
+Q: Aku adalah benda yang jika kamu letakkan di atas meja, kamu tidak akan bisa melihatku lagi. Meskipun aku ringan, aku bisa menahan beban yang sangat berat dan mencegahnya jatuh. Aku seringkali transparan dan digunakan sebagai pembatas antara dua ruang. Aku harus dibersihkan secara rutin karena bekas sentuhan tangan akan tampak jelas di permukaanku. Siapakah aku?
+A: Kaca
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+
 
 
 
