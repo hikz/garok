@@ -1047,30 +1047,308 @@ Q: Aku adalah benda yang jika kamu letakkan di atas meja, kamu tidak akan bisa m
 A: Kaca
 DONE:0
 ---
-Q:
+Q: Di sebuah kota kecil yang selalu berbenang lalu lintas dan suara, ada sebuah bisikan yang bisa membuat seluruh pasar berhenti sejenak, menyatukan pembeli dan penjual dalam satu topik yang sama walaupun tak ada yang pernah melihat asalnya — apa bisikan itu?
+A: Rumor
+DONE:0
+---
+Q: Bayangkan seseorang yang setiap pagi mengenakan beban tak terlihat yang tidak bisa diukur dengan timbangan tetapi membuat langkahnya terasa berat sampai senja, dan beban itu seringkali mengecil setelah ia berbagi cerita pada teman — apakah beban itu?
+A: Masalah
+DONE:0
+---
+Q: Ada sesuatu yang tinggal di kepala kita, tak dapat dipeluk atau dilihat, bisa datang dalam kilasan ketika mendengar sebuah lagu lama atau melihat foto lama, membuat kita tertawa, menangis, dan tiba-tiba terdiam — apa itu?
+A: Kenangan
+DONE:0
+---
+Q: Seorang anak menahan kata itu di mulutnya selama berminggu-minggu karena malu dan takut, hingga lama-kelamaan kata itu menjadi pahit di hatinya, tetapi ketika ia akhirnya mengucapkannya semuanya menjadi lebih ringan — kata apakah itu?
+A:Maaf 
+DONE:0
+---
+Q: Di tengah kota yang bising dan penuh lampu, ada seseorang yang duduk tenang dan tidak terganggu oleh klakson dan teriakan, karena ia menemukan sesuatu di dalam dirinya yang membuat segala keributan di luar terasa jauh — apakah yang ia temukan?
+A: Ketenangan
+DONE:0
+---
+Q: Bayangkan sebuah benda yang tidak bisa dibeli di toko mana pun namun orang rela mengorbankan waktu, tenaga, dan perhatian untuk memilikinya karena benda itu membuat pertemuan singkat berubah menjadi kenangan hangat yang tak terlupakan — apa benda itu?
+A: Waktu
+DONE:0
+---
+Q: Seorang murid mengumpulkan pelajaran dari kegagalan kecil dan keberhasilan yang tak direncanakan; pelajaran itu tidak akan ditemui sekadar dengan membaca buku atau melihat teori, melainkan lewat terjatuh dan bangkit lagi — apa nama pengalaman berharga ini?
+A: Pengalaman
+DONE:0
+---
+Q: Ketika keraguan menyelinap, sesuatu yang halus seperti bulu dapat terasa menenggelamkan, membuat langkah kecil terasa mustahil, namun ketika keyakinan muncul keraguan itu lenyap seperti kabut di pagi hari — apakah yang dimaksud?
+A: Keraguan
+DONE:0
+---
+Q: Ada sebuah tanda kecil di bibir seseorang yang bisa mengubah suasana ruangan tanpa sepatah kata pun, memberi sinyal bahwa ia ramah, lelah, atau menyembunyikan cerita—tanda apakah itu yang terlihat tanpa suara?
+A: Senyuman
+DONE:0
+---
+Q:Di pasar di mana semua orang sibuk tawar-menawar, ada sebuah kata yang sekali diucapkan bisa meredakan suasana dan membuka banyak pintu peluang — kata apakah itu? 
+A: Terimakasih
+DONE:0
+---
+Q: Seorang penulis menulis surat panjang yang tidak pernah ia kirim; setiap kali ia menulis rasa itu mengecil, dan ketika surat itu ia baca kembali ia tersenyum — apa yang dirasakan penulis itu?
+A: Rindu
+DONE:0
+---
+Q: Ada benda yang tidak pernah tidur, mengamati setiap perubahan di sekitarnya, mencatat jejak waktu tanpa pernah mengeluh — benda apakah itu?
+A: Kalender
+DONE:0
+--- 
+Q: Ketika dua orang berselisih, ada sesuatu kecil yang bisa mereka lakukan untuk memperbaiki semuanya tanpa suara dan tanpa hadiah, hanya dengan gerakan tangan atau tatapan — apa tindakan itu?
+A: MEmeluk
+DONE:0
+---
+Q: Seorang anak membuka kotak permainan lama dan menemukan benda kecil yang membuatnya teringat orang yang sudah lama pergi; benda itu tak bernilai uang tetapi membuat mata berkaca-kaca — apa benda itu?
+A: Kenangan
+DONE:0
+---
+Q: Di sebuah stasiun ada peluit yang sekali ditiup memanggil banyak orang untuk berkumpul dan bergerak bersama, barang apa yang berperan seperti peluit dalam hubungan sosial?
+A: Komunikasi
+DONE:0
+---
+Q: Ada hal yang makin sering kamu gunakan, makin cepat ia habis; ia bukan makanan tapi tanpa ia hidup terasa kurang berguna — apa itu?
+A: Energi
+DONE:0
+---
+Q: Sebuah pintu tua yang selalu terbuka untuk orang yang membawa kebaikan, namun terkunci rapat bagi yang hanya mencari keuntungan — pintu apa itu menurutmu?
+A: Hati
+DONE:0
+---
+Q: Seorang guru memberi satu nasihat singkat yang tidak dilupakan murid-muridnya karena nasihat itu mengubah cara mereka melihat kegagalan dan keberhasilan — apa yang mungkin dikatakan guru itu?
+A: Coba lagi
+DONE:0
+---
+Q: Ada suatu hal yang bisa kamu bagi berkali-kali kepada orang lain tanpa semakin berkurang, malah seringkali bertambah ketika dibagi — apa itu?
+A: Kebahagian
+DONE:0
+---
+Q: Seorang pekerja pulang setiap hari membawa sesuatu yang tak terlihat tetapi meninggalkan bekas pada sikap dan pilihan hidupnya—sesuatu yang membuat ia lebih bijak atau lelah tergantung hari—apakah itu?
+A: Setres
+DONE:0
+---
+Q: Ketika badai emosi melanda, ada satu hal sederhana yang sering dipakai orang untuk menenangkan diri: ia tidak menghilangkan masalah tetapi mengubah cara memandangnya — apa itu?
+A: Refleksi
+DONE:0
+---
+Q: Di kantor ada barang kecil yang bisa membuat ide teringat lagi dan lagi; orang memakainya untuk mencatat kilasan gagasan sehingga ide itu tidak menghilang — apa benda itu?
+A: Pena
+DONE:0
+---
+Q: Ada satu jenis keberanian yang tak terlihat di panggung atau medan perang, tetapi ia muncul ketika seseorang memilih untuk jujur pada dirinya sendiri dan ke orang yang disayang — apa keberanian itu?
+A: Kejujuran
+DONE:0
+---
+Q: Ketika dua pilihan sama-sama menarik tetapi hanya satu yang bisa diambil, seringkali yang menentukan bukan logika semata melainkan sesuatu yang lembut dan personal yang membuat hati tenang setelah memilih — apa yang menentukan itu?
+A: Perasaan
+DONE:0
+---
+Q:Di perpustakaan ada satu suara dalam diri yang bertanya "mengapa" setiap kali kamu membaca; suara itu mendorongmu menelaah lebih jauh dan tidak menerima jawaban mudah — suara apakah itu? 
+A: Kritis
+DONE:0
+---
+Q: Sebuah lampu kecil di dalam rumah tidak terlihat dari luar, namun bila dinyalakan, seluruh ruang terasa hangat dan nyaman — lampu apa itu dalam makna hubungan?
+A: Perhatian
+DONE:0
+---
+Q: Jika kau membangun sesuatu dari bata kecil yang konsisten diletakkan tiap hari, akhirnya akan berdiri bangunan kuat; apa "bata kecil" itu dalam konteks perubahan diri?
+A: Kebiasaan
+DONE:0
+---
+Q: Dalam percakapan yang runyam, ada kata sederhana yang bila diucapkan bisa menyelesaikan kebuntuan tanpa perlu debat panjang; kata itu sering disertai kerendahan hati — apa kata itu?
+A: Maaf
+DONE:0
+---
+Q: Seseorang menemukan bahwa ketika ia menulis satu hal baik tentang dirinya di setiap pagi, setelah beberapa minggu cara ia melihat dunia berubah; apa praktik singkat itu?
+A: Jurnal
+DONE:0
+---
+Q: Di pesta kecil, ada satu hal yang bisa membuat orang asing jadi teman dalam hitungan menit tanpa perlu memperkenalkan diri—apa itu?
+A: Humor
+DONE:0
+---
+Q: Seorang petani menanam benih yang tak terlihat di ladangnya setiap hari; benih itu tak butuh air tapi mempengaruhi panennya dalam jangka panjang—apakah benih itu?
+A: Disiplin
+DONE:0
+---
+Q: Ada sebuah kata yang bila diucapkan tepat waktu bisa memutus rasa kehilangan dan membuka pintu harapan baru—kata apakah itu?
+A: Selamat
+DONE:0
+---
+Q: Ketika seseorang memberi sedikit dari miliknya tanpa berharap balasan, sesuatu dalam hati penerima berubah dan hubungan itu menguat—apa yang diberikan itu biasanya?
+A: Waktu
+DONE:0
+---
+Q: Seorang pelajar mendapat nilai buruk lalu belajar perlahan-lahan sampai nilai naik; bukan satu malam yang membuatnya berubah tapi serangkaian malam kecil yang sama—apa yang mengubahnya?
+A: Konsistensi
+DONE:0
+---
+Q: Ada benda yang bila kamu pegang erat-erat ia membuatmu takut untuk melangkah, namun ketika kamu lepaskan perlahan, ia memberi kebebasan untuk tumbuh—apa itu?
+A: Ketergantungan
+DONE:0
+---
+Q: Di meja perundingan, ada hal kecil seperti catatan di pojok kertas yang sering jadi penentu keputusan besar sebab ia menyimpan ide yang tak terdengar—apa benda kecil itu?
+A: Catatan
+DONE:0
+---
+Q: Seseorang menyimpan sesuatu tiap kali berinteraksi dengan orang lain; ia tak terlihat, namun lama-kelamaan membentuk citra yang orang lain lihat—apa yang disimpan itu?
+A: Reputasi
+DONE:0
+---
+Q: Ada suatu kegiatan yang tak butuh biaya, dapat dilakukan kapan saja, dan bisa mengubah suasana hati seseorang dalam hitungan menit—apa kegiatan itu?
+A: Santai
+DONE:0
+---
+Q: Ketika kamu memecahkan satu masalah kecil setiap hari, tiba-tiba masalah besar yang dulu menakutkan terasa lebih mudah dihadapi; apa yang sebenarnya kamu latih?
+A: Kemampuan
+DONE:0
+---
+Q: Di tengah pertengkaran keluarga, benda sederhana seperti secangkir teh bisa menghentikan kemarahan sementara dan membuka ruang bicara—apa fungsi benda itu?
+A: Jembatan
+DONE:0
+---
+Q: Ada kata yang pendek namun bisa mengubah jalannya percakapan dari saling menyalahkan menjadi saling memahami jika diucapkan dengan tulus—kata apa itu?
+A: Maaf
+DONE:0
+---
+Q: Seorang atlet selalu melakukan ritual kecil sebelum latihan; ritual itu bukan tentang keberuntungan melainkan menyiapkan pikirannya untuk fokus—apa nama ritual tersebut dalam istilah mental?
+A: Rutinitas
+DONE:0
+---
+Q: Ketika hujan turun di sore hari, ada bau khas yang membuat orang teringat rumah masa kecilnya; bau apakah itu yang mampu memicu memori mendalam?
+A: Petrichor
+DONE:0
+---
+Q: Jika kamu menaruh sebutir kebaikan di tempat yang tak terlihat setiap hari, lama-lama tempat itu akan penuh dan orang lain ikut merasakan manfaatnya—apa prinsip ini disebut?
+A: Berantai
+DONE:0
+---
+Q: Seorang peneliti mengumpulkan data kecil demi kecil hingga pola muncul; data itu sendiri tampak biasa, tetapi bersama-sama mereka menunjukkan sesuatu penting—apa yang muncul dari kumpulan data itu?
+A: Pola
+DONE:0
+---
+Q: Ada sesuatu yang bisa kamu kirim tanpa paket: ia mudah dibuat tetapi sulit untuk diperbaiki ketika rusak, dan sering menjadi alasan orang menjauh atau dekat—apa itu?
+A: Kepercayaan
+DONE:0
+---
+Q: Di perjalanan panjang, ada satu benda kecil yang selalu menyelamatkan suasana hati saat lelah: benda itu bukan makanan melainkan pengingat sederhana—apa benda itu?
+A: Bingkai 
+DONE:0
+---
+Q: Seorang pemimpin yang baik sering melakukan satu hal setiap hari yang tidak terlihat dalam laporan, namun efeknya terasa dalam tim—apa kebiasaan tak terlihat itu?
+A: Jurnal
+DONE:0
+---Saya adalah sebuah entitas yang selalu dinantikan oleh setiap orang, tetapi saat saya datang, saya langsung menjadi hal yang telah berlalu. Meskipun saya diperkirakan dan direncanakan oleh semua orang, saya tidak pernah benar-benar "tiba" di waktu sekarang ini. Apakah saya?
+Q: Masa depan
 A:
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah alat yang selalu digunakan setelah Anda mandi atau mencuci tangan, dan ironisnya, semakin saya mengeringkan Anda, saya sendiri menjadi makin basah. Meskipun saya bekerja keras menyerap kelembapan dari semua benda, saya pada akhirnya akan terasa berat dan lembap. Apakah saya?
+A: Handuk
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah benda kecil yang memiliki dua sisi yang berseberangan: Kepala dan Ekor, tetapi saya sama sekali tidak punya tubuh dan tidak bisa bergerak sendiri. Meskipun saya sering berpindah dari saku ke laci, saya tetap berada di tempat yang sama saat diperjualbelikan. Apakah saya?
+A: Koin
 DONE:0
 ---
-Q:
-A:
+Q: Anda harus mengambil saya secara konstan, detik demi detik, tetapi tidak ada satu pun manusia yang bisa benar-benar menggenggam saya. Saya dapat ditiupkan keluar, tetapi mata Anda tidak bisa menangkap wujud saya. Tanpa saya, kehidupan di Bumi ini akan berhenti sepenuhnya. Apakah saya?
+A: Nafas
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah sesuatu yang tidak terlihat dan tidak berwujud sama sekali, tetapi begitu Anda menyebut atau mengucapkan nama saya dengan keras, saya akan hancur. Saya adalah ruang kosong di antara ucapan dan aktivitas, dan saya membutuhkan ketiadaan suara untuk tetap eksis. Apakah saya?
+A: Keheningan
 DONE:0
 ---
-Q:
-A:
+Q: Saya adalah lembaran besar yang menunjukkan banyak sekali tempat di Bumi, saya memiliki nama-nama kota, tetapi di dalamnya tidak ada bangunan rumah. Saya juga menunjukkan pegunungan tinggi, tetapi Anda tidak akan menemukan pohon. Saya bahkan menunjukkan lautan dan sungai, tetapi tidak ada ikan. Apakah saya?
+A: Peta
 DONE:0
 ---
+Q: Saya adalah objek di meja Anda yang memiliki serangkaian tombol yang sangat banyak, banyak dari tombol itu bertuliskan kata "kunci," tetapi saya tidak bisa membuka pintu. Meskipun saya memiliki "spasi" dan "enter," saya bukanlah sebuah bangunan. Anda bisa memasukkan ide ke saya, tetapi tidak bisa memasukkan diri Anda. Apakah saya?
+A: Keyboard
+DONE:0
+---
+Q: Saya adalah kebutuhan dasar yang terasa ringan dan sering diabaikan, tetapi meskipun manusia terkuat di dunia mencoba, mereka tidak bisa menahan saya. Setelah seharian penuh aktivitas yang sangat melelahkan, saya menjadi satu-satunya yang dicari untuk mengisi kembali energi. Apakah saya?
+A: Tidur
+DONE:0
+---
+Q: Saya adalah jalur penghubung yang selalu membawa Anda ke atas dan ke bawah, tetapi ironisnya, saya tidak pernah beranjak dari posisi saya di suatu bangunan. Meskipun saya bergerak dan menggerakkan puluhan orang setiap jam, saya tetap tertanam kuat pada tempat saya semula. Apakah saya?
+A: Eskalator
+DONE:0
+---
+Q: Saya adalah sesuatu yang bisa memenuhi seluruh volume ruangan di sekitar Anda, tetapi anehnya, saya tidak mengambil ruang fisik sedikit pun dari ruangan itu. Saya memungkinkan Anda melihat semua yang ada di hadapan Anda dengan jelas, dan ketika saya menghilang, segala sesuatu menjadi gelap gulita. Apakah saya?
+A: Cahaya
+DONE:0
+---
+Q: Saya memiliki satu mata besar, tetapi saya tidak bisa benar-benar melihat apa pun. Saya memiliki kemampuan untuk memperlihatkan dunia kepada banyak orang, dan dunia yang saya tunjukkan adalah dunia yang pernah terjadi di masa lalu. Saya merekam momen, tetapi tidak pernah hidup. Apakah saya?
+A: Kamera
+DONE:0
+---
+Q: Saya sering berjalan mondar-mandir tanpa bergerak dari tempat saya berdiri, dan semakin saya berjalan, semakin saya mengeluarkan keringat yang tidak pernah habis. Saya membantu banyak orang untuk berolahraga dengan keras, dan saya membuat Anda lelah meskipun Anda tetap di tempat. Apakah saya?
+A: Treadmil
+DONE:0
+---
+Q: Saya adalah tempat yang dipenuhi dengan banyak air, tetapi saya tidak memiliki kedalaman. Saya memiliki tepi, tetapi tidak memiliki pantai yang sesungguhnya. Di sana sering terjadi perlombaan, tetapi tidak ada ombak besar yang tercipta. Saya adalah kolam air buatan manusia. Apakah saya?
+A: Kolam
+DONE:0
+---
+Q: Apa yang Anda pegang di tangan, tetapi Anda tidak dapat melihatnya sama sekali? Saya adalah alat komunikasi yang menyalurkan emosi dan informasi. Saya bergerak melalui udara dengan kecepatan yang sangat tinggi. Saya adalah ucapan yang dikirimkan kepada orang lain. Apakah saya?
+A: Suara
+DONE:0
+---
+Q: Saya memiliki leher tetapi tidak memiliki kepala, dan punya lengan tetapi tidak punya tangan. Saya selalu mengenakan pakaian, tetapi saya tidak merasa kedinginan. Saya ada untuk membuat penampilan Anda menjadi lebih baik dan rapi. Saya adalah objek yang membantu Anda dalam berbusana. Apakah saya?
+A: Hanger
+DONE:0
+---
+Q: Saya adalah sesuatu yang dibuat dan dihancurkan oleh setiap orang di dunia ini, dan bagi beberapa orang, saya adalah hal terpenting yang mereka miliki. Meskipun saya terus berjalan maju, saya tidak pernah bisa kembali ke masa lalu. Anda harus mengelolanya dengan baik. Apakah saya?
+A: Waktu
+DONE:0
+---
+Q: Saya seringkali penuh dengan lubang, tetapi saya masih mampu menampung air. Meskipun saya tidak memiliki dasar yang padat dan kuat di bagian bawah, saya tetap bisa digunakan untuk membawa air dari satu tempat ke tempat lain. Saya digunakan untuk menyiram tanaman di kebun. Apakah saya?
+A: Busa
+DONE:0
+---
+Q: Saya adalah makhluk yang semakin besar ketika Anda mengambil sesuatu dari saya. Saya tidak bisa tumbuh dengan cara yang normal seperti makhluk hidup lainnya. Saya menjadi lebih dalam dan lebar setiap kali Anda mengurangi isi di dalamnya. Saya adalah sebuah lubang di tanah. Apakah saya?
+A: Lubang
+DONE:0
+---
+Q: Saya dapat berlari tetapi saya tidak punya kaki, dan saya memiliki mulut tetapi tidak bisa berbicara. Saya tidak haus, tetapi saya selalu membutuhkan air untuk beroperasi. Saya adalah benda yang Anda temukan di dekat banyak rumah. Saya bertugas mengalirkan air ke sungai atau laut. Apakah saya?
+A: Sungai
+DONE:0
+---
+Q: Apa yang bisa melompat setinggi gedung bertingkat tertinggi? Meskipun memiliki kemampuan itu, ia tidak akan terluka atau merasakan sakit. Ia sering ditemukan di tempat yang terang dan ada di setiap rumah. Ini adalah benda kecil yang ada di lantai. Apakah saya?
+A: Bayangan
+DONE:0
+---
+Q: Apa yang Anda letakkan di atas meja, lalu memotong dan membaginya, tetapi anehnya, Anda tidak pernah benar-benar memakannya atau memasukkannya ke mulut? Saya adalah alat bantu yang sangat penting saat ada perayaan atau janji. Saya mewakili sesuatu yang sudah berlalu. Apakah saya?
+A: Remi
+DONE:0
+---
+Q: Saya adalah penemuan yang memungkinkan Anda melihat melalui dinding tebal. Semua orang di dunia ini menggunakannya untuk melihat ke luar ruangan. Meskipun saya tembus pandang, saya tidak dapat bergerak dari tempat saya. Saya menghalangi angin dan hujan tetapi membiarkan cahaya masuk. Apakah saya?
+A: Jendela
+DONE:0
+---
+Q: Apa yang bisa memiliki umur panjang hingga ratusan tahun lamanya, tetapi saya tidak akan pernah mengalami hari ulang tahun atau perayaan. Saya bisa berganti-ganti tangan, dan nilai saya berubah setiap saat. Saya adalah objek yang disimpan di bank. Apakah saya?
+A: Uang
+DONE:0
+---
+Q: Saya selalu mengikuti Anda ke mana pun Anda pergi dengan patuh dan diam, tetapi Anda tidak akan pernah bisa menyentuh saya atau bahkan memegang saya. Saya akan menghilang seketika jika Anda berjalan terlalu cepat atau terlalu dekat. Saya adalah gambar diri yang muncul di permukaan. Apakah saya?
+A: Gema
+DONE:0
+---
+Q: Apa yang selalu penuh dengan gigi tajam, tetapi tidak pernah bisa menggigit apa pun? Saya sering bekerja sangat keras untuk merapikan dan membuat penampilan Anda menarik. Saya adalah benda kecil yang sering dibawa di saku atau tas. Saya digunakan untuk menyisir rambut. Apakah saya?
+A: Sisir
+DONE:0
+---
+Q: Anda bisa memecahkan saya, meskipun Anda tidak pernah menyentuh saya dengan tangan Anda. Banyak orang mencoba keras untuk menjaga saya agar tetap utuh dan rahasia. Jika saya rusak, semua orang akan segera tahu tentang apa yang terjadi. Saya adalah janji untuk merahasiakan sesuatu. Apakah saya?
+A: Rahasia
+DONE:0
+---
+Q: Saya bisa menyentuh Anda, tetapi Anda tidak akan bisa menyentuh saya kembali. Saya hanya dapat dirasakan melalui pori-pori kulit Anda yang terbuka. Meskipun tidak terlihat, semua makhluk hidup pasti bisa merasakan kehadiran saya. Saya bergerak dari satu tempat ke tempat lain tanpa kaki. Apakah saya?
+A: Angin
+DONE:0
+---
+
+
 
 
 
