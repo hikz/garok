@@ -1096,7 +1096,7 @@ A: Kalender
 DONE:0
 --- 
 Q: Ketika dua orang berselisih, ada sesuatu kecil yang bisa mereka lakukan untuk memperbaiki semuanya tanpa suara dan tanpa hadiah, hanya dengan gerakan tangan atau tatapan — apa tindakan itu?
-A: MEmeluk
+A: Memeluk
 DONE:0
 ---
 Q: Seorang anak membuka kotak permainan lama dan menemukan benda kecil yang membuatnya teringat orang yang sudah lama pergi; benda itu tak bernilai uang tetapi membuat mata berkaca-kaca — apa benda itu?
@@ -1347,6 +1347,7 @@ Q: Saya bisa menyentuh Anda, tetapi Anda tidak akan bisa menyentuh saya kembali.
 A: Angin
 DONE:0
 ---
+
 
 
 
