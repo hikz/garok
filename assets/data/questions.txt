@@ -1347,6 +1347,84 @@ Q: Saya bisa menyentuh Anda, tetapi Anda tidak akan bisa menyentuh saya kembali.
 A: Angin
 DONE:0
 ---
+Q: Di siang hari aku hilang tak terlihat, Di malam gelap aku muncul memikat. Bentukku kecil bersinar dari kejauhan, Jumlahku banyak, tak bisa dihitung oleh tangan.
+Apakah aku?
+A: Bintang
+DONE:0
+---
+Q:Selalu berada di jalan, penuh debu dan kerikil tajam, Walau banyak yang melindas, aku tak pernah dendam. Badanku bundar dan hitam pekat, Menemani mobil berlari kencang dari tempat ke tempat.
+Apakah aku? 
+A: Ban Mobil
+DONE:0
+---
+Q: Aku dipakai saat tubuhmu sedang basah, Habis mandi atau setelah main di pantai. Semakin lama dipakai, semakin cepat ia kering, Bentukku persegi panjang, lembut dan ringan.
+Apakah aku?
+A: Handuk
+DONE:0
+---
+Q: Aku adalah benda cair yang tidak berbau, Warnaku merah pekat, membuat jantung berdebar kencang. Mengalir di dalam tubuh semua manusia, Tanpaku, kehidupan pasti akan sirna.
+Apakah aku?
+A: Darah
+DONE:0
+---
+Q: Aku punya leher dan juga perut yang buncit, Tapi tak punya kepala, tangan, atau pun kaki. Isiku selalu dikocok-kocok sebelum dituang, Digunakan saat memasak di atas kompor gas.
+Apakah aku?
+A: Teko
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+Q:
+A:
+DONE:0
+---
+
 
 
 
