@@ -19,9 +19,8 @@ Permainan ini dirancang untuk melatih kognitif dan memberikan hiburan yang menye
 
 - ✅ Antarmuka berbasis terminal yang responsif (menggunakan ncurses)
 - ✅ Sistem pertanyaan dinamis dengan berbagai tingkat kesulitan
-- ✅ Sistem penilaian untuk melacak performa pemain
 - ✅ ASCII art yang menarik untuk pengalaman visual
-- ✅ Efek audio untuk meningkatkan pengalaman bermain (opsional)
+- ✅ Efek audio untuk meningkatkan pengalaman bermain 
 - ✅ Gameplay yang cepat dan adiktif
 
 ---
@@ -96,15 +95,6 @@ sudo apt-get install libncurses-dev
 
 ---
 
-## 📊 Sistem Penilaian
-
-- Jawaban yang **benar** akan memberikan poin
-- Jawaban yang **salah** tidak mengurangi poin tetapi tidak menambahnya
-- Semakin **cepat** Anda menjawab, semakin tinggi bonus yang Anda dapatkan (opsional)
-- Total skor akan ditampilkan di akhir permainan
-
----
-
 ## 🎨 Fitur Visual
 
 Permainan ini dilengkapi dengan ASCII art yang menarik:
@@ -163,12 +153,14 @@ Proyek ini dibuat untuk keperluan pembelajaran (UAS - Universitas).
 
 ## 👥 Developer
 
-Dibuat dengan ❤️ untuk Game Development dengan C++
+*Penulis*: hiroba, tety febian
+*Repositori*: [Termul di GitHub](https://github.com/hikz/garok)
 
 ---
 
 ## 💡 Catatan
 
 Untuk memainkan game ini, Anda harus menggunakan **100% otak Anda** untuk mencapai skor tertinggi! 🧠💪
+
 
 Selamat bermain dan semoga bersenang-senang! 🎮✨
