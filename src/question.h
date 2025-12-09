@@ -1,6 +1,4 @@
-// question.h
-#ifndef QUESTION_H
-#define QUESTION_H
+#pragma once
 
 #include <string>
 #include <vector>
@@ -9,8 +7,15 @@
 #include <algorithm>
 #include <cctype>
 #include <ncurses.h>
+#include "ui.h"
+#include "anim.h"
+//#include "../assets/art/frames.h"
+#include "music.h"
+
+#include "ascii-art.hpp"
 
 using namespace std; // diminta: supaya kode lebih mudah dibaca
+
 
 struct Question
 {
@@ -19,147 +24,6 @@ struct Question
     bool done;
 };
 
-// simple word-wrap
-vector<string> wrap_text(const string &text, int maxw)
-{
-    vector<string> out;
-    if (maxw <= 0)
-    {
-        out.push_back(text);
-        return out;
-    }
-    istringstream iss(text);
-    string word, line;
-    while (iss >> word)
-    {
-        if ((int)line.size() + (line.empty() ? 0 : 1) + (int)word.size() <= maxw)
-        {
-            if (!line.empty())
-                line += ' ';
-            line += word;
-        }
-        else
-        {
-            if (!line.empty())
-            {
-                out.push_back(line);
-                line.clear();
-            }
-            // break very long words
-            while ((int)word.size() > maxw)
-            {
-                out.push_back(word.substr(0, maxw));
-                word = word.substr(maxw);
-            }
-            line = word;
-        }
-    }
-    if (!line.empty())
-        out.push_back(line);
-    if (out.empty())
-        out.push_back("");
-    return out;
-}
-
-// draw one card window at (y,x) with provided width/height and text lines
-void draw_card(int y, int x, int w, int h, const vector<string> &lines)
-{
-    if (w < 4 || h < 3)
-        return; // too small
-    WINDOW *winn = newwin(h, w, y, x);
-
-    // interior background (pair 2)
-    wbkgd(winn, COLOR_PAIR(2));
-
-    // draw colored border: enable color pair 1 then call box
-    wattron(winn, COLOR_PAIR(1));
-    box(winn, 0, 0);
-    wattroff(winn, COLOR_PAIR(1));
-
-    // print text with padding
-    int padx = 2;
-    int pady = 1;
-    int inner_w = w - padx * 2;
-    int inner_h = h - pady * 2;
-    for (int i = 0; i < (int)lines.size() && i < inner_h; ++i)
-    {
-        string t = lines[i];
-        if ((int)t.size() > inner_w)
-            t = t.substr(0, inner_w);
-        mvwprintw(winn, pady + i, padx, "%s", t.c_str());
-    }
-
-    wrefresh(winn);
-    // note: not deleting winn so it remains visible until endwin()
-}
-
-// small helper to compute size and draw card given paragraphs
-void make_card_and_draw(int starty, int startx, int maxw, int maxh, const vector<string> &paragraphs)
-{
-    int padx = 2, pady = 1;
-    int usable_w = max(1, maxw - 2 * padx);
-
-    // wrap paragraphs
-    vector<string> wrapped;
-    for (auto &p : paragraphs)
-    {
-        auto wl = wrap_text(p, usable_w);
-        for (auto &s : wl)
-            wrapped.push_back(s);
-        wrapped.push_back(""); // blank line between paragraphs
-    }
-    if (!wrapped.empty())
-        wrapped.pop_back(); // remove trailing blank
-
-    // measure needed width & height
-    int longest = 0;
-    for (auto &s : wrapped)
-        longest = max<long long>(longest, s.size());
-    int need_w = max(12, longest + 2 * padx);
-    int need_h = max(3, (int)wrapped.size() + 2 * pady);
-
-    int final_w = min(need_w, maxw);
-    int final_h = min(need_h, maxh);
-
-    // rewrap if clamped horizontally
-    int final_inner_w = max(1, final_w - 2 * padx);
-    vector<string> final_wrapped;
-    for (auto &p : paragraphs)
-    {
-        auto wl = wrap_text(p, final_inner_w);
-        for (auto &s : wl)
-            final_wrapped.push_back(s);
-        final_wrapped.push_back("");
-    }
-    if (!final_wrapped.empty())
-        final_wrapped.pop_back();
-
-    draw_card(starty, startx, final_w, final_h, final_wrapped);
-}
-
-// fungsi helper sederhana
-string trim(const string &s)
-{
-    size_t a = s.find_first_not_of(" \t\r\n");
-    if (a == string::npos)
-        return "";
-    size_t b = s.find_last_not_of(" \t\r\n");
-    return s.substr(a, b - a + 1);
-}
-
-string toLower(const string &s)
-{
-    string r = s;
-    for (size_t i = 0; i < r.size(); ++i)
-        r[i] = (char)tolower((unsigned char)r[i]);
-    return r;
-}
-
-// Membaca file questions.txt dengan format:
-// Q: soal
-// A: jawaban1|jawaban2
-// DONE:0
-// ---  (pembatas)
 vector<Question> loadQuestions(const string &filename)
 {
     vector<Question> out;
@@ -218,6 +82,34 @@ vector<Question> loadQuestions(const string &filename)
     return out;
 }
 
+void selamat() {
+    srand(time(NULL)); // biar bener bener acak
+    int angka = rand() % 4 + 1; // hasil 1-4
+
+    switch (angka) {
+        case 1:
+            play_music("assets/audio/chibi.wav");
+            play_frames(chibi, chibi.size(), 7, 30, 120, 70, 20, true);
+            break;
+
+        case 2:
+            play_music("assets/audio/arisu.wav");
+            play_frames(arisu, arisu.size(), 7, 30, 120, 70, 20, true);
+            break;
+
+        case 3:
+            play_music("assets/audio/doodle.wav");
+            play_frames(doodle, doodle.size(), 7, 30, 120, 70, 20, true);
+            break;
+
+        case 4:
+            play_music("assets/audio/dragon.wav");
+            play_frames(dragon, dragon.size(), 7, 30, 120, 70, 20, true);
+            break;
+    }
+} 
+
+
 // Menyimpan kembali file dengan format yang sama
 bool saveQuestions(const string &filename, const vector<Question> &questions)
 {
@@ -232,7 +124,7 @@ bool saveQuestions(const string &filename, const vector<Question> &questions)
         {
             if (j)
                 ofs << "|";
-            ofs << questions[i].answers[j];
+            ofs <<"A: " << questions[i].answers[j];
         }
         ofs << "\n";
         ofs << "DONE:" << (questions[i].done ? "1" : "0") << "\n";
@@ -240,6 +132,13 @@ bool saveQuestions(const string &filename, const vector<Question> &questions)
             ofs << "---\n";
     }
     return true;
+}
+
+void reset(vector<Question> &questions)
+{
+    for (auto &q : questions) {
+        q.done = false;
+    }
 }
 
 // fungsi input sederhana (menggunakan ncurses)
@@ -263,27 +162,28 @@ bool checkAnswer(const Question &q, const string &given)
     return false;
 }
 
-// UI utama berbasis ncurses
-// Navigasi: n (next), p (prev), a (answer), m (toggle mark), s (save), q (quit)
+
 void runQuizUI(vector<Question> &questions, const string &filename)
 {
     // init
     initscr();
-    cbreak();
-    noecho();
-    keypad(stdscr, TRUE);
-    curs_set(0);
+    cbreak(); 
+    noecho(); // jangan tampilkan input user
+    keypad(stdscr, TRUE); // enable arrow keys
+    curs_set(0); // sembunyikan kursor
 
-    if (!has_colors())
+    if (!has_colors()) // cek dukungan warna
     {
         endwin();
         printf("Terminal does not support colors\n");
         return;
     }
+
     start_color();
     use_default_colors();
-    // pair 1: red border on default bg; pair 2: white text on black background
-    init_pair(1, COLOR_RED, -1);
+    // pair 1: cyan border on default bg; 
+    // pair 2: white text on black background
+    init_pair(1, COLOR_YELLOW, -1);
     init_pair(2, COLOR_WHITE, COLOR_BLACK);
 
     // clear stdscr background black so cards contrast
@@ -314,14 +214,9 @@ void runQuizUI(vector<Question> &questions, const string &filename)
     int right_bottom_h = rows - right_top_h - gap;
 
     int n = (int)questions.size();
-    if (n == 0)
+    if (n == 0) // keluar jika tidak ada soal
     {
-        // mvprintw(1, 2, "Tidak ada soal. Pastikan file soal ada dan format benar.");
-        // mvprintw(3, 2, "Tekan tombol apapun untuk keluar.");
-        // getch();
-        // endwin();
-        // return;
-
+    
         //  contents
         vector<string> leftTop = {
             "Tidak ada yang bisa ditampilkan",
@@ -332,8 +227,9 @@ void runQuizUI(vector<Question> &questions, const string &filename)
             "Tekan tombol apa saja untuk keluar dari game",
             "Terima kasih telah bermain game ini"};
         vector<string> rightCol = {
-            "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Selamat Datang di Garok Player ;)",
+            "Garok adalah game kuis interaktif berbasis terminal yang menantang Kamu untuk menjawab berbagai pertanyaan menarik.",
+            "Pastikan Kamu menggunakan 100% kemampuan otakmu untuk menjawab setiap pertanyaan yang ada. :0",
         };
 
         // ---- gambar kartu ----
@@ -352,16 +248,7 @@ void runQuizUI(vector<Question> &questions, const string &filename)
     bool quit = false;
     while (!quit)
     {
-        // clear();
         int row = 1;
-        // mvprintw(row++, 2, "Soal %d / %d", idx + 1, n);
-        // mvprintw(row++, 2, "Status: %s", questions[idx].done ? "Sudah dijawab" : "Belum dijawab");
-        // row++;
-        // mvprintw(row++, 2, "%s", questions[idx].text.c_str());
-        // row++;
-        // mvprintw(row++, 2, "Perintah: (n)ext  (p)rev  (a)nswer  (m)ark toggle  (s)ave  (q)uit");
-        // row++;
-        // mvprintw(row++, 2, "Masukkan pilihan: ");
 
         //  contents
         vector<string> leftTop = {
@@ -370,12 +257,14 @@ void runQuizUI(vector<Question> &questions, const string &filename)
             "\n",
             questions[idx].text};
         vector<string> leftBottom = {
-            "(n)ext (>) | (p)rev (<) | (a)nswer | (j)ump | (r)eset | (s)ave | (q)uit",
+            "(n)ext (>) | (p)rev (<) | (a)nswer | (r)eset | (s)ave | (q)uit",
             "",
             ""};
         vector<string> rightCol = {
-            "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "Selamat Datang di Garok Player ;)",
+            "Garok adalah game kuis interaktif berbasis terminal yang menantang Kamu untuk menjawab berbagai pertanyaan menarik.",
+            "Pastikan Kamu menggunakan 100% kemampuan otakmu untuk menjawab setiap pertanyaan yang ada. :0", 
+
         };
 
         // ---- gambar kartu ----
@@ -384,7 +273,9 @@ void runQuizUI(vector<Question> &questions, const string &filename)
         make_card_and_draw(0, left_w + gap, right_w, right_h, rightCol);
 
         refresh();
+        
         int ch = getch();
+        
         if (ch == 'n' || ch == KEY_RIGHT)
         {
             idx = (idx + 1) % n;
@@ -400,7 +291,7 @@ void runQuizUI(vector<Question> &questions, const string &filename)
         else if (ch == 'p' || ch == KEY_LEFT)
         {
             idx = (idx - 1 + n) % n;
-            
+
             leftTop = {
                 "Soal saat ini: " + to_string(idx + 1) + " / " + to_string(n),
                 "Status: " + string(questions[idx].done ? "Sudah dijawab" : "Belum dijawab / Jawaban belum benar"),
@@ -409,24 +300,27 @@ void runQuizUI(vector<Question> &questions, const string &filename)
             clear();
             refresh();
         }
-        else if (ch == 'j' || ch == KEY_LEFT)
-        {
-           // loncat ke soal tertentu
-        }
         else if (ch == 'a')
         {
             mvprintw(left_top_h + gap + 2, 2, "Ketik jawaban: ");
 
-            curs_set(1);
+            curs_set(1); // munculkan kursor
             string user = getInput(left_top_h + gap + 2, 18, 60);
-            curs_set(0);
+            curs_set(0); // sembunyikan kursor
             bool ok = checkAnswer(questions[idx], user);
             if (ok)
-            {   
+            {
                 clear();
                 questions[idx].done = true;
                 refresh();
-                mvprintw(left_top_h + gap + 3, 2, "Benar! (tekan apapun)");
+                mvprintw(left_top_h + gap, 2, "Selamaatttt!!!");
+                mvprintw(left_top_h + gap + 1, 2, "Jawabanmu Benar!  >_<");
+                mvprintw(left_top_h + gap + 3, 2, "tekan space....");
+                selamat();
+                stop_music();
+                mvprintw(left_top_h + gap + 1, 2, "Ayo Kerjakan soal yang lain!  >_< ");
+                mvprintw(left_top_h + gap + 2, 2, "Tekan apapun...");
+
             }
             else
             {
@@ -439,26 +333,36 @@ void runQuizUI(vector<Question> &questions, const string &filename)
         else if (ch == 'r')
         {
             // reset data
+            
+            mvprintw(left_top_h + gap + 2, 2, "Yakin ingin melakukan reset? (y/n) ");
+            int c2 = getch();
+            if (c2 == 'y' || c2 == 'Y')
+            {
+                reset(questions);
+                mvprintw(left_top_h + gap + 3, 2, "Berhasil melakukan reset soal :v ");
+                mvprintw(left_top_h + gap + 4, 2, "Tekan apapun...");
+            }
         }
         else if (ch == 's')
         {
             saveQuestions(filename, questions);
-            mvprintw(row++, 2, "Tersimpan ke file. Tekan apapun...");
+            mvprintw(left_top_h + gap + 2, 2, "Tersimpan ke file. Tekan apapun...");
             getch();
         }
         else if (ch == 'q')
         {
-            mvprintw(row++, 2, "Simpan sebelum keluar? (y/n) ");
+            mvprintw(left_top_h + gap + 2, 2, "Simpan sebelum keluar? (y/n) ");
             int c2 = getch();
             if (c2 == 'y' || c2 == 'Y')
             {
                 saveQuestions(filename, questions);
+                quit = true;
             }
-            quit = true;
+            
         }
     }
 
     endwin();
 }
 
-#endif // QUESTION_H
+

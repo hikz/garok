@@ -1,12 +1,13 @@
 #include "src/question.h"
-#include "assets/art/ascii-art.h"
+#include "src/ui.h"
+#include "src/ascii-art.hpp"
 #include <iostream>
 using namespace std;
 
-int main(int argc, char** argv) {
-    string filename = "assets/data/questions.txt";
-    if (argc >= 2) filename = argv[1];
+int main() {
 
+    string filename = "assets/data/questions.txt"; // lokasi file soal
+    
     vector<Question> questions = loadQuestions(filename);
     runQuizUI(questions, filename);
 

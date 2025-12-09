@@ -338,74 +338,1458 @@ Q: Aku adalah tindakan mengambil, Aku dilakukan dengan tanganmu, Aku adalah lawa
 A: Curi
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku selalu berjalan tapi tak punya kaki. Aku berbisik tapi tak punya mulut. Aku datang seperti hembusan dan lenyap seperti tiupan. Siapakah aku?
+A: Angin
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku hanya ada jika ada cahaya, tetapi jika cahaya menerpaku, aku akan mati dan menghilang. Aku tak pernah bisa disentuh. Siapakah aku?
+A: Pelangi
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku bisa menampung semua benda di dunia, termasuk lautan dan hutan, namun aku lebih kecil dari kepalan tanganmu. Siapakah aku?
+A: Bola mata
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku bergerak cepat di atas rel besi yang panjang dan lurus, Tubuhku sangat panjang, seperti ular raksasa yang meliuk,Aku membawa banyak penumpang ke tempat tujuan yang jauh Siapakah aku, si alat transportasi yang sangat berisik?
+A: Kereta api
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku punya kepala tapi tak punya rambut untuk disisir,Aku punya leher yang panjang tapi tak punya baju untuk dipakai,Aku sering digunakan untuk menuangkan minuman atau cairan lain,Siapakah aku, yang terbuat dari kaca atau plastik keras?
+A: Botol
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku selalu di depan tapi tak bisa dilihat dengan mata,Aku berisi semua hal yang akan terjadi di masa mendatang,Semua orang pasti akan menghadapiku suatu hari nanti, Apakah aku, yang semakin lama semakin terasa dekat?
+A: Masa depan
 DONE:0
 ---
-Q: 
-A: 
+Q:Aku punya banyak gigi kecil dan tajam,Tapi aku tak punya mulut untuk mengunyah makanan, Aku digunakan untuk merapikan rambut yang kusut,Siapakah aku, yang selalu membuat penampilanmu rapi? 
+A: Sisir
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku terbuat dari karet dan bentukku selalu bundar sempurna,Aku harus diisi udara yang banyak agar aku bisa bergulir dengan baik,Tanpa aku, kendaraan tidak bisa berjalan dengan lancar dan aman,Siapakah aku, yang selalu berputar di atas jalan aspal yang panas?
+A: Ban
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku punya banyak lubang kecil di seluruh permukaanku yang tipis, Aku digunakan untuk menyaring bahan makanan dari air atau minyak, Aku sering ada di dapur saat ibu sedang memasak mie instan,Siapakah aku, alat pemisah yang sangat berguna dan berlubang?
+A: Saringan
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku punya kunci tapi aku tak bisa membuka pintu rumahmu sendiri, Aku terbuat dari logam dan bisa membuat pintu terkunci dengan aman,Aku hanya akan terbuka jika kunci yang pas masuk ke dalam diriku,Siapakah aku, si penjaga yang tak punya mata tapi sangat setia?
+A: Gembok
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku hanya ada jika ada cahaya yang datang dan menerpaku,Aku tidak bisa disentuh oleh tangan dan tak bisa dipegang erat-erat,Semakin gelap lingkungan di sekitarmu, aku semakin terlihat jelas,Siapakah aku, yang selalu mengikuti ke mana pun kamu melangkah?
+A: Bayangan
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku punya kulit yang tebal tapi aku tidak punya darah sama sekali,Aku bisa melindungi kepalamu saat kamu berada di bawah hujan lebat, Aku bisa dilipat kecil saat tidak digunakan dan dibawa ke mana-mana,Siapakah aku, yang suka menangis (meneteskan air) saat ditutup?
+A: Payung
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku selalu diinjak-injak oleh semua orang yang datang ke rumah, Aku membuat ruangan terlihat rapi, bersih, dan terasa hangat, Aku terbuat dari serat kain tebal yang lembut dan berwarna-warni,Siapakah aku, yang selalu tidur di lantai ruang tamu atau kamar?
+A: Karpet
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku punya banyak lembar daun, tapi aku bukan pohon yang berdiri tegak,Aku punya halaman, tapi aku bukan buku yang bisa kamu baca ceritanya, Aku punya banyak angka, tapi aku bukan kalkulator untuk berhitung Siapakah aku, yang membantu kamu mengingat semua tanggal penting?
+A: Kalender
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku bisa memotong tanpa punya mata pisau yang tajam sama sekali,Aku membuat kertas menjadi terbagi dua dengan cepat saat ditekan,Aku punya dua lubang yang harus dimasuki oleh jari-jari tanganmu,Siapakah aku, alat pemotong kertas yang sering ada di meja sekolah?
+A: Gunting
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku terbuat dari kayu dan karet yang empuk dan lentur saat digosok, Aku bisa menghapus semua kesalahanmu yang tertulis di atas kertas,Aku selalu mengecil dan habis sedikit demi sedikit saat terus digunakan, Siapakah aku, penyelamat dari kesalahan yang tertulis dengan pensil?
+A: Penghapus
 DONE:0
 ---
-Q: 
-A: 
+Q: Aku bisa menampung semua benda yang ada di seluruh dunia ini,Aku bisa menyimpan semua pemandangan laut, gunung, dan hutan di dalamnya,Meskipun begitu, aku lebih kecil dari kepalan tanganmu sendiri ,aku si penerima gambar yang sangat sensitif dan berkedip?
+A: Mata
 DONE:0
 ---
+Q: Aku punya lidah panjang tapi tak bisa menjilat makanan,Aku bisa bicara dengan suara yang sangat keras dan lantang,
+Aku sering digunakan di panggung konser atau ceramah besar,Siapakah aku, si pembuat suara jadi lebih nyaring terdengar?
+A: Speaker
+DONE:0
+---
+Q: Aku terbuat dari tepung yang digoreng hingga mengembang besar,Bentukku bundar dan tipis, aku renyah saat dikunyah keras,Aku adalah teman wajib saat makan nasi atau soto ayam,Siapakah aku, yang mudah hancur jika direndam air panas?
+A: Kerupuk
+DONE:0
+---
+Q: Saya selalu ikut ke mana pun kau pergi, tapi tak pernah bisa kau sentuh. Saya akan menghilang saat gelap menyelimuti dunia. Bentuk saya berubah-ubah, kadang pendek, kadang sangat tinggi. Saya tak punya suara, tapi kehadiran saya selalu disadari.
+A: Bayangan
+DONE:0
+---
+Q: Saya tidak terlihat, tapi kekuatan saya sangat besar. Saya bisa menjatuhkan pohon, atau hanya menggerakkan sehelai rambut. Orang bisa merasakan kehadiran saya, tapi tak bisa menangkap saya. Saya membawa aroma hujan dan debu perjalanan.
+A: Angin
+DONE:0
+---
+Q: Saya punya mata, tapi tak pernah bisa melihat. Tubuh saya ramping dan sangat tajam di ujungnya. Tugas saya adalah menyatukan dua hal yang terpisah. Setelah tugas saya selesai, saya akan disembunyikan di kotak.
+A: Jarum
+DONE:0
+---
+Q: Saat saya kering, saya terasa sangat ringan. Ketika saya haus, berat saya bisa berkali-kali lipat. Tugas saya adalah menyerap cairan atau membersihkan tubuh. Saya sering digantung setelah dipakai di kamar mandi.
+A: Handuk
+DONE:0
+---
+Q: Saya tak punya mulut, tapi saya bisa mengulang semua kata-katamu. Saya hanya muncul di tempat yang sangat terbuka atau sunyi, seperti lembah. Saya selalu datang terlambat setelah pesan asliku disampaikan. Saya adalah pantulan dari suara yang dilepaskan.
+A: Gema
+DONE:0
+---
+Q: Saya terbuat dari air, tapi saya keras seperti batu. Saya mudah mencair jika berdekatan dengan kehangatan. Saya sering membuat minuman terasa lebih segar dan dingin. Bentuk saya tergantung pada cetakan wadah saya.
+A: Es
+DONE:0
+---
+Q: Saya tak pernah bergerak, tapi saya selalu naik dan turun. Tujuan saya adalah menghubungkan lantai yang berbeda di sebuah gedung. Saya memiliki banyak anak tangga, tapi saya bukan manusia. Orang harus berhati-hati agar tidak tergelincir saat melewati saya.
+A: Tangga
+DONE:0
+---
+Q: Saya adalah sesuatu yang bisa kau rasakan, tapi tak bisa kau dengar. Saya bisa membuat suasana menjadi khidmat atau menakutkan. Saya segera lenyap begitu sebuah suara keras muncul. Orang sering mencari saya untuk dapat beristirahat dengan tenang.
+A: Keheningan
+DONE:0
+---
+Q: Saya lahir setiap hari, membawa berita dari seluruh dunia. Umur saya hanya sehari, lalu saya sering dibuang atau didaur ulang. Badan saya penuh dengan tinta, tapi saya bukan printer. Orang membacaku sambil ditemani kopi di pagi hari.
+A: Koran
+DONE:0
+---
+Q: Saya adalah sesuatu yang hidup, tapi tidak bernapas. Saya bergerak lincah dan warna saya selalu oranye kemerahan. Jika diberi makan (kayu), saya akan tumbuh semakin besar. Air adalah musuh terbesar saya, yang akan mematikan saya seketika.
+A: Api
+DONE:0
+---
+Q: Saya berwarna hijau saat masih muda, dan bisa berubah merah, kuning, atau tetap hijau saat tua. Saya memiliki mahkota di kepala, tapi saya bukan seorang raja atau ratu. Daging saya sangat manis dan aromanya khas saat matang. Saya sangat populer dijadikan jus atau dimakan langsung setelah dikupas.
+A: Mangga
+DONE:0
+---
+Q: Saya berdiri tegak di pojok ruangan, menyimpan rahasia dan kenangan. Saya punya banyak pintu dan laci, tapi tak bisa mengunci sendiri. Di dalam tubuh saya, tersimpan kain-kain yang tertata rapi. Setiap hari, saya membantu orang menentukan apa yang akan mereka kenakan.
+A: Lemari
+DONE:0
+---
+Q: Saya jatuh dari langit dalam jumlah yang tak terhitung. Sebelum jatuh, saya berkumpul dulu menjadi awan kelabu. Kehadiran saya sangat ditunggu oleh para petani yang kehausan. Setelah saya selesai, pelangi indah kadang muncul sebagai salam perpisahan.
+A: Hujan
+DONE:0
+---
+Q: Saya selalu maju, tak pernah bisa mundur walau sedetik. Saya adalah mata uang yang paling berharga dan tak tergantikan. Jika saya sudah berlalu, kau hanya bisa mengenang apa yang terjadi. Setiap pergantian hari, saya terus bertambah tanpa bisa dihentikan.
+A: Waktu
+DONE:0
+---
+Q: Saya bisa menjadi sangat panjang, tapi terus memendek setiap hari. Kepala saya harus diruncingkan agar bisa melaksanakan tugas saya. Setiap kata dan gambar yang saya buat, bisa dihapus dengan mudah. Saya meninggalkan jejak abu-abu yang bisa dibentuk sesuka hati.Apakah saya?
+A: Pensil
+DONE:0
+---
+Q: Saya adalah jembatan warna yang megah di angkasa. Saya hanya muncul sesaat, setelah ada hujan dan terik matahari bersamaan. Warna saya selalu tujuh, berurutan dengan indah dan harmonis. Mitos bilang, di ujung saya ada sebuah peti berisi harta karun
+A: Pelangi
+DONE:0
+---
+Q: Saya terbuat dari air, gula, dan sering dicampur dengan susu. Saya harus disimpan dalam suhu yang sangat dingin agar tetap padat. Saya menjadi favorit saat cuaca panas tiba dan punya banyak rasa. Saya cepat sekali meleleh jika terlalu lama di luar ruangan.
+A: Es krim
+DONE:0
+---
+Q: Saya adalah hewan yang sangat kecil dan punya banyak kaki. Saya bekerja secara kolektif dan sangat terorganisir di dalam sarang. Saya suka membawa makanan yang lebih besar dari tubuh saya sendiri. Jika kau menemukan gula jatuh, tak lama kemudian saya pasti datang berbaris.
+A: Semut
+DONE:0
+---
+Q:Saya terbuat dari kain, kertas, atau kulit yang tebal dan kuat. Saya adalah pelindung untuk selembar cerita atau informasi. Saya dihias dengan judul yang menarik, kadang dengan gambar. Saya yang pertama kali dilihat saat kau mengambil sebuah buku. 
+A: Sampul
+DONE:0
+---
+Q: Saya adalah pesan yang dikirimkan melalui jaringan kabel atau nirkabel. Saya bisa berisi tulisan, foto, atau video singkat. Saya sering berdering di sakumu, memberi tahu bahwa ada yang mencoba menghubungimu. Saya adalah pengganti surat, yang sangat cepat sampai di tujuan.
+A: Pesan
+DONE:0
+---
+Q: Saya memiliki dua roda, tapi saya tidak bisa berjalan sendiri. Saya butuh seseorang untuk menaiki dan mengayuh agar saya bergerak. Saya tidak memerlukan bensin, hanya kekuatan otot manusia. Saya adalah teman baik bagi yang suka berolahraga atau sekadar berkeliling komplek
+A: Sepeda
+DONE:0
+---
+Q: Saya sering berwarna hijau atau ungu, tumbuh bergerombol di tangkai. Rasanya asam manis, dan sering diolah menjadi minuman anggur. Orang sering memanen saya di kebun yang luas dan berjemur matahari. Saya sering muncul sebagai hiasan kue atau dimakan sebagai pencuci mulut.
+A: Anggur
+DONE:0
+---
+Q: Saya terbuat dari logam dan punya pegangan yang nyaman untuk digenggam. Tugas saya adalah mengangkat makanan dari minyak yang sangat panas. Bentuk saya seperti sendok besar dengan banyak lubang kecil. Tanpa saya, akan sulit sekali meniriskan kerupuk atau gorengan.
+A: Serokan
+DONE:0
+---
+Q: Saya sangat banyak jumlahnya, bersinar redup di langit yang gelap. Saya tidak sebesar dan secerah bulan, tapi saya lebih banyak. Bentuk saya selalu sama, dan saya sering dijadikan panduan oleh pelaut. Ketika malam cerah, saya menciptakan pemandangan yang indah dan penuh inspirasi
+A: Bintang
+DONE:0
+---
+Q: Saya membuat tubuh terasa panas dan sering diikuti sakit kepala. Saya adalah pertanda bahwa tubuh sedang melawan infeksi yang masuk. Suhu tubuh yang meningkat adalah ciri khas utama kehadiran saya. Untuk meredakan saya, orang sering minum obat penurun panas.
+A: Demam
+DONE:0
+---
+Q: Saya sering dipakai di kepala, melindungi dari terik matahari atau hujan. Saya memiliki lidah yang lebar di bagian depan sebagai peneduh. Saya punya pengatur ukuran di belakang agar pas dipakai. Para pemain baseball sering memakai saya sebagai atribut wajib
+A: Topi
+DONE:0
+---
+Q: Saya lahir dari sawah, diolah dengan air dan kemudian dikukus. Saya adalah makanan utama yang disantap hampir seluruh penduduk Indonesia. Rasanya hambar, tapi sangat cocok dipadukan dengan lauk dan sayur. Tanpa saya, orang merasa belum makan, meskipun sudah kenyang
+A: Nasi
+DONE:0
+---
+Q: Saya adalah tarikan tak terlihat yang selalu menarik semua benda ke bawah. Tanpa saya, semua benda di dunia ini akan melayang bebas. Saya membantu apel jatuh ke tanah, bukan terbang ke langit. Isaac Newton terkenal karena mempelajari dan menemukan prinsip saya
+A: Gravitasi
+DONE:0
+---
+Q: Saya terletak di wajah, tepat di antara kedua mata. Tugas utama saya adalah untuk mencium berbagai macam bau. Saya memiliki dua lubang yang sangat penting untuk bernapas. Bentuk saya bermacam-macam, kadang mancung, kadang pesek.
+A: Hidung
+DONE:0
+---
+Q: Saya berasal dari pohon, tapi saya sudah tidak memiliki daun. Saya sangat kuat dan sering dijadikan bahan utama rumah atau perabot. Saya bisa dipotong, diukir, dan diwarnai sesuai kebutuhan. Orang harus hati-hati, karena saya sangat mudah dimakan oleh rayap
+A: Kayu
+DONE:0
+---
+Q: Saya adalah kotak hitam atau perak yang sering diletakkan di meja. Saya bisa menampilkan gambar, video, dan semua informasi dunia. Saya membutuhkan mouse dan keyboard agar bisa dioperasikan dengan baik. Saya adalah jendela menuju internet dan tempat orang bekerja atau bermain.
+A: Komputer
+DONE:0
+---
+Q: Saya tumbuh di dalam tanah dan sering berwarna oranye cerah. Rasanya manis dan mengandung vitamin A yang sangat baik untuk mata. Saya adalah makanan favorit bagi kelinci yang lincah dan lucu. Saya sering diolah menjadi sup atau bahkan kue yang lezat.
+A: Wortel
+DONE:0
+---
+Q: Tugas saya adalah memastikan semua angka dan pembukuan berjalan benar. Saya sering berhadapan dengan faktur, utang, dan piutang perusahaan. Saya harus sangat teliti, karena kesalahan kecil bisa berakibat fatal. Saya bekerja keras terutama saat menjelang akhir bulan atau akhir tahun
+A: Akuntan
+DONE:0
+---
+Q: Saya adalah hamparan pasir luas yang berbatasan langsung dengan lautan. Orang datang kepada saya untuk berjemur, bermain air, atau melihat matahari terbenam. Saya dipenuhi suara deburan ombak yang tiada henti. Di sini, banyak penjual ikan bakar dan kelapa muda segar
+A: Pantai
+DONE:0
+---
+Q: Saya memiliki kepala berbentuk persegi panjang yang ditutupi serat kasar. Saya membutuhkan sabun dan air untuk melakukan tugas saya dengan maksimal. Tugas saya adalah menghilangkan kotoran yang menempel di lantai. Setelah selesai dipakai, saya harus dijemur agar tidak berjamur.
+A: Spons
+DONE:0
+---
+Q: Saya berasal dari ayam atau bebek, dan bentuk saya bulat oval. Saya mudah pecah jika terbentur atau jatuh ke lantai. Saya bisa diolah menjadi dadar, mata sapi, atau dicampur pada kue. Saya adalah sumber protein yang murah dan mudah didapatkan.
+A: Telur
+DONE:0
+---
+Q: Saya adalah kondisi saat langit ditutupi oleh uap air yang tebal. Cahaya matahari tidak bisa menembus, membuat suasana menjadi agak gelap dan dingin. Saya sering menjadi pertanda bahwa hujan akan segera turun ke bumi. Pemandangan di kejauhan menjadi kabur dan tidak jelas saat saya datang.
+A: Mendung
+DONE:0
+---
+Q: Permainan ini dilakukan di lapangan hijau dan dimainkan oleh dua tim sebelas orang. Tujuan utamanya adalah memasukkan bola ke gawang lawan menggunakan kaki. Wasit adalah penegak hukum yang memimpin jalannya pertandingan. Ini adalah olahraga paling populer di seluruh dunia, selalu menarik perhatian.
+A: Sepak bola
+DONE:0
+---
+Q: Saya terletak di paling atas, berfungsi sebagai penutup dan pelindung. Saya mencegah air hujan masuk ke dalam rumah dan melindungi dari panas. Bahan saya bisa terbuat dari genteng, seng, atau asbes yang kuat. Jika saya bocor, seisi rumah akan basah dan banjir saat hujan.
+A: Atap
+DONE:0
+---
+Q: Saya adalah alat tukar yang digunakan untuk membeli barang atau jasa. Saya punya nilai yang berbeda-beda, dan bisa berupa kertas atau logam. Saya harus disimpan dengan aman di dompet, bank, atau saku celana. Tanpa saya, perdagangan tidak akan berjalan dan ekonomi bisa berhenti.
+A: Uang
+DONE:0
+---
+Q: Saya melindungi kakimu, tapi saya tidak menutupi seluruhnya. Saya sering dipakai saat di rumah atau ke tempat yang dekat. Bunyi saya khas saat kau berjalan cepat di atas lantai keras. Hargaku lebih murah dan bahanku lebih sederhana dari sepatu
+A: Sandal
+DONE:0
+---
+Q: Saya memiliki leher panjang dan badan berongga. Saya memiliki senar yang harus dipetik untuk menghasilkan melodi. Saya sering menemani para penyanyi di tepi pantai atau api unggun. Di dunia musik, saya adalah salah satu instrumen yang paling populer.
+A: Gitar
+DONE:0
+---
+Q: Saya selalu basah, tapi saya tidak pernah kedinginan. Saya membantu Anda merasakan manis, asam, pahit, dan asin. Saya terletak di dalam mulut, dan saya sangat fleksibel. Tanpa saya, Anda akan kesulitan berbicara dan menelan.
+A: Lidah
+DONE:0
+---
+Q: Saya berasal dari biji yang diolah, digiling, dan diseduh air panas. Aroma saya sangat kuat dan khas, sering dinikmati di pagi hari. Saya memberi energi dan menghilangkan rasa kantuk bagi banyak orang. Saat disajikan, warnanya biasanya hitam pekat atau cokelat susu.
+A: Kopi
+DONE:0
+---
+Q: Saya datang berpasangan, dan saya harus dikenakan agar bisa dipakai. Saya melindungi kaki dari kerikil tajam dan cuaca dingin. Saya sering memiliki tali yang harus diikat agar tidak lepas. Saya wajib dipakai saat hendak pergi ke kantor atau sekolah.
+A: Sepatu
+DONE:0
+---
+Q: Saya melayang tinggi di angkasa, bentuk saya selalu berubah-ubah. Saya terlihat seperti kapas putih, atau kadang kelabu gelap. Saya adalah penampung air sebelum air tersebut berubah menjadi hujan. Saat matahari terbenam, saya sering diwarnai oranye dan ungu.
+A: Awan
+DONE:0
+---
+Q: Saya adalah kotak ajaib yang bisa menampilkan gambar bergerak dan suara. Saya sering menjadi pusat perhatian keluarga di ruang tamu. Saya punya banyak saluran yang menyajikan berita, film, dan kartun. Untuk mengganti program, Anda memerlukan remote control.
+A: Televisi
+DONE:0
+---
+Q: Saya memiliki satu mata bulat, tapi bukan makhluk hidup. Tugas saya adalah menangkap dan mengabadikan momen berharga. Saya mengeluarkan bunyi "klik" kecil saat mengambil gambar. Hasil kerja saya bisa dicetak, atau disimpan dalam bentuk digital.
+A: Kamera
+DONE:0
+---
+Q: Saya berwarna putih dan berbentuk kristal kecil-kecil. Saya sangat penting dalam masakan untuk menambah rasa asin. Saya berasal dari air laut yang dikeringkan dan diolah di tambak. Tanpa saya, rasa masakan akan hambar dan kurang nikmat.
+A: Garam
+DONE:0
+---
+Q: Saya adalah satelit alami yang bersinar di malam hari. Cahaya saya bukan dari diri sendiri, melainkan pantulan dari matahari. Bentuk saya terlihat berubah-ubah, kadang bulat penuh, kadang sabit saja. Saya menemani bintang-bintang saat langit menjadi gelap gulita.
+A: Bulan
+DONE:0
+---
+Q: Aku adalah benda yang kecil, Aku dipakai untuk menjahit, Aku punya mata untuk benang, Aku sangat runcing dan tajam, Aku sering hilang saat jatuh, Aku adalah alat penjahit.
+A: Jarum
+DONE:0
+---
+Q: Aku adalah bahan makanan pokok, Aku terbuat dari tepung terigu, Aku bisa diisi daging atau keju, Aku sering dijadikan menu sarapan, Aku punya banyak bentuk, Aku bisa dipanggang atau digoreng, Makanan berbahan tepung.
+A: Roti
+DONE:0
+---
+Q: Aku adalah sebuah profesi, Aku bekerja di rumah sakit, Aku merawat orang yang sakit, Aku punya baju seragam putih, Aku sering membantu dokter, Aku adalah perawat pasien.
+A: Perawat
+DONE:0
+---
+Q: Aku adalah sebuah penyakit, Aku disebabkan oleh bakteri TBC, Aku menyerang paru-paru dan membuat batuk, Aku bisa menular antar manusia, Aku harus diobati dengan antibiotik, Aku sering disebut TB, Penyakit pernapasan.
+A: TBC
+DONE:0
+---
+Q: Aku adalah alat musik tiup, Aku terbuat dari kuningan atau perak, Aku punya tombol-tombol untuk dimainkan, Suaraku sangat nyaring, Aku sering dipakai dalam orkestra, Aku harus ditiup dengan tenaga, Alat musik tiup bernada tinggi.
+A: Terompet
+DONE:0
+---
+Q: Aku adalah benda yang berharga, Aku bisa berwarna emas, perak, atau perunggu, Aku diberikan sebagai hadiah kejuaraan, Aku adalah simbol kemenangan, Aku sering dipajang di lemari, Aku punya pita untuk digantung, Penghargaan.
+A: Medali
+DONE:0
+---
+Q: Aku adalah tempat bekerja, Aku punya meja dan kursi kantor, Aku sering punya banyak komputer, Aku adalah tempat mencari nafkah, Aku diisi oleh banyak karyawan, Aku adalah markas perusahaan.
+A: Kantor
+DONE:0
+---
+Q: Aku adalah benda yang bulat dan kecil, Aku sering dimainkan oleh anak-anak, Aku bisa dilempar dan ditangkap, Aku terbuat dari karet atau plastik, Aku dipakai dalam banyak olahraga, Aku adalah benda yang memantul.
+A: Bola
+DONE:0
+---
+Q: Aku adalah bagian dari tubuh, Aku dipakai untuk berjalan dan berlari, Aku punya lima jari di ujungku, Aku sering terlindungi oleh sepatu, Aku punya telapak dan tumit, Aku adalah fondasi tubuhmu, Anggota badan paling bawah.
+A: Kaki
+DONE:0
+---
+Q: Aku adalah gerakan yang cepat, Aku punya kecepatan yang sangat tinggi, Aku sering dihubungkan dengan lari, Aku adalah lawan dari lambat, Aku bisa menghemat banyak waktu, Aku adalah waktu yang terbatas, Laju.
+A: Cepat
+DONE:0
+---
+Q: Saya adalah tempat yang sunyi, penuh dengan pahlawan dan penjahat, raja dan budak, yang semuanya diam selamanya. Saya menjaga rahasia kuno yang telah lama terlupakan. Anda harus menggali dalam-dalam untuk menemukan cerita saya. Saya adalah fondasi bagi setiap kehidupan di darat. Siapakah saya?
+A: Bumi
+DONE:0
+---
+Q: Saya memiliki tubuh, tetapi tidak ada organ. Saya memiliki mulut, tetapi tidak pernah berbicara. Saya memeluk cairan panas di musim dingin, dan cairan dingin di musim panas. Saya bisa terbuat dari keramik, kaca, atau logam. Saya adalah teman setia di pagi hari. Siapakah saya?
+A: Cangkir
+DONE:0
+---
+Q: Saya adalah hutan yang penuh dengan tiang dan garis, tetapi tidak ada pohon. Saya hanya memiliki satu penduduk, yaitu laba-laba kecil yang bekerja keras. Saya digunakan untuk menjebak kata-kata dan gambar di atas selembar kertas. Saya membutuhkan tinta untuk berfungsi, dan saya membuat setiap tulisan terlihat rapi. Siapakah saya?
+A: Mesin tik
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda dambakan, tetapi Anda tidak bisa meminumnya, memakainya, atau memakannya. Saya bisa memberi Anda kenyamanan palsu. Saya terlihat seperti emas, tetapi tidak memiliki nilai intrinsik. Saya adalah tujuan bagi banyak orang, dan bagi sebagian orang, saya adalah segalanya. Namun, jika saya hilang, nilai Anda yang sebenarnya akan terungkap. Siapakah saya?
+A: Ketenaran
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda miliki tetapi Anda tidak dapat melihat atau menyentuhnya. Saya bertambah panjang seiring waktu, dan jika Anda mengabaikan saya, saya bisa menjadi beban yang berat. Saya dapat dilunasi secara perlahan, dan seringkali Anda harus bekerja keras untuk mengurangi jumlah saya. Setiap pinjaman atau kesalahan menciptakan saya. Siapakah saya?
+A: Hutang
+DONE:0
+---
+Q: Saya adalah jaringan kabel dan gelombang yang menghubungkan seluruh dunia. Saya dapat mengirimkan berita dan hiburan secara instan. Saya memiliki saluran, tetapi tidak ada air. Saya dapat menampilkan gambar bergerak dari peristiwa yang terjadi ribuan mil jauhnya. Orang-orang menonton saya setiap malam di ruang keluarga mereka. Siapakah saya?
+A: Televisi
+DONE:0
+---
+Q: Saya memiliki kunci, tetapi tidak bisa membuka pintu. Saya memiliki ruang, tetapi tidak ada kamar untuk ditinggali. Orang-orang menyimpan kekayaan dan rahasia mereka di dalam saya. Saya bisa terbuat dari kulit, kain, atau plastik. Saya sering dibawa bepergian, tetapi tujuan saya adalah untuk menampung, bukan untuk berpindah. Siapakah saya?
+A: Dompet
+DONE:0
+---
+Q: Saya tidak punya kaki, tapi saya bergerak. Saya tidak punya tangan, tapi saya bisa memukul pantai. Saya tidak punya mulut, tapi saya selalu bergumam. Saya bisa menenangkan atau menghancurkan. Saya mengisi sebagian besar planet, namun saya tidak bisa diminum oleh banyak orang. Siapakah saya?
+A: Lautan
+DONE:0
+---
+Q:Aku menangkap cahaya dan membekukannya dalam sekejap. Aku mencatat momen-momen yang berlalu, mengubahnya menjadi kenangan abadi. Aku bisa berukuran kecil, menempel di dinding, atau memenuhi album. Orang-orang melihatku dan dapat kembali ke masa lalu. Aku tidak bersuara, tetapi ceritaku sangat keras. Siapakah aku? 
+A: foto
+DONE:0
+---
+Q: Aku punya akar yang bercabang, tetapi aku tidak membutuhkan air atau tanah untuk tumbuh. Aku menjangkau setiap benua, tetapi tidak memiliki batang. Saya penuh dengan informasi, tetapi saya tidak memiliki otak. Saya bisa menjadi tempat terbaik untuk mencari pengetahuan, atau tempat terburuk untuk membuang waktu. Siapakah aku?
+A: Internet
+DONE:0
+---
+Q: Aku adalah kendaraan yang bisa membawa Anda keliling dunia dan melintasi waktu, tetapi aku tidak memiliki roda atau mesin. Aku terbuat dari kertas dan tinta, dan aku berbicara tanpa suara. Setiap perjalanan yang kutawarkan berbeda, dan tiketnya hanyalah imajinasi Anda. Siapakah aku?
+A: Novel
+DONE:0
+---
+Q:Saya adalah kotak besar yang menjaga kebekuan di dalam diri saya, meskipun suhu di luar panas. Saya menyimpan makanan untuk waktu yang lama. Saya membuat minuman Anda tetap dingin. Saya memiliki pintu, tetapi tidak pernah bisa meninggalkan rumah. Ketika saya berhenti bekerja, semua orang panik. Siapakah saya? 
+A: Kulkas
+DONE:0
+---
+Q: Saya tidak punya tangan, tetapi saya bisa melukis seluruh langit dengan warna-warna cerah di pagi dan sore hari. Saya tidak punya mulut, tetapi saya mengumumkan datangnya hari baru. Saya adalah pemandangan paling spektakuler yang Anda lihat setiap hari, tetapi Anda sering mengabaikan saya. Siapakah saya?
+A: matahari
+DONE:0
+---
+Q: Aku adalah hal yang paling berharga yang dimiliki setiap orang, tetapi aku diberikan secara gratis. Setelah hilang, aku tidak akan pernah bisa dikembalikan, tidak peduli seberapa banyak uang yang Anda miliki. Aku tidak bisa disimpan atau dihentikan. Siapakah aku?
+A: Waktu
+DONE:0
+---
+Q: Aku dikelilingi oleh air, tetapi tidak memiliki pantai. Aku seringkali diserang, tetapi tidak ada yang terluka. Aku adalah tempat yang penting bagi kapal dan navigasi. Aku dapat hidup tanpa daratan, tetapi tidak dapat hidup tanpa cahaya. Siapakah aku?
+A: Mecusuar
+DONE:0
+---
+Q: Aku adalah barisan tiang besi di samping jalan raya, selalu berjejer dalam antrian. Aku membawa energi yang tidak terlihat dari satu tempat ke tempat lain, tetapi aku sendiri tidak punya tenaga. Jika aku tumbang, seluruh kota bisa gelap. Siapakah aku?
+A: Tiang Listrik
+DONE:0
+---
+Q: Aku tidak memiliki pita suara, tetapi aku bisa menciptakan melodi yang indah dan kuat. Aku memiliki dawai, tetapi tidak pernah bisa mengikat apa pun. Aku harus dipegang dan dipetik untuk bersuara, dan aku terbuat dari kayu yang telah mati. Siapakah aku?
+A: Gitar
+DONE:0
+---
+Q: Aku adalah tempat yang memiliki banyak ruangan dan lorong, tetapi tidak ada pintu atau dinding permanen. Aku terbuat dari kulit dan tulang. Aku menampung organ paling penting yang membuatmu berpikir. Siapakah aku?
+A: Otak
+DONE:0
+---
+Q: Saya memiliki gunung dan lembah, tetapi tidak ada batu besar. Saya adalah sebuah buku yang terus dicorat-coret setiap hari. Saya dapat menyimpan janji dan rencana Anda. Jika Anda melupakan saya, Anda mungkin melewatkan hal yang sangat penting. Siapakah saya?
+A: Agenda
+DONE:0
+---
+Q: Aku adalah makhluk yang menghabiskan masa mudaku dengan berenang dan harus merangkak ke darat untuk menyelesaikan pertumbuhanku. Aku bernapas melalui insang saat kecil, dan dengan paru-paru saat dewasa. Suaraku sering terdengar saat malam hujan, dan kulitku licin dan dingin. Siapakah aku?
+A: Katak
+DONE:0
+---
+Q: Saya memiliki tubuh yang besar dan berat. Saya sering digerogoti oleh cuaca selama ribuan tahun. Saya adalah sumber batu yang kuat dan tinggi. Anda dapat mendaki saya, tetapi Anda tidak dapat menanam apa pun di puncak saya. Saya adalah simbol keagungan bumi. Siapakah saya?
+A: Gunung Batu
+DONE:0
+---
+Q: Saya adalah selimut putih dan lembut yang menutupi tanah, membuat jalanan menjadi licin dan kota menjadi sunyi. Saya terbuat dari air beku, tetapi tidak dapat diminum. Anak-anak suka membentuk saya menjadi bola atau membuat patung dari saya. Siapakah saya?
+A: Salju
+DONE:0
+---
+Q: Aku adalah bagian dari setiap pohon, tetapi aku tidak memiliki daun. Aku adalah jalanku sendiri untuk mencari air di dalam tanah yang gelap. Aku menahan struktur di tempatnya, mencegahnya roboh. Semakin dalam aku pergi, semakin aman pohon itu. Siapakah aku?
+A: Akar pohon
+DONE:0
+---
+Q: Aku adalah pemandangan yang indah dan penuh warna yang hanya muncul setelah pertengkaran antara matahari dan air. Aku adalah lingkaran agung yang tidak bisa disentuh oleh manusia. Aku adalah pembuktian bahwa cahaya dapat dibagi menjadi spektrum. Siapakah aku?
+A: Pelangi
+DONE:0
+---
+Q: Aku adalah pemandangan yang indah dan penuh warna yang hanya muncul setelah pertengkaran antara matahari dan air. Aku adalah lingkaran agung yang tidak bisa disentuh oleh manusia. Aku adalah pembuktian bahwa cahaya dapat dibagi menjadi spektrum. Siapakah aku?
+A: Sungai
+DONE:0
+---
+Q:Aku adalah permata kecil yang berharga, terbentuk di dalam tubuh makhluk laut. Aku sangat berkilau dan dicari oleh manusia untuk perhiasan. Aku membutuhkan waktu lama untuk terbentuk dan seringkali ditemukan di tempat yang sulit dijangkau. Siapakah aku? 
+A: Mutiara
+DONE:0
+---
+Q: Aku adalah tempat yang sunyi dan luas, penuh dengan pasir dan tanpa air yang jelas. Perjalanan melintasiku bisa mematikan. Aku sangat panas di siang hari dan sangat dingin di malam hari. Aku hanya menampung sedikit kehidupan. Siapakah aku?
+A: Gurun pasir
+DONE:0
+---
+Q: Aku adalah siklus yang tidak pernah berakhir, di mana air jatuh dari langit, mengalir, dan kemudian naik kembali, menghilang menjadi uap. Aku memastikan semua kehidupan di bumi mendapatkan minumannya. Siapakah aku?
+A: Siklus air
+DONE:0
+---
+Q: Aku adalah benda yang Anda temukan di pantai, ditinggalkan oleh laut. Aku memiliki suara yang dapat menenangkan jika Anda menempelkan saya ke telinga Anda, seolah-olah Anda mendengar ombak. Aku terbuat dari kalsium karbonat dan dulunya adalah rumah bagi makhluk hidup. Siapakah aku?
+A: Cangkang kerang
+DONE:0
+---
+Q: Saya adalah tempat yang penuh dengan kamar dan lorong, dapur dan kolam renang. Saya membawa ribuan orang melintasi lautan. Saya tidak memiliki sayap, tetapi saya melakukan perjalanan jauh. Saya adalah hotel raksasa yang tidak pernah berdiri di satu tempat. Siapakah saya?
+A: Kapal pesiar
+DONE:0
+---
+Q: Saya adalah jalan yang panjang dan berliku, terbuat dari aspal atau beton. Saya tidak memiliki kaki, tetapi saya membawa semua mobil dari satu tempat ke tempat lain. Saya memiliki garis-garis yang membagi saya, tetapi saya tidak pernah bertengkar. Saya adalah arteri bagi kota. Siapakah saya?
+A: Jalan raya
+DONE:0
+---
+Q: Saya adalah hal yang Anda kenakan di atas kertas saat Anda tidak memiliki pena. Saya meninggalkan jejak abu-abu yang dapat dihapus dengan mudah jika Anda membuat kesalahan. Saya adalah alat yang Anda gunakan di sekolah. Siapakah saya?
+A: Pensil
+DONE:0
+---
+Q: Saya memiliki tubuh yang kaku dan ramping. Saya sering terbuat dari logam dan berada di dalam laci di dapur Anda. Saya digunakan untuk memindahkan makanan dari piring ke mulut, tetapi saya sendiri tidak pernah makan. Siapakah saya?
+A: Sendok
+DONE:0
+---
+Q: Saya adalah permukaan yang memancarkan cahaya, menunjukkan gambar bergerak, dan menampilkan teks. Saya ada di ponsel Anda, tablet Anda, dan komputer Anda. Anda menyentuh saya untuk berinteraksi dengan dunia digital. Siapakah saya?
+A: Layar
+DONE:0
+---
+Q: Saya adalah wadah yang dipasang di mulut Anda, menangkap getaran suara Anda dan mengubahnya menjadi sinyal listrik. Saya memungkinkan Anda untuk berbicara kepada audiens besar atau ke orang lain melalui sambungan jarak jauh. Siapakah saya?
+A: Mikrofon
+DONE:0
+---
+Q: Saya adalah benda kecil yang sering ditemukan di dinding. Saya dikendalikan dengan satu ketukan. Ketika saya naik, ruangan menjadi terang. Ketika saya turun, ruangan menjadi gelap. Saya menghubungkan listrik. Siapakah saya?
+A: Saklar lampu
+DONE:0
+---
+Q: Saya adalah alat yang digunakan untuk menyatukan dua lembar kertas atau lebih. Saya memiliki mulut yang menggigit dan menggunakan potongan kawat kecil yang tajam. Setelah pekerjaan saya selesai, sulit untuk memisahkan kertas tanpa merobeknya. Siapakah saya?
+A: Stapler
+DONE:0
+---
+Q: Saya adalah hal yang paling ditakuti oleh orang-orang yang berkuasa. Saya tidak memiliki senjata, tetapi saya bisa menjatuhkan kerajaan. Saya menyebar dari mulut ke mulut, di media sosial, dan di koran. Saya adalah kebenaran yang tidak bisa dihentikan. Siapakah saya?
+A: Kebenaran
+DONE:0
+---
+Q: Saya adalah benda kecil dan panjang yang dapat Anda gulung. Saya digunakan untuk mengukur panjang meja, kain, atau tinggi seseorang. Saya memiliki angka-angka yang berjejer dalam satuan sentimeter atau inci. Saya adalah alat wajib bagi tukang kayu dan penjahit. Siapakah saya?
+A: Meteran
+DONE:0
+---
+Q: Saya memiliki tubuh dari kayu atau plastik. Saya memiliki lubang tempat suara keluar, tetapi saya tidak memiliki mulut. Saya terhubung dengan kabel dan menghasilkan musik atau berita. Tanpa saya, suara dari televisi atau ponsel Anda akan terdengar kecil. Siapakah saya?
+A: Speaker
+DONE:0
+---
+Q: Saya adalah benda tajam yang sering digunakan saat sarapan. Saya memotong tanpa menggunakan listrik. Saya memiliki gerigi yang dirancang khusus untuk memotong kulit yang keras tanpa merusak isinya. Saya adalah alat wajib bagi pembuat roti. Siapakah saya?
+A: Pisau roti
+DONE:0
+---
+Q: Saya adalah sebuah benda putih persegi panjang yang Anda peluk setiap malam. Saya menjadi bantal bagi kepala Anda, tetapi saya tidak memiliki tulang. Saya berisi kapas, bulu, atau serat sintetis. Tanpa saya, tidur malam Anda akan tidak nyaman. Siapakah saya?
+A: Bantal
+DONE:0
+---
+Q: Saya tidak punya kaki, tetapi saya berjalan melintasi tubuh Anda, membawa kehidupan dan nutrisi. Saya seperti sungai kecil yang bercabang ke mana-mana. Jika saya tersumbat, seluruh sistem bisa bermasalah. Siapakah saya?
+A: Pembulu darah
+DONE:0
+---
+Q:Saya adalah benda besar, biasanya terbuat dari logam, yang dipasang di atap rumah. Saya digunakan untuk menangkap panas dari matahari. Saya tidak memiliki mesin, tetapi saya dapat memanaskan air di rumah Anda. Siapakah saya? 
+A: Panel surya
+DONE:0
+---
+Q: Saya adalah benda kecil yang bersembunyi di dalam dinding atau di kabel. Saya adalah pengaman terakhir sebelum terjadi masalah. Ketika terlalu banyak daya yang mengalir, saya putus, dan memadamkan listrik di rumah Anda untuk mencegah kebakaran. Siapakah saya?
+A: Sekering
+DONE:0
+---
+Q: Saya adalah alat yang selalu menunjuk ke utara, meskipun saya tidak pernah melihatnya. Saya memiliki jarum magnetik yang tidak pernah lelah. Saya membantu penjelajah agar tidak tersesat. Siapakah saya?
+A: Kompas
+DONE:0
+---
+Q: aya adalah benda kecil yang Anda pasang ke dinding. Saya memiliki tiga lubang yang dipenuhi listrik. Saya menghubungkan perangkat Anda ke daya, tetapi saya tidak pernah menyalakan diri sendiri. Siapakah saya?
+A: Stopkontak
+DONE:0
+---
+Q: Saya adalah benda yang dapat dilipat dan dibuka kembali. Saya dapat memisahkan Anda dari hujan di luar atau dari terik matahari. Saya terbuat dari kain yang direntangkan di atas rangka, dan saya sering disimpan di tas. Siapakah saya?
+A: Payung
+DONE:0
+---
+Q: Saya adalah benda yang dapat dilipat dan dibuka kembali. Saya dapat memisahkan Anda dari hujan di luar atau dari terik matahari. Saya terbuat dari kain yang direntangkan di atas rangka, dan saya sering disimpan di tas. Siapakah saya?
+A: Tipe X
+DONE:0
+---
+Q: Saya adalah alat yang dapat Anda atur, yang mengontrol seberapa panas atau dingin rumah Anda. Saya terbuat dari plastik dan memiliki angka atau layar kecil. Saya tidak menghasilkan panas atau dingin sendiri, tetapi saya memerintahkan mesin besar untuk melakukannya. Siapakah saya?
+A: Termostat
+DONE:0
+---
+Q: Saya adalah benda kecil yang harus Anda nyalakan agar saya bisa berfungsi. Saya menghasilkan cahaya lembut dan bau yang menyenangkan. Saya perlahan-lahan mencair seiring waktu, dan saya membutuhkan sumbu agar tetap hidup. Siapakah saya?
+A Lilin aromaterapi
+DONE:0
+---
+Q: Saya memiliki tubuh dari kawat dan dua lengan kecil. Tugas saya adalah memegang pakaian Anda di udara. Saya tergantung di dalam lemari dan tidak pernah bergerak sendiri, tetapi saya selalu mendukung beban berat. Siapakah saya?
+A: Hanger
+DONE:0
+---
+Q: Saya adalah alat yang Anda gunakan untuk membersihkan rumah. Saya memiliki kepala yang penuh rambut sintetis. Saya dapat membawa air dan sabun dari satu tempat ke tempat lain, dan pekerjaan saya membuat lantai berkilau. Siapakah saya?
+A: Mop
+DONE:0
+---
+Q: Saya adalah sekumpulan huruf dan angka yang harus dijaga kerahasiaannya. Saya adalah pintu gerbang menuju kekayaan digital dan komunikasi pribadi Anda. Jika saya diketahui orang lain, privasi Anda terancam. Siapakah saya?
+A: Kata sandi
+DONE:0
+---
+Q: Saya adalah tempat di mana barang-barang lama dan jarang digunakan berakhir. Saya sering terletak di atas atau di bawah rumah, penuh dengan debu dan kenangan. Orang jarang mengunjungi saya kecuali saat mencari sesuatu yang terlupakan. Siapakah saya?
+A: Gudang
+DONE:0
+---
+Q: Saya adalah benda yang diletakkan di lantai. Saya terbuat dari serat yang nyaman. Saya membantu menjaga kaki Anda tetap hangat dan membuat suara langkah Anda menjadi lebih pelan. Saya harus dibersihkan secara teratur dengan alat hisap. Siapakah saya?
+A: Karpet
+DONE:0
+---
+Q: Saya adalah benda yang harus Anda pasang di wajah Anda untuk melihat dunia dengan jelas. Saya memiliki dua lingkaran kaca yang dibingkai, dan saya sering beristirahat di hidung Anda. Tanpa saya, huruf-huruf di buku bisa menjadi buram. Siapakah saya?
+A: Kacamata
+DONE:0
+---
+Q: Saya adalah alat yang mengeluarkan suara keras di pagi hari, memaksa Anda untuk bangun. Saya memiliki tombol "tunda" yang seringkali menjadi musuh terbaik Anda. Tujuan saya adalah membangunkan orang, tetapi saya tidak memiliki suara. Siapakah saya?
+A: alarm
+DONE:0
+---
+Q: Saya adalah benda kecil, terbuat dari logam, dengan pola bergerigi yang unik. Saya digunakan untuk memutar gembok dan mengizinkan masuk. Tanpa saya, pintu akan tetap tertutup. Saya selalu berpasangan dengan lubang kecil. Siapakah saya?
+A: Kunci
+DONE:0
+---
+Q: Saya adalah barisan huruf, tetapi saya bukanlah kata. Saya mewakili nama dan identitas Anda. Saya sering ditulis di awal surat dan di akhir tanda tangan. Saya adalah hal pertama yang Anda pelajari untuk ditulis. Siapakah saya?
+A: Nama
+DONE:0
+---
+Q: Saya adalah ide yang datang ke pikiran Anda secara tiba-tiba. Saya dapat mengubah dunia, tetapi saya tidak memiliki kekuatan fisik. Saya dapat disebarkan melalui kata-kata, gambar, atau tindakan. Saya seringkali menjadi awal dari inovasi. Siapakah saya?
+A: Ide
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda ucapkan, tetapi jika Anda mengatakannya, Anda tidak melakukannya. Saya adalah lawan dari tidur. Saya dapat ditunda, tetapi tidak dapat dihindari selamanya. Siapakah saya?
+A: Bangun
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda pegang di tangan Anda, tetapi saya tidak memiliki berat. Saya dapat membawa Anda ke masa lalu atau membuat Anda membayangkan masa depan. Saya terbentuk dari kata-kata yang diucapkan dengan indah. Siapakah saya?
+A Cerita
+DONE:0
+---
+Q: Saya memiliki empat huruf, dimulai dengan "B" dan berakhir dengan "H". Saya adalah kebutuhan dasar yang Anda hirup. Tanpa saya, Anda hanya bisa hidup selama beberapa menit. Siapakah saya?
+A: Udara
+DONE:0
+---
+Q: Saya adalah janji yang tak terucapkan untuk bertindak. Saya diucapkan dalam upacara pernikahan dan sumpah. Jika Anda mengingkari saya, reputasi Anda hancur. Saya membutuhkan integritas untuk dipertahankan. Siapakah saya?
+A: Komitmen
+DONE:0
+---
+Q: Saya adalah hal yang membuat setiap orang unik. Saya adalah totalitas dari pemikiran, perasaan, dan perilaku Anda. Saya tidak terlihat, tetapi memengaruhi setiap keputusan yang Anda buat. Siapakah saya?
+A: Kepribadian
+DONE:0
+---
+Q: Saya adalah suatu tindakan yang hanya dapat dilakukan oleh dua orang atau lebih. Saya bisa terjadi dalam keheningan atau dengan banyak suara. Saya bertujuan untuk menyelesaikan konflik atau mencapai kesepakatan. Siapakah saya?
+A: Diskusi
+DONE:0
+---
+Q: Saya adalah konsep yang hanya dapat bertambah, tidak dapat berkurang. Saya disimpan dalam buku, di kepala Anda, atau di internet. Saya diperoleh melalui studi dan pengalaman. Siapakah saya?
+A: Pengetahuan
+DONE:0
+---
+Q: Saya memiliki empat huruf. Saya selalu benar saat ditanyakan, tetapi jika Anda menyebut saya, saya menjadi salah. Siapakah saya?
+A: Ya
+DONE:0
+---
+Q: Saya adalah benda datar, terbuat dari kaca dan logam, yang tergantung di dinding ruang tamu. Saya menayangkan berita, acara, dan film. Saya dulunya memiliki tabung besar, tetapi sekarang saya setipis bingkai foto. Siapakah saya?
+A: Televisi layar datar
+DONE:0
+---
+Q: Saya adalah benda kecil yang harus Anda tancapkan ke port khusus. Saya dapat menyimpan seluruh perpustakaan digital, ribuan foto, dan dokumen. Saya mudah dibawa ke mana-mana dan menjadi cadangan penting. Siapakah saya?
+A: Usb
+DONE:0
+---
+Q: Saya adalah teman setia di kantor. Saya memiliki dua lengan dan satu kepala yang dapat diarahkan ke mana pun Anda bekerja. Saya hanya berfungsi dengan listrik dan membuat tulisan Anda terlihat jelas saat malam hari. Siapakah saya?
+A: Lampu belajar
+DONE:0
+---
+Q: Saya adalah alat yang digunakan untuk memanaskan air dengan cepat. Saya memiliki elemen pemanas di dalamnya dan mati secara otomatis setelah mendidih. Saya sering digunakan untuk membuat kopi atau teh. Siapakah saya?
+A: Ketel listrik
+DONE:0
+---
+Q: Saya adalah perangkat yang dapat mengambil gambar dari dokumen fisik dan mengubahnya menjadi file digital. Saya memiliki penutup kaca besar yang harus Anda buka untuk menempatkan kertas. Saya menghubungkan kantor ke dunia online. Siapakah saya?
+A: Pemindai
+DONE:0
+---
+Q: Saya adalah sistem yang dapat mengirim pesan teks secara instan ke mana saja di dunia. Saya beroperasi melalui jaringan seluler atau internet. Saya adalah bentuk komunikasi yang paling umum saat ini. Siapakah saya?
+A: Sms
+DONE:0
+---
+Q: Saya adalah benda yang Anda injak saat masuk atau keluar dari rumah. Saya terbuat dari bahan kasar dan bertugas membersihkan kotoran dari sepatu Anda. Saya selalu berada di ambang pintu. Siapakah saya? 
+A: Keset kaki
+DONE:0
+---
+Q: Saya adalah benda yang Anda putar untuk mengontrol aliran air. Saya sering terbuat dari logam dan berada di dapur atau kamar mandi. Saya bisa menghasilkan air panas dan dingin. Siapakah saya?
+A: Keran air
+DONE:0
+---
+Q: Saya adalah kendaraan yang membawa ribuan orang di atas dan di bawah tanah. Saya memiliki gerbong yang panjang dan berjalan di atas rel, tetapi saya tidak memiliki lokomotif terpisah. Saya adalah urat nadi kota besar. Siapakah saya?
+A: Kereta bawah tanah
+DONE:0
+---
+Q: : Saya adalah perangkat kecil yang Anda arahkan ke televisi atau perangkat lain. Saya memiliki banyak tombol, tetapi tidak memiliki layar. Saya adalah penguasa semua program dan volume. Siapakah saya?
+A: Remote control
+DONE:0
+---
+Q: Saya adalah sesuatu yang Anda lakukan berulang kali tanpa perlu memikirkannya lagi. Saya dapat menjadi baik atau buruk bagi kesehatan Anda. Saya terbentuk melalui pengulangan tindakan yang konsisten. Siapakah saya?
+A: Kebiasaan
+DONE:0
+---
+Q: Saya adalah lift vertikal yang bergerak cepat. Saya tidak memiliki lantai sendiri dan hanya membawa orang dari satu tingkat ke tingkat lain dalam gedung tinggi. Saya sering transparan. Siapakah saya?
+A: Eskalator
+DONE:0
+---
+Q: Saya adalah lensa yang dapat memperbesar objek kecil sehingga Anda dapat melihatnya dengan lebih jelas. Saya sering digunakan oleh ilmuwan, detektif, atau kolektor perangko. Saya berbentuk bulat dengan pegangan. Siapakah saya?
+A: Kaca pembesar
+DONE:0
+---
+Q: : Saya adalah ruang tertutup yang menjaga makanan pada suhu di bawah titik beku. Saya menyimpan es dan makanan yang harus bertahan lama. Saya adalah bagian dari kulkas besar. Siapakah saya
+A: Frezeer
+DONE:0
+---
+Q: Saya adalah alat yang memiliki banyak tombol putar dan geser. Saya digunakan oleh DJ atau teknisi suara untuk mencampur beberapa sumber audio menjadi satu output. Saya dapat menambah atau mengurangi volume suara. Siapakah saya?
+A: Mixer audio
+DONE:0
+---
+Q: Saya adalah benda yang tergantung di atas wastafel di kamar mandi. Saya terbuat dari bahan tipis dan lembut. Saya digunakan untuk mengeringkan tangan dan wajah Anda setelah dicuci. Siapakah saya?
+A: Handuk
+DONE:0
+---
+Q: Saya adalah alat yang bergerak di bawah kursi Anda. Saya memiliki dua roda yang berputar kencang. Saya membutuhkan energi manusia untuk bergerak maju. Saya adalah cara yang ramah lingkungan untuk berkeliling kota. Siapakah saya?
+A: Sepeda
+DONE:0
+---
+Q:Saya adalah alat yang terbuat dari bahan lembut dan berbulu. Saya digunakan bersama dengan pasta. Tugas saya adalah membersihkan gigi Anda setiap pagi dan malam. Saya harus diganti setiap beberapa bulan. Siapakah saya? 
+A: sikat gigi
+DONE:0
+---
+Q: Saya adalah benda persegi yang seringkali Anda tatap saat duduk di kursi. Saya penuh dengan program dan file. Saya bisa menampilkan warna-warna cerah atau hanya teks sederhana. Saya adalah jendela utama Anda untuk berinteraksi dengan komputer. Siapakah saya?
+A: Monitor komputer
+DONE:0
+---
+Q: Aku adalah sebuah ruang yang tidak memiliki pintu, namun dapat dikunjungi oleh siapa saja tanpa izin. Jika aku sudah penuh, seluruh isiku bisa dikeluarkan melalui sebuah lubang kecil. Aku berisi ide, memori, dan informasi yang bisa disimpan dan diambil sewaktu-waktu. Aku kadang terasa berat ketika terlalu banyak hal yang ada di dalamnya. Siapakah aku?
+A: Otak
+DONE:0
+---
+Q:Aku tidak punya kaki, tapi aku bisa berlari cepat melintasi pegunungan dan lembah, dan suaraku terdengar seperti gemuruh keras. Aku tidak memiliki paru-paru, namun aku memerlukan hembusan angin untuk membentuk diriku. Aku bisa mengisi seluruh wadah besar, namun aku tidak bisa dipegang. Aku adalah sumber kehidupan bagi semua makhluk, tapi jika aku terlalu banyak, aku membawa bencana. Siapakah aku? 
+A: Air Hujan
+DONE:0
+---
+Q: Aku adalah sebuah kain yang jika dicuci dengan air bersih, aku justru akan menjadi lebih kotor. Aku seringkali digunakan untuk menyentuh segala sesuatu yang berminyak dan berdebu. Setelah digunakan, aku tidak dibuang melainkan dicuci agar kotoranku berpindah tempat. Aku adalah alat penting yang digunakan untuk membersihkan mobil, lantai, atau meja. Siapakah aku?
+A: Kain pel
+DONE:0
+---
+Q: Aku tidak hidup, namun aku terus tumbuh setiap hari tanpa diberi makan atau minum. Aku muncul paling jelas saat pagi hari, dan menghilang sepenuhnya saat matahari berada tepat di atas. Aku meniru setiap gerakanmu, namun tidak memiliki wujud fisik yang bisa kamu sentuh. Aku akan menjadi pendek saat kamu berdiri di siang hari, dan sangat panjang saat sore menjelang. Siapakah aku?
+A: Bayangan
+DONE:0
+---
+Q: Banyak yang memeliharaku di dalam sebuah kotak yang terbuat dari kaca, dan aku tidak memerlukan makanan. Aku terlihat cantik dan menarik, dengan berbagai macam warna, namun aku tidak bergerak. Jika aku disentuh dengan tangan yang basah, aku akan kehilangan sebagian besar keindahanku. Aku adalah bagian dari sebuah sistem yang kompleks dan mahal yang ada di rumahmu. Siapakah aku?
+A: Ikan mainan
+DONE:0
+---
+Q: Aku ada di mana-mana di bumi ini, kamu bisa melihatku dan menginjakku setiap hari. Aku terdiri dari triliunan butir kecil yang tidak bisa kamu hitung satu per satu. Aku bisa diolah menjadi benda padat yang digunakan untuk membangun rumah dan gedung. Jika aku dicampur dengan air, aku akan menjadi keras dan tidak bisa lagi kamu pindahkan. Siapakah aku?
+A: Pasir
+DONE:0
+---
+Q: Aku adalah sesuatu yang selalu berjalan maju, dan tidak pernah sekalipun melihat ke belakang. Aku sering diukur menggunakan jam, hari, bulan, dan tahun, dan selalu menjadi acuan. Aku adalah hal paling berharga yang tidak bisa ditimbun atau dihentikan oleh siapa pun. Banyak orang yang menyesal karena menyia-nyiakanku saat aku sedang berjalan. Siapakah aku?
+A: Waktu
+DONE:0
+---
+Q: Aku punya taring yang tajam, tapi aku tidak pernah menggigit atau melukai siapapun yang menggunakanku. Aku membantu banyak orang yang bekerja di kantor, murid sekolah, atau seniman. Jika aku digunakan, ukuran badanku akan terus menyusut dan menghilang secara perlahan. Aku adalah alat yang sering dimasukkan ke dalam tempat pensil yang harus diruncingkan secara berkala. Siapakah aku?
+A: Pensil
+DONE:0
+---
+Q: Aku punya banyak wajah dan karakter, namun aku hanya berupa selembar kertas tipis. Aku sering dibaca oleh banyak orang, dan bisa memberikan kabar baik maupun buruk. Setiap pagi, aku akan diantar ke rumah-rumah untuk memberitahu kejadian hari kemarin. Aku bisa ditemukan di warung kopi atau halte bus untuk menemani menunggu. Siapakah aku? 
+A: Koran
+DONE:0
+---
+Q: Aku adalah benda yang jika kamu letakkan di atas meja, kamu tidak akan bisa melihatku lagi. Meskipun aku ringan, aku bisa menahan beban yang sangat berat dan mencegahnya jatuh. Aku seringkali transparan dan digunakan sebagai pembatas antara dua ruang. Aku harus dibersihkan secara rutin karena bekas sentuhan tangan akan tampak jelas di permukaanku. Siapakah aku?
+A: Kaca
+DONE:0
+---
+Q: Di sebuah kota kecil yang selalu berbenang lalu lintas dan suara, ada sebuah bisikan yang bisa membuat seluruh pasar berhenti sejenak, menyatukan pembeli dan penjual dalam satu topik yang sama walaupun tak ada yang pernah melihat asalnya — apa bisikan itu?
+A: Rumor
+DONE:0
+---
+Q: Bayangkan seseorang yang setiap pagi mengenakan beban tak terlihat yang tidak bisa diukur dengan timbangan tetapi membuat langkahnya terasa berat sampai senja, dan beban itu seringkali mengecil setelah ia berbagi cerita pada teman — apakah beban itu?
+A: Masalah
+DONE:0
+---
+Q: Ada sesuatu yang tinggal di kepala kita, tak dapat dipeluk atau dilihat, bisa datang dalam kilasan ketika mendengar sebuah lagu lama atau melihat foto lama, membuat kita tertawa, menangis, dan tiba-tiba terdiam — apa itu?
+A: Kenangan
+DONE:0
+---
+Q: Seorang anak menahan kata itu di mulutnya selama berminggu-minggu karena malu dan takut, hingga lama-kelamaan kata itu menjadi pahit di hatinya, tetapi ketika ia akhirnya mengucapkannya semuanya menjadi lebih ringan — kata apakah itu?
+A:Maaf 
+DONE:0
+---
+Q: Di tengah kota yang bising dan penuh lampu, ada seseorang yang duduk tenang dan tidak terganggu oleh klakson dan teriakan, karena ia menemukan sesuatu di dalam dirinya yang membuat segala keributan di luar terasa jauh — apakah yang ia temukan?
+A: Ketenangan
+DONE:0
+---
+Q: Bayangkan sebuah benda yang tidak bisa dibeli di toko mana pun namun orang rela mengorbankan waktu, tenaga, dan perhatian untuk memilikinya karena benda itu membuat pertemuan singkat berubah menjadi kenangan hangat yang tak terlupakan — apa benda itu?
+A: Waktu
+DONE:0
+---
+Q: Seorang murid mengumpulkan pelajaran dari kegagalan kecil dan keberhasilan yang tak direncanakan; pelajaran itu tidak akan ditemui sekadar dengan membaca buku atau melihat teori, melainkan lewat terjatuh dan bangkit lagi — apa nama pengalaman berharga ini?
+A: Pengalaman
+DONE:0
+---
+Q: Ketika keraguan menyelinap, sesuatu yang halus seperti bulu dapat terasa menenggelamkan, membuat langkah kecil terasa mustahil, namun ketika keyakinan muncul keraguan itu lenyap seperti kabut di pagi hari — apakah yang dimaksud?
+A: Keraguan
+DONE:0
+---
+Q: Ada sebuah tanda kecil di bibir seseorang yang bisa mengubah suasana ruangan tanpa sepatah kata pun, memberi sinyal bahwa ia ramah, lelah, atau menyembunyikan cerita—tanda apakah itu yang terlihat tanpa suara?
+A: Senyuman
+DONE:0
+---
+Q:Di pasar di mana semua orang sibuk tawar-menawar, ada sebuah kata yang sekali diucapkan bisa meredakan suasana dan membuka banyak pintu peluang — kata apakah itu? 
+A: Terimakasih
+DONE:0
+---
+Q: Seorang penulis menulis surat panjang yang tidak pernah ia kirim; setiap kali ia menulis rasa itu mengecil, dan ketika surat itu ia baca kembali ia tersenyum — apa yang dirasakan penulis itu?
+A: Rindu
+DONE:0
+---
+Q: Ada benda yang tidak pernah tidur, mengamati setiap perubahan di sekitarnya, mencatat jejak waktu tanpa pernah mengeluh — benda apakah itu?
+A: Kalender
+DONE:0
+--- 
+Q: Ketika dua orang berselisih, ada sesuatu kecil yang bisa mereka lakukan untuk memperbaiki semuanya tanpa suara dan tanpa hadiah, hanya dengan gerakan tangan atau tatapan — apa tindakan itu?
+A: Memeluk
+DONE:0
+---
+Q: Seorang anak membuka kotak permainan lama dan menemukan benda kecil yang membuatnya teringat orang yang sudah lama pergi; benda itu tak bernilai uang tetapi membuat mata berkaca-kaca — apa benda itu?
+A: Kenangan
+DONE:0
+---
+Q: Di sebuah stasiun ada peluit yang sekali ditiup memanggil banyak orang untuk berkumpul dan bergerak bersama, barang apa yang berperan seperti peluit dalam hubungan sosial?
+A: Komunikasi
+DONE:0
+---
+Q: Ada hal yang makin sering kamu gunakan, makin cepat ia habis; ia bukan makanan tapi tanpa ia hidup terasa kurang berguna — apa itu?
+A: Energi
+DONE:0
+---
+Q: Sebuah pintu tua yang selalu terbuka untuk orang yang membawa kebaikan, namun terkunci rapat bagi yang hanya mencari keuntungan — pintu apa itu menurutmu?
+A: Hati
+DONE:0
+---
+Q: Seorang guru memberi satu nasihat singkat yang tidak dilupakan murid-muridnya karena nasihat itu mengubah cara mereka melihat kegagalan dan keberhasilan — apa yang mungkin dikatakan guru itu?
+A: Coba lagi
+DONE:0
+---
+Q: Ada suatu hal yang bisa kamu bagi berkali-kali kepada orang lain tanpa semakin berkurang, malah seringkali bertambah ketika dibagi — apa itu?
+A: Kebahagian
+DONE:0
+---
+Q: Seorang pekerja pulang setiap hari membawa sesuatu yang tak terlihat tetapi meninggalkan bekas pada sikap dan pilihan hidupnya—sesuatu yang membuat ia lebih bijak atau lelah tergantung hari—apakah itu?
+A: Setres
+DONE:0
+---
+Q: Ketika badai emosi melanda, ada satu hal sederhana yang sering dipakai orang untuk menenangkan diri: ia tidak menghilangkan masalah tetapi mengubah cara memandangnya — apa itu?
+A: Refleksi
+DONE:0
+---
+Q: Di kantor ada barang kecil yang bisa membuat ide teringat lagi dan lagi; orang memakainya untuk mencatat kilasan gagasan sehingga ide itu tidak menghilang — apa benda itu?
+A: Pena
+DONE:0
+---
+Q: Ada satu jenis keberanian yang tak terlihat di panggung atau medan perang, tetapi ia muncul ketika seseorang memilih untuk jujur pada dirinya sendiri dan ke orang yang disayang — apa keberanian itu?
+A: Kejujuran
+DONE:0
+---
+Q: Ketika dua pilihan sama-sama menarik tetapi hanya satu yang bisa diambil, seringkali yang menentukan bukan logika semata melainkan sesuatu yang lembut dan personal yang membuat hati tenang setelah memilih — apa yang menentukan itu?
+A: Perasaan
+DONE:0
+---
+Q:Di perpustakaan ada satu suara dalam diri yang bertanya "mengapa" setiap kali kamu membaca; suara itu mendorongmu menelaah lebih jauh dan tidak menerima jawaban mudah — suara apakah itu? 
+A: Kritis
+DONE:0
+---
+Q: Sebuah lampu kecil di dalam rumah tidak terlihat dari luar, namun bila dinyalakan, seluruh ruang terasa hangat dan nyaman — lampu apa itu dalam makna hubungan?
+A: Perhatian
+DONE:0
+---
+Q: Jika kau membangun sesuatu dari bata kecil yang konsisten diletakkan tiap hari, akhirnya akan berdiri bangunan kuat; apa "bata kecil" itu dalam konteks perubahan diri?
+A: Kebiasaan
+DONE:0
+---
+Q: Dalam percakapan yang runyam, ada kata sederhana yang bila diucapkan bisa menyelesaikan kebuntuan tanpa perlu debat panjang; kata itu sering disertai kerendahan hati — apa kata itu?
+A: Maaf
+DONE:0
+---
+Q: Seseorang menemukan bahwa ketika ia menulis satu hal baik tentang dirinya di setiap pagi, setelah beberapa minggu cara ia melihat dunia berubah; apa praktik singkat itu?
+A: Jurnal
+DONE:0
+---
+Q: Di pesta kecil, ada satu hal yang bisa membuat orang asing jadi teman dalam hitungan menit tanpa perlu memperkenalkan diri—apa itu?
+A: Humor
+DONE:0
+---
+Q: Seorang petani menanam benih yang tak terlihat di ladangnya setiap hari; benih itu tak butuh air tapi mempengaruhi panennya dalam jangka panjang—apakah benih itu?
+A: Disiplin
+DONE:0
+---
+Q: Ada sebuah kata yang bila diucapkan tepat waktu bisa memutus rasa kehilangan dan membuka pintu harapan baru—kata apakah itu?
+A: Selamat
+DONE:0
+---
+Q: Ketika seseorang memberi sedikit dari miliknya tanpa berharap balasan, sesuatu dalam hati penerima berubah dan hubungan itu menguat—apa yang diberikan itu biasanya?
+A: Waktu
+DONE:0
+---
+Q: Seorang pelajar mendapat nilai buruk lalu belajar perlahan-lahan sampai nilai naik; bukan satu malam yang membuatnya berubah tapi serangkaian malam kecil yang sama—apa yang mengubahnya?
+A: Konsistensi
+DONE:0
+---
+Q: Ada benda yang bila kamu pegang erat-erat ia membuatmu takut untuk melangkah, namun ketika kamu lepaskan perlahan, ia memberi kebebasan untuk tumbuh—apa itu?
+A: Ketergantungan
+DONE:0
+---
+Q: Di meja perundingan, ada hal kecil seperti catatan di pojok kertas yang sering jadi penentu keputusan besar sebab ia menyimpan ide yang tak terdengar—apa benda kecil itu?
+A: Catatan
+DONE:0
+---
+Q: Seseorang menyimpan sesuatu tiap kali berinteraksi dengan orang lain; ia tak terlihat, namun lama-kelamaan membentuk citra yang orang lain lihat—apa yang disimpan itu?
+A: Reputasi
+DONE:0
+---
+Q: Ada suatu kegiatan yang tak butuh biaya, dapat dilakukan kapan saja, dan bisa mengubah suasana hati seseorang dalam hitungan menit—apa kegiatan itu?
+A: Santai
+DONE:0
+---
+Q: Ketika kamu memecahkan satu masalah kecil setiap hari, tiba-tiba masalah besar yang dulu menakutkan terasa lebih mudah dihadapi; apa yang sebenarnya kamu latih?
+A: Kemampuan
+DONE:0
+---
+Q: Di tengah pertengkaran keluarga, benda sederhana seperti secangkir teh bisa menghentikan kemarahan sementara dan membuka ruang bicara—apa fungsi benda itu?
+A: Jembatan
+DONE:0
+---
+Q: Ada kata yang pendek namun bisa mengubah jalannya percakapan dari saling menyalahkan menjadi saling memahami jika diucapkan dengan tulus—kata apa itu?
+A: Maaf
+DONE:0
+---
+Q: Seorang atlet selalu melakukan ritual kecil sebelum latihan; ritual itu bukan tentang keberuntungan melainkan menyiapkan pikirannya untuk fokus—apa nama ritual tersebut dalam istilah mental?
+A: Rutinitas
+DONE:0
+---
+Q: Ketika hujan turun di sore hari, ada bau khas yang membuat orang teringat rumah masa kecilnya; bau apakah itu yang mampu memicu memori mendalam?
+A: Petrichor
+DONE:0
+---
+Q: Jika kamu menaruh sebutir kebaikan di tempat yang tak terlihat setiap hari, lama-lama tempat itu akan penuh dan orang lain ikut merasakan manfaatnya—apa prinsip ini disebut?
+A: Berantai
+DONE:0
+---
+Q: Seorang peneliti mengumpulkan data kecil demi kecil hingga pola muncul; data itu sendiri tampak biasa, tetapi bersama-sama mereka menunjukkan sesuatu penting—apa yang muncul dari kumpulan data itu?
+A: Pola
+DONE:0
+---
+Q: Ada sesuatu yang bisa kamu kirim tanpa paket: ia mudah dibuat tetapi sulit untuk diperbaiki ketika rusak, dan sering menjadi alasan orang menjauh atau dekat—apa itu?
+A: Kepercayaan
+DONE:0
+---
+Q: Di perjalanan panjang, ada satu benda kecil yang selalu menyelamatkan suasana hati saat lelah: benda itu bukan makanan melainkan pengingat sederhana—apa benda itu?
+A: Bingkai 
+DONE:0
+---
+Q: Seorang pemimpin yang baik sering melakukan satu hal setiap hari yang tidak terlihat dalam laporan, namun efeknya terasa dalam tim—apa kebiasaan tak terlihat itu?
+A: Jurnal
+DONE:0
+---Saya adalah sebuah entitas yang selalu dinantikan oleh setiap orang, tetapi saat saya datang, saya langsung menjadi hal yang telah berlalu. Meskipun saya diperkirakan dan direncanakan oleh semua orang, saya tidak pernah benar-benar "tiba" di waktu sekarang ini. Apakah saya?
+Q: Masa depan
+A:
+DONE:0
+---
+Q: Saya adalah alat yang selalu digunakan setelah Anda mandi atau mencuci tangan, dan ironisnya, semakin saya mengeringkan Anda, saya sendiri menjadi makin basah. Meskipun saya bekerja keras menyerap kelembapan dari semua benda, saya pada akhirnya akan terasa berat dan lembap. Apakah saya?
+A: Handuk
+DONE:0
+---
+Q: Saya adalah benda kecil yang memiliki dua sisi yang berseberangan: Kepala dan Ekor, tetapi saya sama sekali tidak punya tubuh dan tidak bisa bergerak sendiri. Meskipun saya sering berpindah dari saku ke laci, saya tetap berada di tempat yang sama saat diperjualbelikan. Apakah saya?
+A: Koin
+DONE:0
+---
+Q: Anda harus mengambil saya secara konstan, detik demi detik, tetapi tidak ada satu pun manusia yang bisa benar-benar menggenggam saya. Saya dapat ditiupkan keluar, tetapi mata Anda tidak bisa menangkap wujud saya. Tanpa saya, kehidupan di Bumi ini akan berhenti sepenuhnya. Apakah saya?
+A: Nafas
+DONE:0
+---
+Q: Saya adalah sesuatu yang tidak terlihat dan tidak berwujud sama sekali, tetapi begitu Anda menyebut atau mengucapkan nama saya dengan keras, saya akan hancur. Saya adalah ruang kosong di antara ucapan dan aktivitas, dan saya membutuhkan ketiadaan suara untuk tetap eksis. Apakah saya?
+A: Keheningan
+DONE:0
+---
+Q: Saya adalah lembaran besar yang menunjukkan banyak sekali tempat di Bumi, saya memiliki nama-nama kota, tetapi di dalamnya tidak ada bangunan rumah. Saya juga menunjukkan pegunungan tinggi, tetapi Anda tidak akan menemukan pohon. Saya bahkan menunjukkan lautan dan sungai, tetapi tidak ada ikan. Apakah saya?
+A: Peta
+DONE:0
+---
+Q: Saya adalah objek di meja Anda yang memiliki serangkaian tombol yang sangat banyak, banyak dari tombol itu bertuliskan kata "kunci," tetapi saya tidak bisa membuka pintu. Meskipun saya memiliki "spasi" dan "enter," saya bukanlah sebuah bangunan. Anda bisa memasukkan ide ke saya, tetapi tidak bisa memasukkan diri Anda. Apakah saya?
+A: Keyboard
+DONE:0
+---
+Q: Saya adalah kebutuhan dasar yang terasa ringan dan sering diabaikan, tetapi meskipun manusia terkuat di dunia mencoba, mereka tidak bisa menahan saya. Setelah seharian penuh aktivitas yang sangat melelahkan, saya menjadi satu-satunya yang dicari untuk mengisi kembali energi. Apakah saya?
+A: Tidur
+DONE:0
+---
+Q: Saya adalah jalur penghubung yang selalu membawa Anda ke atas dan ke bawah, tetapi ironisnya, saya tidak pernah beranjak dari posisi saya di suatu bangunan. Meskipun saya bergerak dan menggerakkan puluhan orang setiap jam, saya tetap tertanam kuat pada tempat saya semula. Apakah saya?
+A: Eskalator
+DONE:0
+---
+Q: Saya adalah sesuatu yang bisa memenuhi seluruh volume ruangan di sekitar Anda, tetapi anehnya, saya tidak mengambil ruang fisik sedikit pun dari ruangan itu. Saya memungkinkan Anda melihat semua yang ada di hadapan Anda dengan jelas, dan ketika saya menghilang, segala sesuatu menjadi gelap gulita. Apakah saya?
+A: Cahaya
+DONE:0
+---
+Q: Saya memiliki satu mata besar, tetapi saya tidak bisa benar-benar melihat apa pun. Saya memiliki kemampuan untuk memperlihatkan dunia kepada banyak orang, dan dunia yang saya tunjukkan adalah dunia yang pernah terjadi di masa lalu. Saya merekam momen, tetapi tidak pernah hidup. Apakah saya?
+A: Kamera
+DONE:0
+---
+Q: Saya sering berjalan mondar-mandir tanpa bergerak dari tempat saya berdiri, dan semakin saya berjalan, semakin saya mengeluarkan keringat yang tidak pernah habis. Saya membantu banyak orang untuk berolahraga dengan keras, dan saya membuat Anda lelah meskipun Anda tetap di tempat. Apakah saya?
+A: Treadmil
+DONE:0
+---
+Q: Saya adalah tempat yang dipenuhi dengan banyak air, tetapi saya tidak memiliki kedalaman. Saya memiliki tepi, tetapi tidak memiliki pantai yang sesungguhnya. Di sana sering terjadi perlombaan, tetapi tidak ada ombak besar yang tercipta. Saya adalah kolam air buatan manusia. Apakah saya?
+A: Kolam
+DONE:0
+---
+Q: Apa yang Anda pegang di tangan, tetapi Anda tidak dapat melihatnya sama sekali? Saya adalah alat komunikasi yang menyalurkan emosi dan informasi. Saya bergerak melalui udara dengan kecepatan yang sangat tinggi. Saya adalah ucapan yang dikirimkan kepada orang lain. Apakah saya?
+A: Suara
+DONE:0
+---
+Q: Saya memiliki leher tetapi tidak memiliki kepala, dan punya lengan tetapi tidak punya tangan. Saya selalu mengenakan pakaian, tetapi saya tidak merasa kedinginan. Saya ada untuk membuat penampilan Anda menjadi lebih baik dan rapi. Saya adalah objek yang membantu Anda dalam berbusana. Apakah saya?
+A: Hanger
+DONE:0
+---
+Q: Saya adalah sesuatu yang dibuat dan dihancurkan oleh setiap orang di dunia ini, dan bagi beberapa orang, saya adalah hal terpenting yang mereka miliki. Meskipun saya terus berjalan maju, saya tidak pernah bisa kembali ke masa lalu. Anda harus mengelolanya dengan baik. Apakah saya?
+A: Waktu
+DONE:0
+---
+Q: Saya seringkali penuh dengan lubang, tetapi saya masih mampu menampung air. Meskipun saya tidak memiliki dasar yang padat dan kuat di bagian bawah, saya tetap bisa digunakan untuk membawa air dari satu tempat ke tempat lain. Saya digunakan untuk menyiram tanaman di kebun. Apakah saya?
+A: Busa
+DONE:0
+---
+Q: Saya adalah makhluk yang semakin besar ketika Anda mengambil sesuatu dari saya. Saya tidak bisa tumbuh dengan cara yang normal seperti makhluk hidup lainnya. Saya menjadi lebih dalam dan lebar setiap kali Anda mengurangi isi di dalamnya. Saya adalah sebuah lubang di tanah. Apakah saya?
+A: Lubang
+DONE:0
+---
+Q: Saya dapat berlari tetapi saya tidak punya kaki, dan saya memiliki mulut tetapi tidak bisa berbicara. Saya tidak haus, tetapi saya selalu membutuhkan air untuk beroperasi. Saya adalah benda yang Anda temukan di dekat banyak rumah. Saya bertugas mengalirkan air ke sungai atau laut. Apakah saya?
+A: Sungai
+DONE:0
+---
+Q: Apa yang bisa melompat setinggi gedung bertingkat tertinggi? Meskipun memiliki kemampuan itu, ia tidak akan terluka atau merasakan sakit. Ia sering ditemukan di tempat yang terang dan ada di setiap rumah. Ini adalah benda kecil yang ada di lantai. Apakah saya?
+A: Bayangan
+DONE:0
+---
+Q: Apa yang Anda letakkan di atas meja, lalu memotong dan membaginya, tetapi anehnya, Anda tidak pernah benar-benar memakannya atau memasukkannya ke mulut? Saya adalah alat bantu yang sangat penting saat ada perayaan atau janji. Saya mewakili sesuatu yang sudah berlalu. Apakah saya?
+A: Remi
+DONE:0
+---
+Q: Saya adalah penemuan yang memungkinkan Anda melihat melalui dinding tebal. Semua orang di dunia ini menggunakannya untuk melihat ke luar ruangan. Meskipun saya tembus pandang, saya tidak dapat bergerak dari tempat saya. Saya menghalangi angin dan hujan tetapi membiarkan cahaya masuk. Apakah saya?
+A: Jendela
+DONE:0
+---
+Q: Apa yang bisa memiliki umur panjang hingga ratusan tahun lamanya, tetapi saya tidak akan pernah mengalami hari ulang tahun atau perayaan. Saya bisa berganti-ganti tangan, dan nilai saya berubah setiap saat. Saya adalah objek yang disimpan di bank. Apakah saya?
+A: Uang
+DONE:0
+---
+Q: Saya selalu mengikuti Anda ke mana pun Anda pergi dengan patuh dan diam, tetapi Anda tidak akan pernah bisa menyentuh saya atau bahkan memegang saya. Saya akan menghilang seketika jika Anda berjalan terlalu cepat atau terlalu dekat. Saya adalah gambar diri yang muncul di permukaan. Apakah saya?
+A: Gema
+DONE:0
+---
+Q: Apa yang selalu penuh dengan gigi tajam, tetapi tidak pernah bisa menggigit apa pun? Saya sering bekerja sangat keras untuk merapikan dan membuat penampilan Anda menarik. Saya adalah benda kecil yang sering dibawa di saku atau tas. Saya digunakan untuk menyisir rambut. Apakah saya?
+A: Sisir
+DONE:0
+---
+Q: Anda bisa memecahkan saya, meskipun Anda tidak pernah menyentuh saya dengan tangan Anda. Banyak orang mencoba keras untuk menjaga saya agar tetap utuh dan rahasia. Jika saya rusak, semua orang akan segera tahu tentang apa yang terjadi. Saya adalah janji untuk merahasiakan sesuatu. Apakah saya?
+A: Rahasia
+DONE:0
+---
+Q: Saya bisa menyentuh Anda, tetapi Anda tidak akan bisa menyentuh saya kembali. Saya hanya dapat dirasakan melalui pori-pori kulit Anda yang terbuka. Meskipun tidak terlihat, semua makhluk hidup pasti bisa merasakan kehadiran saya. Saya bergerak dari satu tempat ke tempat lain tanpa kaki. Apakah saya?
+A: Angin
+DONE:0
+---
+Q: Di siang hari aku hilang tak terlihat, Di malam gelap aku muncul memikat. Bentukku kecil bersinar dari kejauhan, Jumlahku banyak, tak bisa dihitung oleh tangan.
+Apakah aku?
+A: Bintang
+DONE:0
+---
+Q:Selalu berada di jalan, penuh debu dan kerikil tajam, Walau banyak yang melindas, aku tak pernah dendam. Badanku bundar dan hitam pekat, Menemani mobil berlari kencang dari tempat ke tempat.
+Apakah aku? 
+A: Ban Mobil
+DONE:0
+---
+Q: Aku dipakai saat tubuhmu sedang basah, Habis mandi atau setelah main di pantai. Semakin lama dipakai, semakin cepat ia kering, Bentukku persegi panjang, lembut dan ringan.
+Apakah aku?
+A: Handuk
+DONE:0
+---
+Q: Aku adalah benda cair yang tidak berbau, Warnaku merah pekat, membuat jantung berdebar kencang. Mengalir di dalam tubuh semua manusia, Tanpaku, kehidupan pasti akan sirna.
+Apakah aku?
+A: Darah
+DONE:0
+---
+Q: Aku punya leher dan juga perut yang buncit, Tapi tak punya kepala, tangan, atau pun kaki. Isiku selalu dikocok-kocok sebelum dituang, Digunakan saat memasak di atas kompor gas.
+Apakah aku?
+A: Teko
+DONE:0
+---
+Q: Aku datang tanpa diundang, namun selalu dinanti, Kekuatanku membesar saat aku diberi makanan. Jika kau memberiku air, hidupku akan terhenti, Aku tak punya mulut, namun aku bernapas perlahan
+A: Api
+DONE:0
+---
+Q: Aku selalu ada di depan mata, tak pernah berjarak jauh, Tak dapat kau sentuh, walau kau coba menjangka. Takkan pernah bisa kau capai walau kau berlari kencang, Namun semua manusia pasti selalu menuju ke arahku
+A: Masa depan
+DONE:0
+---
+Q: Aku punya gigi tajam di ujung tubuhku yang panjang, Aku menjadi pendek setiap kali diriku dibuang. Semua tulisanku bisa dihapus oleh sebuah teman, Semakin sering dipakai, semakin cepat aku menghilang
+A: Pensil
+DONE:0
+---
+Q: Aku punya sungai tetapi tak berisi air jernih, Aku punya pegunungan, tapi tak ada satu pohon pun di sana. Aku tunjukkan letak kota dan semua garis batas, Aku adalah temanmu untuk tahu di mana kau berada. 
+A: Peta
+DONE:0
+---
+Q: Aku tak punya suara, namun aku menceritakan banyak hal, Aku bisa berdetak, walau aku tak punya jantung. Aku maju terus, tak pernah bisa kau tahan apalagi kau tawar, Bisa kau lihat, namun takkan pernah bisa kau genggam
+A: Jam
+DONE:0
+---
+Q: Aku punya leher, tapi tak punya kepala dan muka, Aku punya tubuh, tapi tak punya lengan atau jari. Aku berdiri di atas kaki, walau tak pernah bisa melangkah, Aku menyimpan minuman untuk temanmu yang sedang haus hati 
+A: Botol
+DONE:0
+---
+Q: Aku selalu jatuh walau aku tak pernah terluka, Aku tak punya sayap, namun aku bisa terbang di angkasa. Aku bisa membuat terang, walau aku tak punya mata, Aku muncul dari uap dan akhirnya jadi air mata.
+A: Hujan
+DONE:0
+---
+Q: Aku punya punuk, namun bukanlah unta yang berjalang, Aku punya mahkota, walau aku bukanlah seorang raja. Aku punya mata, namun aku tak punya penglihatan, Aku adalah buah yang kuning rasanya sangat manja.
+A: Nanas
+DONE:0
+---
+Q: Aku adalah benda yang bisa diangkat, namun beratku tak kurangi, Aku masuk ke rumah, walau aku tak pernah mengetuk pintu. Aku bergerak di bawahmu, dari malam sampai pagi hari, Aku adalah temanmu yang tak bersuara dan setia selalu.
+A: Lantai
+DONE:0
+---
+Q: Aku sangat rapuh, aku hanya perlu kau ucapkan sekali, Jika kau sebut namaku, maka aku akan menghilang tiba-tiba. Aku adalah sebuah keheningan, yang kau cari di siang hari, Aku dibutuhkan saat malam datang dan suasana menjadi hampa
+A: Keheningan
+DONE:0
+---
+Q: Aku bukan angka satu, tetapi selalu ada di awal perhitungan, Aku bukan bilangan positif, tetapi semua orang mengharapkanku. Aku sangat berharga, dan tak ada artinya di setiap pengurangan, Aku adalah ketiadaan, namun aku sering disebut dengan namaku.
+A: Nol
+DONE:0
+---
+Q: Aku adalah hal yang dapat kau genggam, namun tak bisa kau lihat jelas, Semakin kau berikan aku kepada orang, semakin besar aku menjadi. Aku tak bisa dipegang, namun dapat kau rasakan dan kuberi batas, Aku ada di antara dua orang yang saling berbagi janji
+A: Kepercayaan
+DONE:0
+---
+Q: Aku punya banyak lidah, walau aku tak pernah bisa bicara, Aku punya kaki, walau tak pernah bergerak dari tempatku. Aku punya tali, untuk mengikatku di setiap suasana, Aku adalah bagian yang selalu melindungi bagian bawah kakimu.
+A: Sepatu
+DONE:0
+---
+Q: Aku jatuh di air, namun aku tidak pernah basah kuyup, Aku masuk ke dalam mulutmu, tanpa perlu kau gigit dan kunyah. Aku adalah benda kecil, yang terkadang membuat suasana senyap, Aku jatuh dari langit, dan membuat orang harus segera berpindah.
+A: Es batu
+DONE:0
+---
+Q: Aku adalah bagian dari kata "dunia", namun aku tak ada di "alam", Aku ada di "tengah-tengah", tetapi tidak ada di "pinggir". Aku ada di "mahasiswa", tetapi tidak di "dosen" yang diam, Aku bisa membuat "batu" menjadi "satu" jika aku minggir.
+A: Huruf U
+DONE:0
+---
+Q: Aku punya mata yang banyak, namun tak pernah bisa melihat, Aku terbuat dari kayu, namun tak bisa tumbuh jadi pohon. Aku digunakan di dapur, untuk membuat makanan yang sangat lezat, Aku merapikan adonan, agar bentuknya rapi dan tidak miring
+A: Talenan
+DONE:0
+---
+Q: Aku tak punya wujud, namun aku mengikuti ke mana kau pergi, Aku hanya muncul saat terang datang dan membuatku terlihat. Di malam gelap aku lenyap, karena tak ada sinar matahari, Aku selalu ada di sana, walau tak pernah bisa kau ikat.
+A: Bayangan
+DONE:0
+---
+Q: Aku tak terlihat, namun kehadiranku sangat kau rasa, Aku ada di sekitarmu, namun tak bisa kau pegang sekali. Semua makhluk hidup butuh aku untuk bernapas lega, Aku bergerak dari tempat tinggi ke tempat yang lebih rendah sekali.
+A: Angin
+DONE:0
+---
+Q: Jika kau punya aku, kau akan ingin membagiku kepada yang lain, Namun jika kau sudah membagi, maka aku akan menghilang segera. Aku tak bisa kau tunjukkan, hanya bisa kau bisikkan pelan, Aku menjadi lebih kuat saat aku dipegang oleh semua saudara.
+A: Rahasia
+DONE:0
+---
+Q: Aku adalah sesuatu yang selalu menjadi tua, namun tak punya umur, Aku selalu bergerak, namun aku tak punya kaki untuk berjalan. Aku diciptakan manusia, untuk menyimpan peristiwa yang terkubur, Aku adalah jejak masa lalu, yang selalu harus diperhatikan.
+A: Sejarah
+DONE:0
+---
+Q: Aku tidak berjalan, namun aku harus menempuh jalan yang panjang, Aku mengantarkan orang, namun aku tak pernah bisa bicara. Aku punya roda, namun aku tidak punya mesin yang sangat bising, Aku digerakkan oleh kaki, dan membawamu menuju ke mana saja.
+A: Sepeda
+DONE:0
+---
+Q: Aku ada di setiap rumah, walau aku tak pernah terlihat, Aku selalu menjadi basah, walau aku tak pernah mandi. Aku adalah sumber kehidupan, yang selalu harus dihemat, Aku datang dari langit, dan membuat orang merasa bersalah hati.
+A: Air
+DONE:0
+---
+Q: Jika kau balikkan aku, maka nilaiku akan menjadi berkurang, Aku adalah angka yang besar, yang sering disebut di tengah malam. Aku adalah bilangan yang ganjil, dan semua orang harus berjuang, Aku berada di antara sepuluh dan delapan, di mana kau bisa menemukan ketenangan.
+A: Angka sembilan
+DONE:0
+---
+Q: Aku punya banyak jarum, walau tak pernah menjahit pakaian, Aku punya angka-angka yang harus selalu kau ingat. Aku adalah benda bulat, yang selalu berputar tanpa kesepian, Aku menunjukkan waktu, dan membuat orang menjadi taat.
+A: Jam
+DONE:0
+---
+Q: Aku adalah hal yang harus kau rusak, jika ingin kau gunakan, Aku adalah benda rapuh, yang harus selalu kau jaga. Aku adalah sebuah janji, yang harus selalu kau tepati di perpisahan, Aku ada di dalam cangkang yang keras, dan tak mudah terbuka.
+A: Telur
+DONE:0
+---
+Q: Aku adalah hal yang harus kau potong, agar aku menjadi lebih tinggi, Aku adalah benda yang sering dipakai, dan akan menjadi semakin kuat. Aku membuat orang menjadi rapi, dan membuat semua orang mengerti, Aku adalah bagian dari pakaian, yang selalu harus diikat.
+A: Celana
+DONE:0
+---
+Q: Aku berbicara tanpa mulut, namun suaraku bisa didengar semua, Aku punya telinga, namun tak bisa mendengar dengan jelas. Aku menyampaikan kabar, walau aku tak pernah bisa melihat ke sana, Aku ada di dalam surat, yang harus kau kirim dengan ikhlas
+A: Gema
+DONE:0
+---
+Q: Aku akan naik ke atas, walau aku tak punya sayap untuk terbang, Aku tercipta dari air, dan akan hilang saat kau menyentuhku. Aku ada di pagi hari, dan akan hilang saat mentari datang, Aku adalah lapisan embun, yang akan membuatmu merasa rindu.
+A: Embun
+DONE:0
+---
+Q: Aku maju terus, namun tak punya jalan yang harus kuikuti, Aku tak bisa dipegang, namun aku selalu ada di sekitarmu. Semua orang punya aku, dan takkan pernah bisa diganti, Aku adalah hal yang berharga, yang harus kau jaga selalu.
+A: Waktu
+DONE:0
+---
+Q: Jika kau punya aku, kau akan ingin membagi diriku segera, Namun jika kau membagiku, aku akan hilang tak tersisa. Aku adalah berita yang mengejutkan, dan membuat orang terpana, Aku tak terlihat, namun membuat orang harus berkata-kata
+A: Gosip
+DONE:0
+---
+Q: Aku punya tiga mata yang selalu melihat ke berbagai arah, Aku punya kepala besar, namun tak punya otak atau rambut. Aku punya tubuh panjang, yang seringkali membuat suasana meriah, Aku digunakan untuk menyimpan foto, yang selalu disambut.
+A: Lampu lalu lintas
+DONE:0
+---
+Q: Aku punya spasi lebar, namun tak bisa kau duduki untuk rehat, Aku punya kunci-kunci, namun tak bisa membuka pintu rumah. Aku selalu butuh dorongan (shift) agar aku bisa menjadi lebih hebat, Aku adalah alat ketik, yang selalu membuat orang tertawa
+A: Keyboard
+DONE:0
+---
+Q: Aku adalah hal yang harus kau berikan agar orang lain bisa mengambilku, Aku tak bisa kau pegang, walau aku terasa sangat nyata. Aku membuat orang lain menjadi lebih jauh dan sulit menemuiku, Aku adalah bagian yang hilang saat dua orang saling berdebat kata.
+A: Jarak
+DONE:0
+---
+Q: Aku selalu ada di langit saat malam tiba,Cahaya yang aku pancarkan terlihat sangat kecil,Aku berkelip seolah sedang berkedip padamu,Aku adalah benda langit yang sangat jauh,Aku sering dihubungkan dengan harapan dan mimpi,Aku membentuk rasi yang indah,Bukan bulan dan jumlahku tak terhitung.
+A: Bintang
+DONE:0
+---
+Q: Aku terbuat dari tepung yang diolah, Bentukku pipih dan seringkali bundar, Aku bisa diisi daging, keju, atau sayuran, Aku dimasak dengan cara dipanggang di oven, Aku adalah makanan populer dari Italia, Aku dibagi menjadi beberapa irisan segitiga, Makanan cepat saji.
+A: Pizza
+DONE:0
+---
+Q: Aku adalah alat tulis sederhana, Isiku grafit yang diselubungi kayu, Kesalahanku bisa dihapus dengan karet khusus, Aku menjadi semakin pendek saat diraut, Aku sering dipakai oleh anak sekolah, Aku meninggalkan jejak berwarna hitam, Bukan pulpen.
+A: Pensil
+DONE:0
+---
+Q: Aku adalah tempat parkir kendaraan, Aku sering menempel di samping atau belakang rumah, Aku melindungi mobilmu dari hujan dan panas, Aku punya pintu yang bisa dibuka ke atas, Aku bisa terbuat dari kayu atau beton, Aku adalah rumah kecil untuk mobil, Gudang mobil.
+A: Garasi
+DONE:0
+---
+Q: Aku adalah warna yang paling gelap, Aku sering dihubungkan dengan misteri dan malam, Aku adalah lawan dari warna putih, Aku menyerap semua cahaya yang datang, Aku sering dipakai untuk pakaian formal, Aku adalah warna arang atau jelaga, Warna pekat.
+A: Hitam
+DONE:0
+---
+Q: Aku punya roda tapi tidak punya mesin, Aku digerakkan oleh kaki yang mengayuh, Aku punya rantai dan setang untuk dikendalikan, Aku sering dipakai untuk olahraga santai, Aku bisa membawa satu atau dua orang, Aku berbunyi "kring-kring" jika ditekan bel, Kendaraan roda dua.
+A: sepeda
+DONE:0
+---
+Q: Aku adalah hewan peliharaan, Aku bersuara "moo" dan punya tanduk, Aku dikenal sebagai penghasil susu, Aku sering diternak di padang rumput hijau, Aku adalah mamalia herbivora, Aku sering dikorbankan saat Idul Adha, Hewan ternak besar.
+A: Sapi
+DONE:0
+---
+Q: Aku adalah benda bulat yang elastis, Aku bisa ditendang, dilempar, atau dipantulkan, Aku terbuat dari karet yang diisi udara, Aku dipakai dalam banyak jenis olahraga, Aku adalah objek utama dalam permainan, Aku sering dikejar-kejar di lapangan, Mainan.
+A: Bola
+DONE:0
+---
+Q: Aku adalah keadaan emosi yang ekstrem, Aku muncul akibat kehilangan atau kekecewaan besar, Aku membuat seseorang merasa hampa dan sendiri, Aku adalah lawan dari kebahagiaan sejati, Aku sering membutuhkan dukungan dan waktu untuk sembuh, Aku sering dihubungkan dengan duka yang mendalam, Perasaan sedih.
+A: Depresi
+DONE:0
+---
+Q: Aku adalah kondisi yang melampaui waktu, Aku tidak punya awal dan tidak punya akhir, Aku adalah lawan dari kefanaan atau mortalitas, Aku sering dikaitkan dengan makhluk spiritual, Aku adalah sesuatu yang tidak dapat diukur, Aku adalah konsep teologis tentang Tuhan, Keabadian.
+A: Abadi
+DONE:0
+---
+Q: Aku adalah sebuah perjanjian formal dan tertulis, Aku dibuat antara dua pihak atau lebih yang bersepakat, Aku mengikat secara hukum bagi semua pihak yang terlibat, Aku sering dibuat dalam konteks perdagangan atau politik, Aku memerlukan tanda tangan untuk disahkan, Aku adalah dasar dari setiap hubungan bisnis, Perjanjian sah.
+A: Kontrak
+DONE:0
+---
+Q: Aku adalah benda yang sangat keras dan padat,Aku sering digunakan sebagai material bangunan utama,Aku terbuat dari campuran semen, pasir, dan kerikil,Aku butuh waktu lama untuk mengering dan mengeras sempurna,Aku adalah lawan dari kayu dan logam dalam konstruksi,Aku bisa dicetak dalam berbagai bentuk,Material bangunan.
+A: Beton
+DONE:0
+---
+Q: Aku adalah cairan kental yang manis, Aku dihasilkan oleh lebah pekerja di sarang mereka, Aku sering dipakai sebagai obat herbal dan pemanis alami, Warnaku bisa kuning keemasan hingga cokelat gelap, Aku disimpan dalam wadah kaca atau plastik, Aku adalah produk sampingan dari nektar bunga, Nektar lebah.
+A: Madu
+DONE:0
+---
+Q: Aku adalah hasil dari tanaman umbi, Aku sering diolah menjadi keripik renyah, Aku harus dikupas dan digoreng sebelum dimakan, Aku adalah sumber karbohidrat penting, Aku sering jadi pendamping utama hamburger atau steak, Aku punya mata dan tumbuh di dalam tanah, Umbi populer.
+A: Kentang
+DONE:0
+---
+Q: Aku adalah benda yang terbuat dari logam tipis, Aku dipakai untuk mengikat lembaran kertas, Aku punya bentuk spiral atau klip yang melingkar, Aku sering disimpan di dalam stapler khusus, Aku bisa dilepas tanpa merusak kertas, Aku adalah pengikat dokumen kecil, Jepitan kertas.
+A: Klip
+DONE:0
+---
+Q: Aku adalah benda yang sangat lentur dan elastis, Aku dipakai untuk menghapus jejak tulisan pensil, Aku terbuat dari karet yang diolah, Aku akan habis seiring waktu pemakaian, Aku sering berwarna putih atau merah muda, Aku adalah teman setia pensil, Penghapus.
+A: Karet
+DONE:0
+---
+Q: Aku adalah sebuah perasaan yang mendalam, Aku muncul karena kekecewaan atau kehilangan besar, Aku membuat mata seseorang mengeluarkan air, Aku adalah lawan dari sukacita dan tawa, Aku sering diungkapkan dengan tangisan atau isakan, Aku adalah kondisi yang membutuhkan penghiburan, Perasaan duka.
+A: Sedih
+DONE:0
+---
+Q: Aku adalah tempat berlindung, Aku dibuat oleh burung untuk menyimpan telur mereka, Aku tersusun dari ranting, rumput, dan lumpur, Aku sering berada di atas pohon atau di atap rumah, Aku adalah tempat anak burung tumbuh dewasa, Aku adalah hunian sementara bagi unggas, Rumah burung.
+A: Sarang
+DONE:0
+---
+Q: Aku adalah alat musik yang dimainkan dengan tangan, Aku punya senar yang harus dipetik untuk berbunyi, Aku punya leher panjang tempat jari menekan nada, Aku sering dipakai dalam musik akustik dan country, Aku terbuat dari kayu yang berongga, Aku membutuhkan pick untuk suara yang lebih nyaring, Petikan senar.
+A: Gitar
+DONE:0
+---
+Q: Aku adalah sebuah kertas kecil yang ditempel, Aku menunjukkan bahwa biaya pengiriman sudah lunas, Aku punya gambar atau motif yang berbeda-beda, Aku sering diburu oleh para kolektor, Aku dibatalkan dengan cap oleh petugas pos, Aku adalah tanda resmi untuk surat, Tanda lunas.
+A: Perangko
+DONE:0
+---
+Q: Aku adalah benda yang melingkar dan keras, Aku dipakai di jari sebagai aksesoris, Aku sering terbuat dari emas, perak, atau permata, Aku adalah lambang ikatan pernikahan, Aku harus pas di jari manis, Aku sering memiliki ukiran atau nama, Perhiasan jari.
+A: Cincin
+DONE:0
+---
+Q: Aku adalah unit dasar keturunan biologis,Aku membawa instruksi untuk membuat protein tertentu,Aku tersusun dari urutan DNA pada kromosom,Aku menentukan karakteristik dan sifat makhluk hidup,Aku bisa diwariskan dari orang tua ke keturunan,Aku adalah objek studi utama dalam genetika,
+A: Gen
+DONE:0
+---
+Q: Aku adalah studi tentang nilai dan moral, Aku bertanya tentang 'apa yang baik dan apa yang buruk', Aku menuntun tindakan manusia menuju kebenaran, Aku adalah dasar dari hukum dan norma sosial, Aku sering dihubungkan dengan studi tentang etika, Aku adalah panduan untuk bertindak benar, Ilmu moral.
+A: aksiologi
+DONE:0
+---
+Q: Aku adalah kemampuan untuk merasakan secara mendalam, Aku merasakan apa yang dirasakan orang lain seolah itu milikku, Aku adalah kunci untuk hubungan antarmanusia yang baik, Aku bukan sekadar simpati atau kasihan biasa, Aku menuntut pemahaman perspektif yang lain, Aku sering dihubungkan dengan kecerdasan emosional, Rasa senasib.
+A: Empati
+DONE:0
+---
+Q: Aku adalah studi tentang keindahan alam dan seni, Aku adalah cabang filsafat yang membahas persepsi sensoris, Aku mengeksplorasi apa yang membuat sesuatu dihargai, Aku menilai rasa dan selera dalam pengalaman, Aku adalah teori kritis tentang seni, Namaku terdengar sangat halus dan artistik, Teori keindahan.
+A: Estetika
+DONE:0
+---
+Q: Aku adalah rasa hormat yang mendalam dan tulus, Aku adalah pengakuan terhadap nilai atau otoritas seseorang, Aku sering dihubungkan dengan rasa takzim, Aku adalah lawan dari penghinaan atau cemoohan, Aku ditunjukkan melalui tindakan dan ucapan yang sopan, Aku adalah perasaan penghargaan yang tinggi, Penghormatan.
+A: Respek
+DONE:0
+---
+Q: Aku adalah sifat yang terlalu banyak berbicara dan cerewet, Aku sering membuat orang lain merasa jenuh atau bosan, Aku adalah lawan dari pendiam atau hemat bicara, Aku adalah kebiasaan yang sulit dihentikan, Aku sering dihubungkan dengan sifat wanita, Aku sering disebut garrulous, Banyak omong.
+A: Cerewet
+DONE:0
+---
+Q: Aku adalah sebuah studi tentang kata-kata dan asalnya, Aku melacak sejarah perkembangan suatu istilah, Aku menjelaskan bagaimana makna suatu kata berubah, Aku adalah alat penting dalam linguistik sejarah, Aku mengungkap asal usul bahasa, Ilmu asal kata.
+A: Etimologi
+DONE:0
+---
+Q: Aku adalah periode sejarah yang penuh perubahan, Aku ditandai dengan penemuan mesin uap dan mekanisasi, Aku mengubah masyarakat agraris menjadi industri, Aku dimulai sekitar abad ke-18 di Inggris, Aku menyebabkan urbanisasi dan perubahan sosial besar, Aku adalah era yang menciptakan pabrik-pabrik besar, Perubahan besar.
+A: Industri
+DONE:0
+---
+Q: Aku adalah sistem kendali versi yang terdistribusi, Aku dikembangkan oleh Linus Torvalds untuk pengembangan Linux, Aku mencatat setiap perubahan kode secara kronologis, Aku memungkinkan developer untuk bekerja secara paralel, Aku adalah fondasi dari platform seperti GitHub, Aku menggunakan konsep commit dan branch, Manajemen kode.
+A: Git
+DONE:0
+---
+Q: Aku adalah rasa malu yang mendalam dan memalukan, Aku muncul akibat perbuatan yang tidak pantas, Aku sering membuat wajah seseorang memerah, Aku adalah hukuman sosial yang berat, Aku adalah lawan dari kehormatan, Aku mendorong seseorang untuk bersembunyi, Kehinaan diri.
+A: Aib
+DONE:0
+---
+Q: Aku adalah lapisan terluar dari atmosfer bumi, Aku berbatasan langsung dengan ruang angkasa, Suhu di wilayahku sangat bervariasi, Di sini orbit satelit buatan manusia, Aku sering dihubungkan dengan eksosfer, Aku adalah wilayah transisi udara, Lapisan teratas.
+A: Termosfer
+DONE:0
+---
+Q: Aku adalah unit dasar dari kehidupan itu sendiri, Aku punya membran, sitoplasma, dan inti, Aku melakukan semua fungsi biologis vital, Aku bisa menjadi prokariotik atau eukariotik, Aku adalah blok bangunan semua organisme, Aku hanya dapat dilihat dengan mikroskop, Satuan terkecil.
+A: Sel
+DONE:0
+---
+Q: Aku adalah rasa sakit batin yang mendalam, Aku muncul karena kesadaran akan kegagalan, Aku seringkali tak terucapkan dan tersembunyi, Aku adalah pengakuan atas pelanggaran moral, Aku adalah hukuman yang diberikan diri sendiri, Aku mendorong upaya penebusan, Penyesalan hati.
+A: Sesal
+DONE:0
+---
+Q: Aku selalu ada saat kamu merenung, Aku adalah jembatan antara masa lalu dan kemungkinan, Aku tidak nyata namun mendasari semua tindakan, Aku dapat menjadi beban atau motivasi terbesar, Aku sering dihubungkan dengan harapan, Aku adalah domain spekulatif, Waktu yang belum terwujud.
+A: Potensi
+DONE:0
+---
+Q: Aku adalah tempat penyimpanan dokumen fisik, Aku sering menyimpan catatan-catatan penting dari masa lalu, Aku adalah lawan dari perpustakaan yang menyimpan buku, Aku menjaga surat-surat atau file yang sudah usang, Aku harus disusun secara kronologis atau tematik, Aku adalah tempat data sejarah disimpan, Gudang dokumen.
+A: Arsip
+DONE:0
+---
+Q: Makhluk ini selalu muncul ketika cahaya mengenai tubuhmu, mengikuti setiap gerakan tanpa pernah bersuara, kadang memanjang atau mengecil, dan meskipun tampak sederhana, ia selalu setia mendampingi langkahmu di berbagai tempat tanpa pernah benar-benar hilang.
+A: Bayangan
+DONE:0
+---
+Q: Zat tak berwarna dan tak berbau ini memenuhi ruang di sekelilingmu, masuk ke paru-paru setiap detik untuk mempertahankan kehidupan, sangat penting bagi seluruh makhluk hidup, namun keberadaannya jarang dipikirkan meski selalu dibutuhkan.
+A: Oksigen
+DONE:0
+---
+Q: Makhluk kecil ini mampu berjalan di dinding, sering mengeluarkan suara tiba-tiba yang mengejutkan, menjadi tamu tak diundang di rumah, namun membantu manusia dengan memakan serangga kecil yang sering mengganggu kehidupan sehari-hari.
+A: Cicak
+DONE:0
+---
+Q: Tempat luas ini digunakan manusia untuk mencari pengetahuan, bertemu teman, belajar berbagai hal baru, mengikuti kegiatan penting, serta membentuk masa depan melalui proses pendidikan panjang yang berlangsung setiap hari dalam lingkungan yang teratur dan penuh aturan.
+A: Sekolah
+DONE:0
+---
+Q: Lokasi sibuk ini menjadi pusat transaksi, tempat orang membeli kebutuhan, menjual barang, tawar-menawar harga, dan bertemu berbagai pedagang berbeda yang menyediakan banyak pilihan menarik bagi pembeli dari pagi hingga malam hari.
+A: Pasar
+DONE:0
+---
+Q: Makhluk berbulu halus ini memiliki suara khas, berjalan pelan, suka tidur, sering memanjat tempat tinggi, dan mampu menangkap hewan kecil dengan cekatan sehingga membuatnya banyak dipelihara sebagai teman di rumah.
+A: Kucing
+DONE:0
+---
+Q: Minuman segar ini berasal dari daun yang diseduh dengan air panas, memiliki rasa lembut, disajikan hangat atau dingin, dan sering diminum saat berbincang santai bersama teman atau keluarga di waktu luang.
+A: Teh
+DONE:0
+---
+Q: Buah besar berduri ini memiliki aroma khas sangat kuat, daging lembut, rasa manis, dan menjadi makanan favorit bagi sebagian orang meskipun banyak yang tidak menyukai baunya yang menyengat.
+A: Durian
+DONE:0
+---
+Q: Buah renyah berwarna merah atau hijau ini manis segar, mudah dibawa, sering dijadikan camilan sehat, dan memiliki banyak manfaat bagi tubuh karena kandungan vitaminnya yang cukup tinggi.
+A: Apel
+DONE:0
+---
+Q: Buah berair berwarna merah ini sangat menyegarkan, ukurannya besar, memiliki kulit keras, sering dinikmati saat cuaca panas, dan menjadi salah satu pilihan favorit di berbagai acara keluarga.
+A: Semangka
+DONE:0
+---
+Q: Buah kuning ini memiliki rasa asam kuat, banyak digunakan sebagai bumbu atau minuman, kaya vitamin, dan sering dipakai untuk menyegarkan hidangan makanan sehari-hari.
+A: Lemon
+DONE:0
+---
+Q: Pakaian ini digunakan pada tubuh bagian atas, memiliki lengan, tersedia dalam berbagai warna, dan menjadi salah satu jenis busana paling sering dipakai oleh semua orang di seluruh dunia.
+A: Kaos
+DONE:0
+---
+Q: Pakaian panjang ini menutupi sebagian besar tubuh, digunakan perempuan untuk acara santai atau resmi, memiliki berbagai model, dan menjadi bagian fashion penting di banyak budaya.
+A: Dress
+DONE:0
+---
+Q: Tempat ini sering dikunjungi untuk mendapatkan perawatan kesehatan, memeriksa kondisi tubuh, menerima pengobatan, serta menjadi lokasi utama pertolongan pertama ketika seseorang mengalami sakit atau kecelakaan mendadak di kehidupan sehari-hari.
+A: RumahSakit
+DONE:0
+---
+Q: Tempat ini digunakan untuk mengambil uang, menyimpan tabungan, melakukan transaksi penting, dan menjadi pusat layanan keuangan yang membantu masyarakat mengatur kebutuhan ekonomi dalam berbagai situasi kehidupan modern.
+A: Bank
+DONE:0
+---
+Q: Lokasi ini menjadi tempat pelepasan stres, menyaksikan hiburan, sering dikunjungi keluarga, menampilkan berbagai adegan menarik, dan menjadi salah satu aktivitas favorit masyarakat ketika ingin menikmati cerita visual.
+A: Bioskop
+DONE:0
+---
+Q: Lokasi ini memiliki banyak buku, menyediakan tempat belajar tenang, membantu menemukan informasi, dan sering menjadi tempat favorit pelajar untuk membaca tanpa gangguan dari dunia luar.
+A: Perpustakaan
+DONE:0
+---
+Q: Tempat ini menjadi tujuan liburan, memiliki pasir, ombak, angin sejuk, sering dipenuhi wisatawan, dan menjadi salah satu tempat paling menyenangkan untuk bersantai bersama keluarga saat cuaca cerah.
+A: Pantai
+DONE:0
+---
+Q: Tempat tinggi ini disukai pendaki, memiliki udara dingin, pemandangan indah, menantang untuk dinaiki, dan menjadi simbol kekuatan alam serta keteguhan manusia mencapai puncak tujuan.
+A: Gunung
+DONE:0
+---
+Q: Benda ini digunakan untuk mengetahui cuaca, mengukur suhu sekitar, sangat membantu dalam aktivitas luar ruangan, dan menjadi alat sederhana namun penting dalam berbagai penelitian ilmiah.
+A: Termometer
+DONE:0
+---
+Q: Tempat luas ini digunakan untuk olahraga, konser, dan acara besar lainnya, mampu menampung banyak orang, dan menjadi lokasi penting dalam berbagai kegiatan masyarakat skala besar.
+A: Stadion
+DONE:0
+---
+Q: Alat ini digunakan untuk memotong rambut, memiliki bilah halus, menghasilkan potongan rapi, dan menjadi perlengkapan penting dalam pekerjaan seorang penata rambut profesional.
+A: Gunting
+DONE:0
+---
+Q: Aku adalah sesuatu yang selalu bergerak mengikuti perubahan waktu, hadir dalam berbagai bentuk dan nuansa, terkadang membuat orang merasa tenang tetapi juga bisa menimbulkan rasa cemas. Banyak orang menungguku datang, namun tak sedikit pula yang ingin aku berlalu lebih cepat. Siapakah aku?
+A: Malam
+DONE:0
+---
+Q: Aku bergerak mengikuti ritme alam, kadang kuat kadang lemah, dan mampu mengubah bentuk daratan secara perlahan. Lautan selalu menjadi rumahku, dan suaraku sering dianggap menenangkan meski kadang membawa ancaman besar. Apakah aku?
+A: Ombak
+DONE:0
+---
+Q: Aku kecil dan hampir tak terdengar, namun mampu memengaruhi suasana hati seseorang hanya dalam beberapa detik. Aku datang dari gesekan atau getaran, dan setiap orang memiliki seleranya sendiri terhadap diriku. Apakah aku?
+A: Nada
+DONE:0
+---
+Q: Aku bergerak sangat cepat, membawa informasi dari satu tempat ke tempat lain dalam waktu singkat. Meski tak bisa terlihat dengan mata telanjang, keberadaanku telah mengubah cara manusia berkomunikasi. Apakah aku?
+A: Sinyal
+DONE:0
+---
+Q: Aku berasal dari kesunyian dan dapat berubah menjadi sesuatu yang menggetarkan hati. Orang menciptakanku melalui alat atau suara mereka sendiri, menjadikanku hiburan sekaligus bahasa yang bisa dimengerti tanpa kata-kata. Apakah aku?
+A: Musik
+DONE:0
+---
+Q: Aku adalah ruang luas yang menyimpan misteri luar biasa, dipenuhi cahaya dan kegelapan, tempat bintang dan planet muncul tanpa batas. Manusia selalu memandangku dengan rasa penasaran. Apakah aku?
+A: Semesta
+DONE:0
+---
+Q: Aku muncul ketika cahaya dan tetesan kecil bertemu, menghasilkan warna-warni indah di langit setelah badai. Meski hanya sesaat, kehadiranku sering membawa kebahagiaan. Apakah aku?
+A: Pelangi
+DONE:0
+---
+Q: Aku digunakan untuk memahami dunia dengan lebih jelas, memperbesar sesuatu yang kecil atau mendekatkan yang jauh. Tanpaku, banyak penemuan tak akan terjadi. Apakah aku?
+A: Lensa
+DONE:0
+---
+Q: Aku terus tumbuh mengikuti arah cahaya, meninggalkan akar di tanah untuk hidup, menjadi sumber makanan bagi banyak makhluk. Apakah aku?
+A: Tanaman
+DONE:0
+---
+Q: Aku berjalan tanpa kaki, namun dapat mengelilingi dunia dalam sekejap, membawa kisah dari satu tempat ke tempat lain. Apakah aku?
+A: Berita
+DONE:0
+---
+Q: Aku adalah sesuatu yang selalu datang tetapi tak pernah terlihat, membawa perubahan tanpa pernah menyentuh apa pun secara langsung. Semua orang merasakan keberadaanku meski aku tidak berwujud. Apakah aku?
+A: Waktu
+DONE:0
+---
+
+
+
+
+
+
+
+
+
+
 
 
 
