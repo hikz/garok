@@ -1,13 +1,13 @@
 #pragma once
 #include <string>
 #include <cstdlib>
-#include <unistd.h> // sleep (jika butuh delay di main)
+#include <unistd.h> 
 
 using namespace std;
 
 static bool isPlaying = false;
 
-// windows_path: contoh "C:\\\\Users\\\\Public\\\\Music\\\\test.mp3"
+// menjalankan vlc untuk memutar musik di latar belakang
 void play_music(const string &windows_path) {
     if (isPlaying) {
         // Music already playing
@@ -37,7 +37,7 @@ void stop_music() {
         return;
     }
 
-    // Stop-Process -Name 'vlc' -Force -ErrorAction SilentlyContinue
+    // menytop semua proses vlc
     string cmd = "powershell.exe -Command \"Stop-Process -Name 'vlc' -Force -ErrorAction SilentlyContinue\"";
 
     system(cmd.c_str());

@@ -9,9 +9,7 @@
 #include <ncurses.h>
 #include "ui.h"
 #include "anim.h"
-//#include "../assets/art/frames.h"
 #include "music.h"
-
 #include "ascii-art.hpp"
 
 using namespace std; // diminta: supaya kode lebih mudah dibaca
@@ -316,8 +314,8 @@ void runQuizUI(vector<Question> &questions, const string &filename)
                 mvprintw(left_top_h + gap, 2, "Selamaatttt!!!");
                 mvprintw(left_top_h + gap + 1, 2, "Jawabanmu Benar!  >_<");
                 mvprintw(left_top_h + gap + 3, 2, "tekan space....");
-                selamat();
-                stop_music();
+                selamat(); // animasi selamat
+                stop_music(); // stop music setelah animasi 
                 mvprintw(left_top_h + gap + 1, 2, "Ayo Kerjakan soal yang lain!  >_< ");
                 mvprintw(left_top_h + gap + 2, 2, "Tekan apapun...");
 

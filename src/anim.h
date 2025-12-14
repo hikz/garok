@@ -10,7 +10,7 @@
 
 using namespace std;
 
-// --- helper: split multiline frame into lines ---
+// Memecah sebuah string panjang menjadi vector baris
 static vector<string> split_lines(const string &s) {
     vector<string> out;
     string cur;
@@ -34,24 +34,24 @@ void play_frames(vector<string> frames, int frame_count,
     if (fps <= 0) fps = 12;
     int delay_ms = 1000 / fps;
 
-    // non-blocking input so user dapat menekan 'q' untuk stop
-    nodelay(stdscr, TRUE);
-    keypad(stdscr, TRUE);
-    curs_set(0);
+    nodelay(stdscr, TRUE); // non-blocking input
+    keypad(stdscr, TRUE); // enable arrow keys, etc.
+    curs_set(0); // hide cursor
 
     bool running = true;
     while (running) {
         for (int i = 0; i < frame_count; ++i) {
             // cek input untuk stop
             int ch = getch();
-            if (ch == 32) { // ada input
+            if (ch == 32) { // ada input spasi
                 running = false;
                 break;
             }
-            // determine target size/pos
+            // dapatkan ukuran layar
             int rows, cols;
             getmaxyx(stdscr, rows, cols);
 
+            // tentukan ukuran frame
             int w = maxw;
             int h = maxh;
             if (w <= 0) w = cols;
@@ -74,11 +74,10 @@ void play_frames(vector<string> frames, int frame_count,
             // split frame into lines
             vector<string> lines = split_lines(frames[i]);
 
-            // create a temporary window for the frame (so we can box it, etc.)
-            // if you prefer to draw directly on stdscr, you can skip creating window
+            // menampilkan frame
             WINDOW *fw = newwin(h, w, y, x);
             if (!fw) {
-                // fallback: draw directly on stdscr
+                // fallback: langsung ke stdscr
                 werase(stdscr);
                 int padx = 1, pady = 0;
                 int inner_w = w - 2*padx;
@@ -90,15 +89,13 @@ void play_frames(vector<string> frames, int frame_count,
                 }
                 refresh();
             } else {
-                // optional: fill background & border
-                // interior color (pair 2) assumed initialized by caller
-                wbkgd(fw, COLOR_PAIR(2));
-                // draw border (color pair 1 assumed)
-                wattron(fw, COLOR_PAIR(1));
-                box(fw, 0, 0);
-                wattroff(fw, COLOR_PAIR(1));
+                // draw frame window
+                wbkgd(fw, COLOR_PAIR(2)); // interior background (pair 2)
+                wattron(fw, COLOR_PAIR(1)); // warna border (pair 1)
+                box(fw, 0, 0); // draw border
+                wattroff(fw, COLOR_PAIR(1)); // matikan warna border
 
-                // compute inner area (respect a small padding)
+                // print frame content
                 int padx = 1;
                 int pady = 0;
                 int inner_w = w - 2*padx;
@@ -112,11 +109,12 @@ void play_frames(vector<string> frames, int frame_count,
                 }
 
                 wrefresh(fw);
-                // destroy the window so next frame can redraw (keeps memory clean)
+                // hapus window frame setelah selesai
                 delwin(fw);
             }
+            
 
-            // sleep for the frame duration, but still respond to keypresses
+            // sleep dengan pengecekan input setiap 10ms
             int slept = 0;
             while (slept < delay_ms) {
                 std::this_thread::sleep_for(std::chrono::milliseconds(10));
