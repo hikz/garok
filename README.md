@@ -17,8 +17,7 @@ Permainan ini dirancang untuk melatih kognitif dan memberikan hiburan yang menye
 
 ## ✨ Fitur
 
-- ✅ Antarmuka berbasis terminal yang responsif (menggunakan ncurses)
-- ✅ Sistem pertanyaan dinamis dengan berbagai tingkat kesulitan
+- ✅ Antarmuka berbasis terminal yang responsif (menggunakan ncurses
 - ✅ Sistem penilaian untuk melacak performa pemain
 - ✅ ASCII art yang menarik untuk pengalaman visual
 - ✅ Efek audio untuk meningkatkan pengalaman bermain (opsional)
@@ -108,7 +107,6 @@ sudo apt-get install libncurses-dev
 ## 🎨 Fitur Visual
 
 Permainan ini dilengkapi dengan ASCII art yang menarik:
-- Logo GAROK yang keren
 - Karakter pendamping (Arisu, Chibi, Doodle, Dragon)
 - Efek animasi untuk meningkatkan pengalaman pengguna
 
@@ -155,20 +153,15 @@ Bintang terbesar di tata surya kami | Matahari
 
 ---
 
-## 📜 Lisensi
-
-Proyek ini dibuat untuk keperluan pembelajaran (UAS - Universitas).
-
----
-
 ## 👥 Developer
 
-Dibuat dengan ❤️ untuk Game Development dengan C++
+Dibuat dengan ❤️ oleh Hiroba, Tety, Febian
 
 ---
 
 ## 💡 Catatan
 
 Untuk memainkan game ini, Anda harus menggunakan **100% otak Anda** untuk mencapai skor tertinggi! 🧠💪
+
 
 Selamat bermain dan semoga bersenang-senang! 🎮✨
